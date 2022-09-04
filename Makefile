@@ -1,5 +1,5 @@
 generate:
-	python generate.py
+	python build/generate.py
 
 deps:
 	pip install -r requirements.txt
@@ -11,7 +11,13 @@ env:
 clean:
 	rm -rf ./static/*
 
-serve:
-	python serve.py
+theme:
+	cp -r template/theme/css static
+	cp -r template/theme/js static
+	cp -r template/theme/plugins static
+	cp -r assets static
 
-.PHONY: deps generate clean serve
+serve:
+	python build/serve.py
+
+.PHONY: deps generate clean serve theme
