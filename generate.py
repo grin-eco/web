@@ -17,7 +17,6 @@ import dateutil.parser
 
 
 DIVIDER = "#"*80
-BASE_FOLDER = "./static"
 
 # init the jinja stuff
 file_loader = FileSystemLoader("_templates")
@@ -27,9 +26,9 @@ env.add_extension(MarkdownExtension)
 # load the context from the metadata file
 print(DIVIDER)
 print("Loading context")
-context = dict()
 with open('metadata.yml') as f:
     context = yaml.load(f, Loader=yaml.FullLoader)
+    BASE_FOLDER = "./" + context.get("base_folder")
 # store urls for the sitemap.xml
 urls = []
 

@@ -11,4 +11,7 @@ env:
 clean:
 	rm -rf ./static/*
 
-.PHONY: deps generate clean
+serve:
+	python serve.py
+
+.PHONY: deps generate clean serve
