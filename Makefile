@@ -2,7 +2,7 @@ generate:
 	python build/generate.py
 
 deps:
-	pip install -r requirements.txt
+	pip install -r build/requirements.txt
 	mkdir -p static
 
 env:
