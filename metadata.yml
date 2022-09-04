@@ -1,2 +1,18 @@
 base_path: "https://www.grin.eco/"
 base_folder: "static"
+
+navigation:
+- name: Home
+  url: index
+- name: Learn
+  items:
+  - name: Podcasts
+    url: podcasts
+- name: Act
+  items:
+  - name: Projects
+    url: projects
+- name: Share
+  url: share
+- name: About
+  url: about
