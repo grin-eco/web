@@ -1,4 +1,4 @@
-generate:
+generate: theme
 	python build/generate.py
 
 deps:
