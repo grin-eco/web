@@ -3,16 +3,16 @@ base_folder: "static"
 
 navigation:
 - name: Home
-  url: index
+  url: "#index"
 - name: Learn
   items:
   - name: Podcasts
-    url: podcasts
+    url: "#podcasts"
 - name: Act
   items:
   - name: Projects
-    url: projects
+    url: "#projects"
 - name: Share
-  url: share
+  url: "#share"
 - name: About
-  url: about
+  url: "#about"
