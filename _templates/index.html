@@ -42,7 +42,7 @@
                         {% for nav_item in navigation %}
                         {% if "items" not in nav_item %}
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ nav_item.url }}.html">{{ nav_item.name }}</a>
+                            <a class="nav-link" href="{{ nav_item.url }}">{{ nav_item.name }}</a>
                         </li>
                         {% else %}
                         <li class="nav-item dropdown">
@@ -50,7 +50,7 @@
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown{{ nav_item.url }}">
                                 {% for sub_item in nav_item["items"] %}
                                 <li>
-                                    <a class="dropdown-item" href="{{ sub_item.url }}.html">{{ sub_item.name }}</a>
+                                    <a class="dropdown-item" href="{{ sub_item.url }}">{{ sub_item.name }}</a>
                                 </li>
                                 {% endfor %}
                             </ul>
@@ -80,7 +80,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="ps-lg-5 text-center">
-                        <img loading="lazy" decoding="async" src="assets/images/learn.png" class="w-100">
+                        <img loading="lazy" decoding="async" src="assets/images/act.png" class="w-100">
                     </div>
                 </div>
             </div>
@@ -146,12 +146,12 @@
             {% for nav_item in navigation %}
             {% if "items" not in nav_item %}
 						<li class="mb-2">
-              <a href="{{ nav_item.url }}.html">{{ nav_item.name }}</a>
+              <a href="{{ nav_item.url }}">{{ nav_item.name }}</a>
 						</li>
             {% else %}
                 {% for sub_item in nav_item["items"] %}
                 <li class="mb-2">
-                  <a href="{{ sub_item.url }}.html">{{ sub_item.name }}</a>
+                  <a href="{{ sub_item.url }}">{{ sub_item.name }}</a>
                 </li>
                 {% endfor %}
             {% endif %}
