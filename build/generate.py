@@ -34,13 +34,23 @@ for extra in ["podcasts"]:
         extras = yaml.load(f, Loader=yaml.FullLoader)
         extras["podcasts"] = sorted(extras["podcasts"], key=lambda x: x.get("date"), reverse=True)
         context.update(extras)
+
+# preprocess navigation
+
+items = []
+for v in context.get("navigation"):
+    if v.get("url"):
+        items.append(v)
+    for v in v.get("items", []):
+        items.append(v)
+context["navigation_dict"] = { v["name"].lower(): dict(name=v["name"], url=v["url"]) for v in items}
 # store urls for the sitemap.xml
 SITEMAP_URLS = []
 #print(context)
 
 # MAIN PAGES
 print(DIVIDER)
-pages = ["index.html"]
+pages = ["index.html", "podcast.html"]
 print(f"Generating main pages: {pages}")
 for page in pages:
     with open(BASE_FOLDER + "/" + page, "w") as f:

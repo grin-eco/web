@@ -1,0 +1,27 @@
+<!-- PODCAST EPISODE-->
+<div class="col-lg-4 col-md-6" data-aos="fade">
+<article class="blog-post">
+    <div class="post-slider slider-sm rounded">
+    <img
+        loading="lazy"
+        decoding="async"
+        src="{{ podcast.picture_path | default('assets/images/act.png', True) }}" alt=""
+    >
+    </div>
+    <div class="pt-2">
+    <time datetime="{{ podcast.date }}">{{ podcast.date.strftime('%B %d %Y') }}</time>
+    <h2 class="h4">
+        <a
+        class="text-black"
+        href="{{ url }}"
+        >{{ podcast.title }}</a>
+    </h2>
+    <p>{{ podcast.blurb }}</p>
+    <a
+        href="{{ url }}"
+        class="text-primary fw-bold"
+        aria-label="Listen to {{ podcast.title }}"
+    >Listen</a>
+    </div>
+</article>
+</div>
