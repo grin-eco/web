@@ -1,0 +1,144 @@
+Miko Pawlikowski  0:09  
+Hello and welcome to Conf42Cast Episode 7: Teleportation for beginners. My name is Miko Pawlikowski and my guest today is Ev Kontsevoy, the co-founder and CEO at Teleport, which is not his first gig. He was previously the CEO and co-founder at Mailgun and successfully exited selling to Rackspace. Ev, it's great to have you here today. How are you?
+
+Ev Kontsevoy  0:31  
+I'm doing absolutely fine. Just got my second COVID shot. Thank you for having me.
+
+Miko Pawlikowski  0:37  
+That's great. I'm hoping you didn't have too bad of a time. Some of my friends had really bad reaction after the second one.
+
+Ev Kontsevoy  0:43  
+No, I'm absolutely fine.
+
+Miko Pawlikowski  0:45  
+A little bit jealous too. I'm still waiting for my first shot here in UK, but « c'est la vie ». We're starting every one of our guests with a very important question, which is, if you could have any pets at all, what would it be?
+
+Ev Kontsevoy  0:46  
+To me, the most satisfying thing about having pets is training them to do things. I already have a dog, I already have a cat. So the two most popular ones, I have those covered. I would probably just go on Wikipedia or something and find pets that present a unique training challenge. Ideally, something that can be completely like an alien from the outside world. It could do crazy things like in Futurama room with that little thing that could compress food down to black holes. You said anything, so that's really... Yeah, let's do anything, like a pet that produces poop, which is a black hole. That's what I would have. 
+
+Miko Pawlikowski  1:40  
+That was good. For a minute I thought you were gonna go for like a water bear or, you know, an octopus. They're kind of like aliens, but you kind of outdid me there.
+
+Ev Kontsevoy  1:50  
+Real animals, real aliens!
+
+Miko Pawlikowski  1:52  
+So now that we got that out of the way, tell me, what do you love most and what do you hate the most about being a CEO, a serial entrepreneur at Teleport? Spill the beans.
+
+Ev Kontsevoy  2:04  
+It's actually two sides of the same coin. And the coin is uniqueness. It's a very unique job, because it allows you to get away with things that otherwise you wouldn't. For example, I am allowed to be perpetually underqualified for my job, right? Because if you CEO a company and that company is growing quickly, it means that everyday you are effectively not qualified to do what you do. We're 70 people right now. I've never been CEO of 70. So I need to catch up. So every day is basically like interview process for me. And that's hugely stimulating, extremely challenging and exciting. And it just fills your life with emotions in advance. It makes time go slowly. Because a lot of people complain about that. What I don't like about my job, it's the side effect of that, is that because I'm the only person in the company who are in this position it makes it lonely. And a lot of CEOs talk about that. It's not easy to share your kind of personal struggles with people.
+
+Miko Pawlikowski  3:01  
+Okay, so a mix of feelings, quite a lot of that. I think one of the ways that, I'm not sure whom to attribute that to, but like managing your level of incompetence is a skill.
+
+Ev Kontsevoy  3:13  
+I love that! I love that saying.
+
+Miko Pawlikowski  3:16  
+I can imagine then, as you grow, that becomes a very important skill to have. 
+
+Ev Kontsevoy  3:20  
+Absolutely.
+
+Miko Pawlikowski  3:21  
+I appreciate that. Alright, so what's Teleport? Why did you start Teleport?
+
+Ev Kontsevoy  3:26  
+It's maybe better to ask: why something like this needs to exist? And the answer to that is because the state of cloud technology puts us into this permanent security/productivity crisis. Every organization is struggling to find a compromise, a trade-off between how secure they want to be versus how productive they want their engineers to be. Because if you look into cloud technologies that were used today, it's basically a bunch of old stuff from the 90s. Except it's virtualized and kind of stitched together where every server believes that it's the only server that an organization has, right? This is like a user's database. That makes no sense. If we were designing things from scratch today, servers would not rely on having like a list of users that they have. And that same thing is true for databases. For example, every database has its own list of users. And for that reason, if you just count how many endpoints your organization has: databases, Kubernetes clusters, internal dashboards, SSH servers. That inside of Kubernetes people now have pods that also listen to SSH. Every single socket needs basically three things. Engineers need connectivity to it, when they need to, right? Because they need to push code configuration data. Second thing, it needs encryption and authentication. Then it needs authorization. And then finally it needs audit logging, because you need to know what happened for this particular one. And if you started just counting sockets, that you need to do that for a typical organization, you're getting into 1000s very quickly. So that creates the need for something that unifies implementation of those five things: connectivity, encryption, authentication, authorization, audit. So how do you do those five things properly for 1000s of sockets in your company? It's a new class of product and that's what Teleport is. So that's why we decided to build it. The interesting thing is that every tech company that's good, they eventually build something like this internally.
+
+Miko Pawlikowski  5:25  
+Tou're right that with cloud, that's essentially a bunch of old things put together and polished a little bit, look all shiny now. And everything as a service. That always bubbles up one way or another. So, the first time I saw Teleport, I was like, "Okay, so this kind of sounds like a fancy SSH". But it's much more than that. You basically try to get the glue for all kinds of things from databases. Well, including SSH, right? I got that right from your website. To all kinds of Kubernetes, RBAC, and stuff like that. Is that kind of like the idea to unify all of that under a single umbrella, or replace this things?
+
+Ev Kontsevoy  6:04  
+We're all engineers here. I could just say that Teleport is identity-aware access proxy. It's a proxy that is connected to your company's identity, so it authenticates people with SSL. So Teleport gives you this, like login with GitHub, login with Google Apps, login with Active Directory, whatever, functionality. But, once you are authenticated, Teleport uses your identity to give you access for protocols that engineers need. That includes SSH, that includes Kubernetes, things like MySQL PostgreS database, internal HTTPS base. Like web apps, things like grafana dashboards. So once you go through Teleport login process, that all of your command line tools, they get these superpowers. Your SSH suddenly is working properly, your Kubernetes working properly, your database clients working properly. That's what Teleport is. It's basically like SSO for engineers. But for an organization that uses it, on the backend Teleport keeps a detailed audit log of what is going on, who's doing what. So you have visibility into all connections, you have role based access control, and you can export all of that into like Elastic Search and see, for example, which commands people are executing or SQL queries they are running. So it's a perfect compromise. It's not even a compromise, it's a perfect solution. It gives engineers amazing productivity and security people get peace of mind.
+
+Miko Pawlikowski  7:29  
+There's probably a strong correlation between the amount of appetite you have for this kind of solution and how recently you joined a new team or a new organization. When you had to, you know, set up all the things and get access and chase people to give it to you. But then I'm wondering from a perspective of, you know, someone in charge of the security, that's a massive change, right? Each company is growing to build their own thing. And now all of a sudden, you guys come and you're like, "Hey, we've got it better. Replace all the things". Isn't that a little scary? You know, in a certain way, that kind of becomes your single point of failure, right? 
+
+Ev Kontsevoy  8:03  
+Well, you've raised several questions. I could spend 20 minutes answering every single one of them. So let's talk about my favorite one, single point of failure. You actually want that if it comes to security. Except, you have to replace single point of failure with attack surface area. You need to shrink that, you need to make it as small as possible. Let's pick a database, because it's usually extremely valuable thing that needs protection, because it has data, right? How many sockets someone can go through to hack into your database? Well, the obvious one is the database's own socket, right? It listens on something, so someone can gain access to that and then game over. Another one, someone can get SSH access to the machine that database is running on, and then basically do a dump of that file system, whatever, game's over. So then if your database is managed by Kubernetes, you can go through Kubernetes API, and then kind of get into that pod, their storage volume, right? So therefore, if you want your database to be protected, all of those sockets, they need to be configured properly. And they all have some kind of configuration files that govern their behavior. So what do you think is more likely, a human error that leads to misconfiguration with one of those sockets, or something like Teleport that unifies it down to one place, if that thing is going to fail? So this is basically the reason why this technology, and we call it access plane, you know, have a data plane, you have control plane and I have access plane, why this is the best way to implement access. And then going back to single source of failure, like someone can steal something. They can't, because Teleport doesn't actually hold any secrets. Your secret is your identity, right? So for example, if you're a startup and you're just using GitHub identities. Your GitHub has multifactor, it has whatever you want to implement. So in this case, GitHub holds identities of your employees Teleport just issues temporary certificates. So when you're getting access to Teleport, you get a cert for every protocol that you need. And that certificate will expire when you go home. So if your laptop gets stolen, for example, there not gonna be any secrets on it. In other words, there is a well understood industry best practice to implement access. And all Teleport does, it enforces that industry best practice on all of your protocols in one place. So you don't have to hire seven different experts for seven different systems to do them properly.
+
+Miko Pawlikowski  10:31  
+I'm guessing that means that all the master keys are going to go into, like, a vault or something like that?
+
+Ev Kontsevoy  10:38  
+There are no keys, that's the thing. Teleport only operates on certs. And by the way, that Teleport is open source thing. Anyone can go download it. It's a single binary that goes into your server, runs like a Linux daemon or Kubernetes' pod. So Teleport only upgrades and certificates. When you log into Teleport, you get a cert. When your server comes on lines, servers also have identities, so servers get certificates. And all of those certificates, they just expire automatically. There is one component of Teleport that the issues, the certificates, the CA: certificate authority. Certificate authority itself, it's basically a private key, and that thing gets rotated automatically. And yes, you should use some kind of encrypted storage, some encryption at rest. So Teleport can store that private key somewhere. But that component of Teleport is not meant to be accessed directly.
+
+Miko Pawlikowski  11:31  
+That makes a lot of sense, actually. And you mentioned the open source aspect of the company. And this is something that personally interests me a lot, you know, how people come up with this new business models. And especially for something like security, where the ability to actually go and read the code and audit that and see what it does is really good. I mean, obviously, you know, you went with that. So you obviously like the business model. But can you talk a little bit more about the challenges of running, what essentially is, an open source company and the dark side of that? 
+
+Ev Kontsevoy  12:04  
+Dark side of it... First of all, we are not dogmatic about open source. There is definitely certain, ideological sometimes, reason why certain engineers decide to work on open source software. They just believe in creating reality for everyone. And that's absolutely fantastic. But that's not a prerequisite for success. Generally, I would say that we're open source for pragmatic reasons. Were extremely pragmatic. And you nailed it when you said that, if you are in a security space, it's extremely important for smart, like smart organizations will realize it matters, it is important that security researchers can audit your code. And we do something that's really unusual in our space. We hire external security companies to audit our code in the open and we publish security audits regularly. And how many open source products you know that do that. We basically take advantage of the fact that in the security space being open is a major street cred factor. So now back to dark side and why is it challenging. It's maybe challenging if you are an engineer, because every commit, every pull request you see... 
+
+Miko Pawlikowski  13:08  
+Is public.
+
+Ev Kontsevoy  13:09  
+Absolutely, it's public, and people can see your failures. But, as a CEO and founder of the company, I love that. It basically means that team is extremely strong. People who want to work here, they're ambitious engineers. They believe, like "I want to be the best in the world at this. And this is how I show everyone that I am and this is how I learn in the quickest possible way". It's challenging environment. I like to say that I've never seen a product internally and I worked at other places before that had so little technical debt. That's because we open so is it dark side? Is it light side? It's both. It's kind of two sides of the same coin.
+
+Miko Pawlikowski  13:45  
+It can't be overstated how much it means, where you are looking for people to hire, and they can actually go and check out at least the polish portion that's on GitHub and see what they're going to be working on rather than having the surprise after they joined. 
+
+Ev Kontsevoy  14:01  
+Happens all the time. It's insane, especially at larger company. Our engineers, when we interview and if they have a question, what is it they will be working on, we can point them finger: "Look, all the tickets are there, the roadmap is there. You are going to be working on that". And here's the code, here's the build process. You don't even have to be an employee to see how everything works and what you will be doing here.
+
+Miko Pawlikowski  14:25  
+I love that. Speaking of dirty laundry, we always tend to ask our guests about one interesting/haunting/funny bug/outage that they are happy to share with the audience. Doesn't necessarily have to be with the current project. It can be with something else. But I love a good anecdote and have you got one for us?
+
+Ev Kontsevoy  14:48  
+So, you asked me this question before we started recording, and I did my best. I really put a serious effort to trying to remember something but in our space, security acts as compliance. We just cannot afford to have any kind of funny, serious bugs. The amount of QA that we have to go through and automatic testing is just absolutely insane. So, on Teleport side, I honestly cannot remember much. But however, in my career in general, the bug that I just remember to this day, simply because of how many hours it took. So in the beginning of my career, I was working at a company called National Instruments, and I was building a control, a UI component that charts the electric signal. You know, this thing that kind of goes up and down, up and down. It's a plotting as measurement is being made. So this product's purpose was to run 24/7 in factories, like industrial automation space. If there is an assembly line and things that being made and there is an instrument, which is basically a PC, that's showing something. So that's the production environment for that product. And we were testing for memory leaks. So you would leave it running in many, many instances overnight, or over a weekend, and you show up on Monday, see how it goes. So there was a bug that I show up on Monday, and it's blank. It's just not like drawing anything. I check memory, CPU usage, all like a bunch of internal metrics that I was collecting, everything is perfect. And then it works fine. It's just cannot reproduce it for weeks and weeks. But it was blank. And then only about like half a year, I was able to reproduce it again. And then again, I couldn't reproduce it. And customers are complaining about the same too. And then someone, it wasn't even me, noticed that actually all the complaints happen twice a year. And it turned out it was a lifetime savings time switch. So when it was drawing, I was using current time to compute the coordinate where pixels would go. And then suddenly time like jumps by an hour. And it would start basically drawing off screen. So that was like a funny one. And also it was a personal failure. It's never something I've discovered myself. Some other person made the observation.
+
+Miko Pawlikowski  16:51  
+Oh man, I can so relate to this one. Honestly, they should just banish that just for the sake of all this bugs that happen twice a year.
+
+Ev Kontsevoy  16:59  
+Handling time. It's a landmine for developers to handle time properly.
+
+Miko Pawlikowski  17:04  
+Good. Well, I like it. Okay, so since I still got your attention a little bit, and you know, you've touched a little bit on the cloud, and you're obviously deep into securing all of this cloud appliances now. Can you tell me a little bit more about how you see currently, you know, the entire cloud and the cloud security aspect evolving? And what do you think we should look out in the foreseeable future? What do you expect to happen? 
+
+Ev Kontsevoy  17:27  
+You know, I'll give you an answer you probably don't expect, but I think about this all the time. So I would be lying if I said something else. I believe that the cloud, just cloud computing in general. And there are some early signs of that happening already so I'm not bullsh***ing you here. It's going to look like the matrix, exactly like it was in the movie. And the interesting thing about it is they never show you how many servers matrix is running on, or if they're even servers or where they are located. Once you're in, you're in. And then it feels like the entire planet is that one giant multi-tenant computer. And you could just give that giant computer instructions and it will go and execute this instructions. And that's the level of simplicity and, at the same time, power that we should be demanding from our cloud providers. Kubernetes, maybe, is that giving us a glimpse on how it might look like. And all these companies are, for example, struggling. Do we run one giant cluster that is expand across multiple regions? Or do we have a bunch of small, tiny Kubernetes clusters? And they're very practical people giving him practical advice like, "No, you need to have like, more than one and they should be smaller". But I do believe that ultimately, that's where we have. Like things have to get unified into one giant multi-tenant environment. And what I want this company to be, and Teleport as a product, to be the court plus phones, remember? Like in the movie. Because when you're using the matrix, you don't have to log in, like 1000s and 1000s of times into 1000s of different sockets to use all the matrix No, you just stick the coordinate back of your head. So that's what I want Teleport to become once our computing becomes closer to that matrix future. I think it's pretty much inevitable at this point.
+
+Miko Pawlikowski  19:10  
+You know, I've been following the NeuraLink. At least that's over Bluetooth, right? I think so at least you don't have to plug it into your head.
+
+Ev Kontsevoy  19:18  
+Yeah, maybe eventually, we will be competing with that company.
+
+Miko Pawlikowski  19:21  
+"Inevitable", that's what you said. We're going to put that in the transcript. And I'm guessing the serverless that we're seeing right now is also another, a little bit of indication where that's going. With Kubernetes we stopped thinking about nodes that much. And then with serverless layer on top of that, we promise to stop thinking about servers and just start thinking about events and stuff like that. I can see definitely that happening. Hopefully it stays wireless though. Is there any particular technology or language or project, apart from obviously Teleport, that you would recommend watching for 2021 and beyond?
+
+Ev Kontsevoy  19:58  
+So there is one that I have high hopes for. On the surface it sounds basic, but as you believe it has a giant, enormous potential to simplify how you do computing. It's wasum, web assembly. Because we've been on a search of universal runtime that we could use in many different contexts forever. Like Java, back in the day, was supposed to be that like, right once run everywhere. And all these high level languages like Python, and Ruby, they also have their own VMs. So we never realize the benefit of having one VM that makes everyone happy. That could be lightweight enough to run on a tiny device, but at the same time could be powerful enough to run on separate computers. I hope that wasum is a first step towards the direction where we will finally be able to build applications that have no boundaries. Because today, there is just a lot of boundaries that exists between platforms. We either have to resort to inefficiency, like look at Slack. It's not starting, it's booting. Or we have to basically re-implement something many, many times over.
+
+Miko Pawlikowski  21:00  
+If you look today, I'm wondering if the most popular VM on the planet will be like a VA or some kind of JavaScript engine? Or would it be like an actual JVM? Do you think we're going to see wasum overtake this kind of scale anytime soon?
+
+Ev Kontsevoy  21:16  
+Well, it's hard for me to put any prediction forward here, without pissing a bunch of people off. I think we all want to, we definitely do. Even if you look at the web development, frontend development for browser, being able to use any programming language. I believe, if wasum delivers on its potential, we will stop saying "frontend", "backend", it won't matter. Just the fact that today people use these words in the resume as a "backend developer", a "frontend developer". It is silly. The only difference is, like, easier code gets downloaded from one machine to another before running. Or if it's running on the same machine where it's stored on disk, that's really the only difference between the frontend and backend really. But because it's not really true, this is why people pay attention to it and wasum will remove those boundaries. Just imagine a single file at go language or Python, where you put some kind of annotation to a function. And when you say that this function runs here, and this function runs there. And then you just like, it's all becomes an application that simply runs where it needs to run, certain functions will be pushed to the edge. And then we'll run them like, on a CDN pop, right? Others will run on them and user device, others will run next to database, others will run in some random location, because latency doesn't matter. So how would software development change? How much more pleasant that will become and how much simpler things will be? That is why wasum makes it appealing to me, it will change programming languages too, because it will simply allow certain things that today cannot be expressed using native syntax.
+
+Miko Pawlikowski  22:56  
+Let's hope for that. Although I do remember when node.js was exploding in popularity, and everybody was like, "Oh, I can write JavaScript on frontend and on the backend. It's gonna be the same thing". And then next thing you know, you have the new cool framework for frontend JavaScript, and life carries on the way it used to. But yeah, looking forward to seeing more of that. Okay. So before I let you off the hook, I wanted to squeeze a little bit more value for our viewers who are still early in their careers. And who can learn from you. If you were to pick a single highest return on investment thing, it can be anything. It could be a skill invested in, or a course, or something technical that you picked up. The thing that did the most for your career in technology, what would it be?
+
+Ev Kontsevoy  23:47  
+So I will put the obvious thing aside, because it's not universally applicable. So the fact that I moved to the States, it was definitely the biggest factor. Because if you want to be the best in the industry, you need to be working next to other best people in the industry. And that just so happened then, like here in Silicon Valley, it's really easy to work with best people. Because I came from a much smaller town in the middle of Siberia, in Russia. So it wouldn't be possible for me to do that. But putting that aside, if you're a technologist, like myself, it's really comfortable and easy to be immersed in this tech world. And you read technology papers and books, and you play with different machines and languages. But try to get direct visibility into sales as early as possible into your career. It's actually fascinating. I did a little bit of that in the beginning at NI and that opened my eyes to like how technology is actually used. But the most single impactful amazing thing I did was when I joined Rackspace, like few years back, I attached myself temporarily to our enterprise sales team and I was just shadowing them. I would fly with them, meet with customers. And they loved it because sales people always love to have an engineer around, because that person can help them with the deal, answer technical questions. And seeing the full list of considerations, the checkboxes that people go through before adopting a certain solution, certain technologies definitely opens your eyes and frankly, makes your engineering job way more interesting. Because you will have this mental connection to the end user, people who will actually be betting their careers on technology that you built.
+
+Miko Pawlikowski  25:20  
+I respect that. That's definitely good advice. Thank you for sharing that. So for people who would like to now go and play with Teleport, I'm guessing they go to goteleport.com. Is there a free tier? How does one get started with that?
+
+Ev Kontsevoy  25:36  
+So there are two ways you could start playing with Teleport without money changing hands. The obvious one is you go to goteleport.com and you click on Get Teleport, and you see there's download on the left side. So go download the open source version, go through the docs, watch some videos. We definitely try to make it as easy as possible. As I said, it's a single binary daemon that's running, it's easy to get up and running. If you don't even want to do that. But you could go and sign up for a coasted cloud version. So we'll get you the the endpoint you can connect to with a certificate authority behind so you could just add your servers to that thing, and start playing with it. So right now, we are running a promotion where everyone who goes there, you get $500 free credit, which gives you a lot of free usage. So definitely more than enough to decide for yourself if Teleport is suitable to your use case.
+
+Miko Pawlikowski  26:29  
+That sounds pretty generous. Okay, there's no codes or anything like that that's required? You just go...
+
+Ev Kontsevoy  26:35  
+There is, but it will be injected authomatically into the forum if you go today. It's just going on right now, so people will be on that forum for you automatically.
+
+Miko Pawlikowski  26:45  
+I think that's a perfect point to wrap up. Thank you so much. This really has been a pleasure to have you here. Hopefully you guys help with the mess that currently the authentication and the access landscape is in many places, and we wish you all the best luck. 
+
+Ev Kontsevoy  27:04  
+Thank you for having me and thank you for everything else!
+

@@ -6,14 +6,20 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>https://www.conf42.com/</loc>
-  <lastmod>2022-10-16T18:09:04.763904+00:00</lastmod>
+  <lastmod>2022-10-16T18:38:15.305858+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/podcast</loc>
-  <lastmod>2022-10-16T18:09:04.763904+00:00</lastmod>
+  <lastmod>2022-10-16T18:38:15.305858+00:00</lastmod>
   <priority>0.75</priority>
+</url>
+
+<url>
+  <loc>https://www.conf42.com/grincast_ep1_title_of_the_episode</loc>
+  <lastmod>2022-10-16T18:38:15.305858+00:00</lastmod>
+  <priority>0.81</priority>
 </url>
 
 </urlset>
