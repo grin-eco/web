@@ -29,8 +29,13 @@ print("Loading context")
 with open('metadata.yml') as f:
     context = yaml.load(f, Loader=yaml.FullLoader)
     BASE_FOLDER = "./" + context.get("base_folder")
+for extra in ["podcasts"]:
+    with open(f'{extra}.yml', 'r') as f:
+        extras = yaml.load(f, Loader=yaml.FullLoader)
+        context.update(extras)
 # store urls for the sitemap.xml
-urls = []
+SITEMAP_URLS = []
+#print(context)
 
 # MAIN PAGES
 print(DIVIDER)
@@ -41,12 +46,12 @@ for page in ["index.html"]:
         template = env.get_template(page)
         f.write(template.render(page=page, **context))
         if page != "index.html":
-            urls.append((page.replace(".html",""), 0.75))
+            SITEMAP_URLS.append((page.replace(".html",""), 0.75))
 
 # SITEMAP
 print(DIVIDER)
-print("Generating sitemap.xml with %d items" % len(urls))
+print("Generating sitemap.xml with %d items" % len(SITEMAP_URLS))
 now = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc).isoformat()
 with open(BASE_FOLDER + "/sitemap.xml", "w") as f:
     template = env.get_template("sitemap.xml")
-    f.write(template.render(urls=urls, now=now))
+    f.write(template.render(urls=SITEMAP_URLS, now=now))
