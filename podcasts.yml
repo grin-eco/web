@@ -1,0 +1,9 @@
+podcasts:
+
+# TO ADD A NEW PODCAST, ADD AN ENTRYR LIKE THIS ONE:
+- title: "Title of the episode"                             # Title, can be any characters
+  date: 2022-05-05                                          # YYYY-MM-DD
+  picture_path: ./assets/podcasts/episode001.png            # picture to display
+  url: https://youtu.be/XLnX42m5r9A                         # youtube video url
+  transcript: ./assets/podcasts/episode001_transcript.txt   # the file with the transcript from otter.ai
+  short_url: grincast_ep1_title_of_the_episode              # only aphanumeric, -, _ allowed
