@@ -32,6 +32,7 @@ with open('metadata.yml') as f:
 for extra in ["podcasts"]:
     with open(f'{extra}.yml', 'r') as f:
         extras = yaml.load(f, Loader=yaml.FullLoader)
+        extras["podcasts"] = sorted(extras["podcasts"], key=lambda x: x.get("date"), reverse=True)
         context.update(extras)
 # store urls for the sitemap.xml
 SITEMAP_URLS = []

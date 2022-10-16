@@ -132,6 +132,63 @@
         </div>
     </section>
 
+
+    <!-- PODCASTS -->
+    <section class="section pt-4">
+      <div class="container">
+
+        <!-- HEADER -->
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="section-title text-center">
+              <a name="podcast" />
+              <p class="text-primary text-uppercase fw-bold">
+                <a href="#">Grin.eco Podcast</a>
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <!-- LIST -->
+        <div class="row">
+
+          {% for podcast in podcasts[:6] %}
+          {% set url = podcast.short_url %}
+
+          <!-- PODCAST EPISODE-->
+          <div class="col-lg-4 col-md-6" data-aos="fade">
+            <article class="blog-post">
+              <div class="post-slider slider-sm rounded">
+                <img
+                  loading="lazy"
+                  decoding="async"
+                  src="{{ podcast.picture_path | default('assets/images/act.png', True) }}" alt=""
+                >
+              </div>
+              <div class="pt-2">
+                <time datetime="{{ podcast.date }}">{{ podcast.date.strftime('%B %d %Y') }}</time>
+                <h2 class="h4">
+                  <a
+                    class="text-black"
+                    href="{{ url }}"
+                  >{{ podcast.title }}</a>
+                </h2>
+                <p>{{ podcast.blurb }}</p>
+                <a
+                  href="{{ url }}"
+                  class="text-primary fw-bold"
+                  aria-label="Listen to {{ podcast.title }}"
+                >Listen</a>
+              </div>
+            </article>
+          </div>
+
+          {% endfor %}
+
+        </div>
+      </div>
+    </section>
+
     <section class="homepage_tab position-relative">
       <div class="section container">
         <div class="row justify-content-center">

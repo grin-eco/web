@@ -6,8 +6,8 @@ navigation:
   url: "#index"
 - name: Learn
   items:
-  - name: Podcasts
-    url: "#podcasts"
+  - name: Podcast
+    url: "#podcast"
 - name: Act
   items:
   - name: Projects
