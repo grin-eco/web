@@ -39,8 +39,9 @@ SITEMAP_URLS = []
 
 # MAIN PAGES
 print(DIVIDER)
-print("Generating main pages")
-for page in ["index.html"]:
+pages = ["index.html"]
+print(f"Generating main pages: {pages}")
+for page in pages:
     with open(BASE_FOLDER + "/" + page, "w") as f:
         print("Writing out", page)
         template = env.get_template(page)
