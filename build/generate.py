@@ -58,7 +58,6 @@ for extra in ["podcasts"]:
         context.update(extras)
 
 # preprocess navigation
-
 items = []
 for v in context.get("navigation"):
     if v.get("url"):

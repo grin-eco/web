@@ -15,7 +15,7 @@ navigation:
 - name: Share
   url: "#share"
 - name: About
-  url: "#about"
+  url: "index.html#about"
 
 
 headers:
