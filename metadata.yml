@@ -16,3 +16,7 @@ navigation:
   url: "#share"
 - name: About
   url: "#about"
+
+
+headers:
+  podcast: "Grin.eco Podcast"
