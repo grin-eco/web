@@ -46,7 +46,7 @@
     <!-- LIST -->
     <div class="row">
 
-      {% for podcast in podcasts[:6] %}
+      {% for podcast in podcasts[:3] %}
         {% set url = podcast.short_url %}
         {% include "elements/podcast.html" %}
       {% endfor %}
