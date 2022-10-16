@@ -16,6 +16,28 @@ from jinja_markdown import MarkdownExtension
 import dateutil.parser
 
 
+def parse_otter_ai_transcript_file(transcript_path):
+    print("Processing transcript file: %s" % transcript_path)
+    with open(transcript_path, 'r') as f:
+        chapters = f.read().split("\n\n")
+    transcript = []
+    for chapter in chapters:
+        if "Transcribed by" in chapter:
+            continue
+        if not chapter or not ("\n" in chapter):
+            continue
+        header, body = chapter.split("\n", 1)
+        speaker, timestamp = header.split("  ", 1)
+        time_m, time_s = timestamp.split(":")[:2]
+        transcript.append(dict(
+            speaker=speaker,
+            timestamp=timestamp,
+            timestamp_s=(int(time_m)*60 + int(time_s)),
+            body=body,
+        ))
+    return transcript
+
+
 DIVIDER = "#"*80
 
 # init the jinja stuff
@@ -59,6 +81,26 @@ for page in pages:
         f.write(template.render(page=page, **context))
         if page != "index.html":
             SITEMAP_URLS.append((page.replace(".html",""), 0.75))
+
+# PODCAST
+print(DIVIDER)
+print("Generating podcast pages")
+for podcast in context.get("podcasts"):
+
+    podcast["YouTubeId"] = podcast.get("url").split("/")[-1]
+
+    transcript_path = podcast.get("transcript")
+    if not transcript_path:
+        print("No transcript file for: %s" % podcast.get("title"))
+        continue
+
+    podcast["transcript"] = parse_otter_ai_transcript_file(transcript_path)
+
+    # write out the template for the podcast episode
+    with open(BASE_FOLDER + "/" + podcast.get("short_url").replace(".html","") + ".html", "w") as f:
+        template = env.get_template("podcast_episode.html")
+        f.write(template.render(podcast=podcast, **context))
+        SITEMAP_URLS.append((podcast.get("short_url").replace(".html",""), 0.81))
 
 # SITEMAP
 print(DIVIDER)

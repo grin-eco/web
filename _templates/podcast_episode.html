@@ -1,0 +1,53 @@
+{% extends "_base.html" %}
+
+{% block content %}
+
+<!-- PODCAST -->
+<div class="section">
+    <div class="container">
+        <div class="row justify-content-center">
+        <div class="col-lg-10">
+            <div class="mb-5">
+                <h2 class="mb-4" style="line-height:1.5">{{ podcast.title }}</h2>
+                <time datetime="{{ podcast.date }}">{{ podcast.date.strftime('%B %d %Y') }}</time>
+            </div>
+            <div class="content">
+            <!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
+            <style>
+                .videoWrapper {
+                    position: relative;
+                    padding-bottom: 56.25%;
+                    /* 16:9 */
+                    padding-top: 25px;
+                    height: 0;
+                }
+                .videoWrapper iframe {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                }
+            </style>
+            <div class="videoWrapper">
+                <div id="player"></div>
+            </div>
+            <!-- 2. Some funky code to stitch it together -->
+            <script>
+                {% include "elements/podcast.js" %}
+            </script>
+
+            {% for paragraph in podcast.transcript %}
+            <p id="{{ paragraph.timestamp_s }}">
+                <a href="#{{ paragraph.timestamp_s }}" onclick="seek({{paragraph.timestamp_s}});"><i class="fe fe-play"></i> {{paragraph.timestamp}}</a>
+                {{ paragraph.speaker }}
+            </p>
+            <p id="body-{{ paragraph.timestamp_s }}" class="transcript-paragraph">{{ paragraph.body }}</p>
+            {% endfor %}
+            </div>  
+        </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
