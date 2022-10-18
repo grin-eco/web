@@ -1,19 +1,12 @@
 #!/usr/bin/env python3
 
 import datetime
-import pprint
-import csv
-import textwrap
 import re
 import os
 import string
-import sys
-import urllib.parse
-
 import yaml
 from jinja2 import Environment, FileSystemLoader
 from jinja_markdown import MarkdownExtension
-import dateutil.parser
 
 
 def parse_otter_ai_transcript_file(transcript_path):
