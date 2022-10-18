@@ -9,6 +9,13 @@ from jinja2 import Environment, FileSystemLoader
 from jinja_markdown import MarkdownExtension
 
 
+def generate_short_url(url):
+    url = url.replace(" ", "-").replace("_", "-")
+    url = ''.join(filter(lambda x: x in string.printable, url))
+    url = re.sub('[^a-zA-Z0-9]', '-', url)
+    url = re.sub('[-]+', '-', url)
+    return url[:100]
+
 def parse_otter_ai_transcript_file(transcript_path):
     print("Processing transcript file: %s" % transcript_path)
     with open(transcript_path, 'r') as f:
@@ -60,6 +67,7 @@ def parse_book_markdown(lines, book_file):
                 title=current_chapter,
                 content=content,
                 tags=tags,
+                short_url=generate_short_url(current_chapter),
             ))
             current_chapter = line.split(dividers.get("chapter"))[-1]
             content = ""
@@ -72,20 +80,18 @@ def parse_book_markdown(lines, book_file):
         content=content,
         tags=tags,
     ))
+    metadata["short_url"] = metadata.get("short_url") or generate_short_url(metadata.get("title") + "_by_" + metadata.get("author"))
     return dict(
         path=book_file,
+        id=generate_short_url(metadata.get("title")),
         #content=content,
         chapters=chapters,
         **metadata,
     )
 
-def generate_short_url(url):
-    url = url.replace(" ", "_").replace("-", "_")
-    url = ''.join(filter(lambda x: x in string.printable, url))
-    url = re.sub('[\W]+', '', url)
-    return url[:100]
 
 DIVIDER = "#"*80
+SITEMAP_URLS = []
 
 # init the jinja stuff
 file_loader = FileSystemLoader("_templates")
@@ -113,8 +119,8 @@ for v in context.get("navigation"):
     for v in v.get("items", []):
         items.append(v)
 context["navigation_dict"] = { v["name"].lower(): dict(name=v["name"], url=v["url"]) for v in items}
-# store urls for the sitemap.xml
-SITEMAP_URLS = []
+# tags
+context["tags"] = dict()
 
 
 # PODCAST
@@ -150,17 +156,48 @@ for book_file in book_files:
         context["books"].append(parse_book_markdown(content, book_file))
 
 print(DIVIDER)
+print("Processing tags for %d books" % (len(context["books"])))
+for book in context.get("books"):
+    for chapter in book.get("chapters"):
+        for tag in chapter.get("tags"):
+            normalized_tag = tag.lower()
+            existing_tag = context.get("tags").get(tag)
+            entry = dict(
+                book=book,
+                book_id=book.get("id"),
+                chapter=chapter,
+                url=book.get("short_url") + "#" + chapter.get("short_url"),
+                type="book",
+            )
+            if existing_tag:
+                existing_tag.get("refs").append(entry)
+            else:
+                context.get("tags")[tag] = dict(
+                    refs=[entry],
+                    url="tag-"+generate_short_url(normalized_tag),
+                    id=normalized_tag,
+                    name=tag,
+                )
+
+print(DIVIDER)
 print("Generating %d books review pages" % (len(context["books"])))
 for book in context.get("books"):
-    book["short_url"] = book.get("short_url") or generate_short_url(book.get("title") + "_by_" + book.get("author"))
     with open(BASE_FOLDER + "/" + book.get("short_url").replace(".html","") + ".html", "w") as f:
         template = env.get_template("book.html")
         f.write(template.render(book=book, **context))
         SITEMAP_URLS.append((book.get("short_url").replace(".html",""), 0.81))
 
+print(DIVIDER)
+print("Generating %d tag pages" % (len(context["tags"])))
+for tag in context.get("tags").values():
+    with open(BASE_FOLDER + "/" + tag.get("url").replace(".html","") + ".html", "w") as f:
+        template = env.get_template("tag.html")
+        f.write(template.render(tag=tag, **context))
+        SITEMAP_URLS.append((tag.get("url").replace(".html",""), 0.81))
+
 # MAIN PAGES
 print(DIVIDER)
-pages = ["index.html", "podcast.html", "books.html"]
+pages = ["index.html", "podcast.html", "books.html", "tags.html"]
 print(f"Generating main pages: {pages}")
 for page in pages:
     with open(BASE_FOLDER + "/" + page, "w") as f:
