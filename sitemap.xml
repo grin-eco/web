@@ -6,31 +6,31 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>https://www.conf42.com/</loc>
-  <lastmod>2022-10-18T05:32:13.704391+00:00</lastmod>
+  <lastmod>2022-10-18T05:35:48.907618+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 
 <url>
-  <loc>https://www.conf42.com/grincast_ep1_title_of_the_episode</loc>
-  <lastmod>2022-10-18T05:32:13.704391+00:00</lastmod>
+  <loc>https://www.conf42.com/podcast_ep1_title_of_the_episode</loc>
+  <lastmod>2022-10-18T05:35:48.907618+00:00</lastmod>
   <priority>0.81</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/How_Bad_Are_Bananas_The_Carbon_Footprint_of_Everything_by_Mike_Berners_Lee</loc>
-  <lastmod>2022-10-18T05:32:13.704391+00:00</lastmod>
+  <lastmod>2022-10-18T05:35:48.907618+00:00</lastmod>
   <priority>0.81</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/podcast</loc>
-  <lastmod>2022-10-18T05:32:13.704391+00:00</lastmod>
+  <lastmod>2022-10-18T05:35:48.907618+00:00</lastmod>
   <priority>0.75</priority>
 </url>
 
 <url>
   <loc>https://www.conf42.com/books</loc>
-  <lastmod>2022-10-18T05:32:13.704391+00:00</lastmod>
+  <lastmod>2022-10-18T05:35:48.907618+00:00</lastmod>
   <priority>0.75</priority>
 </url>
 
