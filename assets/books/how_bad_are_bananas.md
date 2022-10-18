@@ -38,7 +38,7 @@ Keywords:
 
 [//]: # (tag:carbon)
 [//]: # (tag:carbon footprint)
-[//]: # (tag:CO2E)
+[//]: # (tag:CO2e)
 [//]: # (tag:carbon toe-print)
 [//]: # (tag:direct emissions)
 [//]: # (tag:indirect emissions)
@@ -46,9 +46,9 @@ Keywords:
 
 ## Chapter: Under 10 grams
 
-Spam email messages cause around 20 mln tonnes of CO₂e per year
-Carbon-wise, reusable bags are only better when you reuse them at least 5 times
-Web searches cost 1.3 mln tonnes of CO₂e a year
+* Spam email messages cause around 20 mln tonnes of CO₂e per year
+* Carbon-wise, reusable bags are only better when you reuse them at least 5 times
+* Web searches cost 1.3 mln tonnes of CO₂e a year
 
 You can’t even walk through a door for free anymore… 
 
@@ -122,9 +122,10 @@ Midnight cheese? 250 g of hard cheese equals 12 kg of carrots! When choosing bet
 A night in a hotel could be as much as 60 kg CO₂e. That includes TV, big breakfast and heating. But, if played well, it could also be as little as 3 kg CO₂e, with low-meat breakfast and adjusting your own room temperature.
 
 ## Chapter: 100 kilos to 1 tonne
-When next time travelling from London to Glasgow, try cycling
-A fancy necklace can cost even 400 kg CO₂e
-The new computer lying on your desk already costs a trip by plane from Glasgow to Madrid
+
+* When next time travelling from London to Glasgow, try cycling
+* A fancy necklace can cost even 400 kg CO₂e
+* The new computer lying on your desk already costs a trip by plane from Glasgow to Madrid
 
 It takes 10 hours every day for 5 years for your computer electricity emissions to catch up with its carbon cost of production.
 
@@ -134,7 +135,7 @@ The environment also isn’t a fan of mortgages.
 
 It’s all about looking at other, less intuitive contributors. It’s about offices, the computers inside them, heating, cooling, cleaning and even lunches! It’s about the whole industry that taking a mortgage supports. 
 
-## Chapter 1 tonne to 10 tonnes
+## Chapter: 1 tonne to 10 tonnes
 
 A UK person costs 15 tonnes of CO₂e per year
 A heart bypass operation is an equivalent of 1.1 tonnes CO₂e
