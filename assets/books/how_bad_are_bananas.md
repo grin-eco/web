@@ -25,6 +25,7 @@ The thing about climate change though, is that the choice here is not only yours
 ## A quick guide to carbon & carbon footprints
 
 Keywords:
+
 * Carbon - here, used as a synonym for all greenhouse gases that cause global warming
 * Footprint - here, meaning the impact something has on the harmful emissions
 * Carbon footprint - here, used to estimate the total impact that a certain activity has on the climate
