@@ -161,7 +161,7 @@ print("Generating %d books review pages" % (len(context["books"])))
 for book in context.get("books"):
     book["short_url"] = book.get("short_url") or generate_short_url(book.get("title") + "_by_" + book.get("author"))
     with open(BASE_FOLDER + "/" + book.get("short_url").replace(".html","") + ".html", "w") as f:
-        template = env.get_template("book_item.html")
+        template = env.get_template("book.html")
         f.write(template.render(book=book, **context))
         SITEMAP_URLS.append((book.get("short_url").replace(".html",""), 0.81))
 
