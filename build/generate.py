@@ -48,7 +48,7 @@ def parse_book_markdown(lines, book_file):
     metadata = dict()
     current_chapter = ""
     for line in lines:
-        for tag in ["tag", "title", "author", "summary_author", "short_url", "date"]:
+        for tag in ["tag", "title", "author", "summary_author", "short_url", "date", "picture_path"]:
             txt = f"[//]: # ({tag}:"
             if line.startswith(txt):
                 parsed = line.split(txt)[-1].split(")")[0]
