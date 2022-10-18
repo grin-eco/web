@@ -1,0 +1,11 @@
+podcasts:
+
+- title: "Title of the episode"                             # Title, can be any characters
+  date: 2022-05-05                                          # YYYY-MM-DD
+  picture_path: assets/images/act.png                       # picture to display
+  url: https://youtu.be/MbZ4mHyKJFw                         # youtube video url
+  transcript: ./assets/podcasts/episode001_transcript.txt   # the file with the transcript from otter.ai
+  short_url: podcast_ep1_title_of_the_episode              # only aphanumeric, -, _ allowed
+  blurb: "This is a blurb for episode 1"                    # this will appear in the list views
+
+    

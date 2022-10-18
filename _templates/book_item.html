@@ -1,0 +1,38 @@
+{% extends "_base.html" %}
+
+{% block content %}
+
+<!-- BOOK -->
+<div class="section">
+    <div class="container">
+        <div class="row justify-content-center">
+        <div class="col-lg-10">
+            <div class="mb-5">
+                <h1 id="title">{{ book.title }}</h1>
+                <h3 id="author">by {{ book.author }}</h2>
+                <h4 id="summary_author">summary by {{ book.summary_author }}</h4>
+                <time datetime="{{ book.date }}">{{ book.date.strftime('%B %d %Y') }}</time>
+            </div>
+            <div class="mb-5">
+                <h3 id="toc">Table of Contents</h3>
+                <ul>
+                    {% for chapter in book.chapters %}
+                    <li><a href="#{{ chapter.title | short_url }}">{{ chapter.title }}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="content">
+            {% for chapter in book.chapters %}
+                <h5 id="{{ chapter.title | short_url }}">{{ chapter.title }}</h5>
+                {% markdown %}
+                {{ chapter.content }}
+                {% endmarkdown %}
+                <hr>
+            {% endfor %}
+            </div>  
+        </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}

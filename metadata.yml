@@ -8,6 +8,8 @@ navigation:
   items:
   - name: Podcast
     url: "podcast.html"
+  - name: Books
+    url: "books.html"
 - name: Act
   items:
   - name: Projects

@@ -48,12 +48,14 @@ def parse_book_markdown(lines, book_file):
     metadata = dict()
     current_chapter = ""
     for line in lines:
-        for tag in ["tag", "title", "author", "short_url"]:
+        for tag in ["tag", "title", "author", "summary_author", "short_url", "date"]:
             txt = f"[//]: # ({tag}:"
             if line.startswith(txt):
                 parsed = line.split(txt)[-1].split(")")[0]
                 if tag == "tag":
                     tags.append(parsed)
+                elif tag == "date":
+                    metadata[tag] = datetime.datetime.strptime(parsed, "%Y-%m-%d").date()
                 else:
                     metadata[tag] = parsed
                 continue
@@ -81,9 +83,14 @@ def parse_book_markdown(lines, book_file):
         path=book_file,
         #content=content,
         chapters=chapters,
-        metadata=metadata,
+        **metadata,
     )
 
+def generate_short_url(url):
+    url = url.replace(" ", "_").replace("-", "_")
+    url = ''.join(filter(lambda x: x in string.printable, url))
+    url = re.sub('[\W]+', '', url)
+    return url[:100]
 
 DIVIDER = "#"*80
 
@@ -91,6 +98,7 @@ DIVIDER = "#"*80
 file_loader = FileSystemLoader("_templates")
 env = Environment(loader=file_loader)
 env.add_extension(MarkdownExtension)
+env.filters["short_url"] = generate_short_url
 
 # load the context from the metadata file
 print(DIVIDER)
@@ -114,19 +122,7 @@ for v in context.get("navigation"):
 context["navigation_dict"] = { v["name"].lower(): dict(name=v["name"], url=v["url"]) for v in items}
 # store urls for the sitemap.xml
 SITEMAP_URLS = []
-#print(context)
 
-# MAIN PAGES
-print(DIVIDER)
-pages = ["index.html", "podcast.html"]
-print(f"Generating main pages: {pages}")
-for page in pages:
-    with open(BASE_FOLDER + "/" + page, "w") as f:
-        print("Writing out", page)
-        template = env.get_template(page)
-        f.write(template.render(page=page, **context))
-        if page != "index.html":
-            SITEMAP_URLS.append((page.replace(".html",""), 0.75))
 
 # PODCAST
 print(DIVIDER)
@@ -149,18 +145,37 @@ for podcast in context.get("podcasts"):
         SITEMAP_URLS.append((podcast.get("short_url").replace(".html",""), 0.81))
 
 # BOOKS
-print(DIVIDER)
-print("Generating books review pages")
 book_files = []
 for root, dirs, files in os.walk("./assets/books"):
     for file in files:
         book_files.append(os.path.join(root, file))
-books = []
+
+context["books"] = []
 for book_file in book_files:
     with open(book_file, "r") as f:
         content = f.readlines()
-        books.append(parse_book_markdown(content, book_file))
-print(books)
+        context["books"].append(parse_book_markdown(content, book_file))
+
+print(DIVIDER)
+print("Generating %d books review pages" % (len(context["books"])))
+for book in context.get("books"):
+    book["short_url"] = book.get("short_url") or generate_short_url(book.get("title") + "_by_" + book.get("author"))
+    with open(BASE_FOLDER + "/" + book.get("short_url").replace(".html","") + ".html", "w") as f:
+        template = env.get_template("book_item.html")
+        f.write(template.render(book=book, **context))
+        SITEMAP_URLS.append((book.get("short_url").replace(".html",""), 0.81))
+
+# MAIN PAGES
+print(DIVIDER)
+pages = ["index.html", "podcast.html", "books.html"]
+print(f"Generating main pages: {pages}")
+for page in pages:
+    with open(BASE_FOLDER + "/" + page, "w") as f:
+        print("Writing out", page)
+        template = env.get_template(page)
+        f.write(template.render(page=page, **context))
+        if page != "index.html":
+            SITEMAP_URLS.append((page.replace(".html",""), 0.75))
 
 # SITEMAP
 print(DIVIDER)
