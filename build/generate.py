@@ -37,6 +37,53 @@ def parse_otter_ai_transcript_file(transcript_path):
         ))
     return transcript
 
+def parse_book_markdown(lines, book_file):
+    dividers = dict(
+        chapter="## ",
+        summary="# "
+    )
+    chapters = []
+    tags = []
+    content = ""
+    metadata = dict()
+    current_chapter = ""
+    for line in lines:
+        for tag in ["tag", "title", "author", "short_url"]:
+            txt = f"[//]: # ({tag}:"
+            if line.startswith(txt):
+                parsed = line.split(txt)[-1].split(")")[0]
+                if tag == "tag":
+                    tags.append(parsed)
+                else:
+                    metadata[tag] = parsed
+                continue
+        if line.lower().startswith(dividers.get("summary")):
+            current_chapter = line.split(dividers.get("summary"))[-1]
+        # finish a chapter
+        elif line.lower().startswith(dividers.get("chapter")):
+            chapters.append(dict(
+                title=current_chapter,
+                content=content,
+                tags=tags,
+            ))
+            current_chapter = line.split(dividers.get("chapter"))[-1]
+            content = ""
+            tags = []
+        else:
+            content += line
+    # the last chapter
+    chapters.append(dict(
+        title=current_chapter,
+        content=content,
+        tags=tags,
+    ))
+    return dict(
+        path=book_file,
+        #content=content,
+        chapters=chapters,
+        metadata=metadata,
+    )
+
 
 DIVIDER = "#"*80
 
@@ -100,6 +147,20 @@ for podcast in context.get("podcasts"):
         template = env.get_template("podcast_episode.html")
         f.write(template.render(podcast=podcast, **context))
         SITEMAP_URLS.append((podcast.get("short_url").replace(".html",""), 0.81))
+
+# BOOKS
+print(DIVIDER)
+print("Generating books review pages")
+book_files = []
+for root, dirs, files in os.walk("./assets/books"):
+    for file in files:
+        book_files.append(os.path.join(root, file))
+books = []
+for book_file in book_files:
+    with open(book_file, "r") as f:
+        content = f.readlines()
+        books.append(parse_book_markdown(content, book_file))
+print(books)
 
 # SITEMAP
 print(DIVIDER)
