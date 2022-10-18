@@ -1,0 +1,45 @@
+{% extends "_base.html" %}
+
+{% block content %}
+<section class="banner bg-tertiary position-relative overflow-hidden">
+    <div class="container">
+        <div class="row align-items-center justify-content-center">
+            <div class="col-lg-6 mb-5 mb-lg-0">
+                <div class="block text-center text-lg-start pe-0 pe-xl-5">
+                    <h1 class="text-capitalize mb-4">Lexicon</h1>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="ps-lg-5 text-center">
+                    <img loading="lazy" decoding="async" src="assets/images/learn.png" class="" style="width:300px">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="has-shapes">
+      {% include "shapes/shape_left_0.html" %}
+      {% include "shapes/shape_right_1.html" %}
+    </div>
+</section>
+
+
+<!-- TAGS -->
+<div class="">
+    <div class="container">
+        <div class="row justify-content-center">
+        <div class="col-lg-10">
+            <div class="content" style="text-align: justify; text-justify: inter-word;">
+            {% for name, tag in tags.items()|sort(attribute='0') %}
+                <h5 id="{{ tag.short_url }}">
+                    <a href="{{ tag.url }}">{{ name }}</a>
+                </h5>
+                <p>Found {{ tag.refs | length }} references</p>
+                <hr>
+            {% endfor %}
+            </div>  
+        </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
