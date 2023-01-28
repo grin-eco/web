@@ -89,6 +89,9 @@ def parse_book_markdown(lines, book_file):
         **metadata,
     )
 
+def sort_refs(refs):
+    return sorted(refs, key=lambda x: x.get("book",{}).get("title", ""))
+
 
 DIVIDER = "#"*80
 SITEMAP_URLS = []
@@ -98,6 +101,7 @@ file_loader = FileSystemLoader("_templates")
 env = Environment(loader=file_loader)
 env.add_extension(MarkdownExtension)
 env.filters["short_url"] = generate_short_url
+env.filters["sort_refs"] = sort_refs
 
 # load the context from the metadata file
 print(DIVIDER)
