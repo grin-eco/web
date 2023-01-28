@@ -52,7 +52,7 @@ def parse_book_markdown(lines, book_file):
             txt = f"[//]: # ({tag}:"
             if line.startswith(txt):
                 parsed = line.split(txt)[-1]
-                parsed = "".join(parsed.split(")")[:-1])
+                parsed = ")".join(parsed.split(")")[:-1])
                 if tag == "tag":
                     tags.append(parsed)
                 elif tag == "date":
