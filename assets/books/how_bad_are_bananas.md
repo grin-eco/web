@@ -62,6 +62,10 @@ A single text message might be the least hurtful thing mentioned in the book.
 
 You pay about 0.014 g of CO₂e for one text. That makes it even less polluting than a pint of tap water (0.14 g of CO₂e).
 
+[//]: # (tag:email)
+[//]: # (tag:20 mln tonnes)
+[//]: # (tag:text message)
+[//]: # (tag:tap water)
 
 ## Chapter: 10 to 100 grams
 
@@ -77,6 +81,10 @@ To compare, an orange emits 90 g of CO₂e. But that doesn’t mean an orange ju
 
 When it comes to watching TV, it all depends on the type and size of the screen. A 42-inch plasma screen seems to be the least environment-friendly option, emitting 220 g of CO₂e per hour. However, before you go change your old TV, at a point where you’ve had your old screen for a while, it might be better to stick to it. Taking a new one means paying the carbon cost included within its production, which might turn out to reduce the benefits of a less-emitting TV screen.
 
+[//]: # (tag:banana)
+[//]: # (tag:orange juice)
+[//]: # (tag:watching TV)
+
 ## Chapter: 100 grams to 1 kilo
 
 A large latte costs 340 g of CO₂e
@@ -90,6 +98,12 @@ If you add milk to your tea or coffee, then it actually makes up two-thirds of t
 A mile by a London bus is equivalent to 150 g of CO₂e per passenger, while a mile by London Underground is 160 g CO₂e. Travelling in a minibus somewhere in La Paz could be as much as 15 g of CO₂e per passenger (around 300 g per bus). And the most efficient train option per mile is intercity standard class, equivalent to 150 g CO₂e. 
 
 But the thing is that 5 miles by the underground is equal to a pint of milk. You might want to rethink that biscuit option…
+
+[//]: # (tag:coffee)
+[//]: # (tag:milk)
+[//]: # (tag:bus)
+[//]: # (tag:train)
+[//]: # (tag:underground)
 
 ## Chapter: 1 kilo to 10 kilos
 
@@ -107,6 +121,13 @@ How about eating a cheeseburger every day for a year? That’s an equivalent of 
 
 But the unquestionable winner in this deadly race is beef, being the most carbon-expensive component of a burger. 108 g of beef cost 1910 g of CO₂e. 
 
+[//]: # (tag:paperback book)
+[//]: # (tag:beer)
+[//]: # (tag:wine)
+[//]: # (tag:bread)
+[//]: # (tag:bath)
+[//]: # (tag:burger)
+
 ## Chapter: 10 kilos to 100 kilos
 
 One lamb leg is equivalent to a bowl of porridge
@@ -120,6 +141,12 @@ Using a phone is not that bad by itself. But those small things add up. One hour
 Midnight cheese? 250 g of hard cheese equals 12 kg of carrots! When choosing between different cheeses, go for the soft ones. They didn’t use as much milk as the hard ones. But it would be best to reduce cheese consumption altogether. 
 
 A night in a hotel could be as much as 60 kg CO₂e. That includes TV, big breakfast and heating. But, if played well, it could also be as little as 3 kg CO₂e, with low-meat breakfast and adjusting your own room temperature.
+
+[//]: # (tag:porridge)
+[//]: # (tag:shoes)
+[//]: # (tag:phone)
+[//]: # (tag:cheese)
+[//]: # (tag:stay at a hotel)
 
 ## Chapter: 100 kilos to 1 tonne
 
@@ -135,6 +162,11 @@ The environment also isn’t a fan of mortgages.
 
 It’s all about looking at other, less intuitive contributors. It’s about offices, the computers inside them, heating, cooling, cleaning and even lunches! It’s about the whole industry that taking a mortgage supports. 
 
+[//]: # (tag:travelling)
+[//]: # (tag:necklace)
+[//]: # (tag:computer)
+[//]: # (tag:mortgage)
+
 ## Chapter: 1 tonne to 10 tonnes
 
 A UK person costs 15 tonnes of CO₂e per year
@@ -149,6 +181,10 @@ When it comes to photovoltaic panels, there’s a lot to take into account. But 
 
 Also, bear in mind that the panels don’t last forever. They’ll probably be at least 20% less efficient in 20 years time. There’s little chance they’ll work for more that 40 years in total. 
 
+[//]: # (tag:heart bypass)
+[//]: # (tag:fertilisers)
+[//]: # (tag:photovoltaic panels)
+
 ## Chapter: 10 tonnes to 100 tonnes
 
 Building a new, two story house uses 80 tonnes of CO₂e
@@ -157,6 +193,10 @@ A car crash has a carbon cost as well
 Installing wind turbines might be better for you than the environment.
 
 Compared to carbon savings and government spendings, the person installing the turbines is best-off. The impact could be bigger though, if the government invested in big offshore farms, instead of smaller, household turbines.
+
+[//]: # (tag:house)
+[//]: # (tag:car crash)
+[//]: # (tag:wind turbines)
 
 ## Chapter: 100 tonnes to 1 million tonnes
 
@@ -170,6 +210,10 @@ This includes electricity, water, and various items that need to be purchased. T
 What impact could giving each person in the UK a banana have? The answer is: the same as a space shuttle flight. Those might be the weirdest two sentences you’ve ever read, but that’s the best estimate we have. Either of these activities cost no less than 4,600 tonnes of CO₂e.
 
 We all know that deforestation is bad. How bad though? A hectare of deforestation is an equivalent of 500 tonnes CO₂e, which is roughly equal to going around the world 28 times by car. 
+
+[//]: # (tag:children)
+[//]: # (tag:university)
+[//]: # (tag:deforestation)
 
 ## Chapter: 1 million tonnes and beyond
 
@@ -189,6 +233,11 @@ The world we live in currently emits about 50 billion tonnes of CO₂e every yea
 
 Methane mostly comes from animal and plant farming, as well as processing of fuels and wastes. While nitrous oxide comes from fertilisers and manure. 
 
+[//]: # (tag:volcano)
+[//]: # (tag:black carbon)
+[//]: # (tag:world)
+[//]: # (tag:methane)
+
 ## Chapter: More about food
 
 When thinking about food, we need to take into account factors, such as transport, refrigeration, packaging, but also food waste.
@@ -202,6 +251,12 @@ Buy seasonal products
 Recycle your packaging
 
 Most of the year in the UK, beetroot and broccoli are a safe bet. Also, go for apples and bananas. More exotic fruit can also be low carbon if they were shipped by boat or stored. 
+
+[//]: # (tag:food)
+[//]: # (tag:beetroot)
+[//]: # (tag:broccoli)
+[//]: # (tag:apples)
+[//]: # (tag:bananas)
 
 ## Chapter: Some more information
 
