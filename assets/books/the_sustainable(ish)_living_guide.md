@@ -1,6 +1,6 @@
 # The Sustainable(ish) Living Guide: Everything you need to know to make small changes that make a big difference
 
-[//]: # (title:The Sustainableish Living Guide: Everything you need to know to make small changes that make a big difference)
+[//]: # (title:The Sustainable(ish) Living Guide: Everything you need to know to make small changes that make a big difference)
 [//]: # (author:Jen Gale)
 [//]: # (summary_author:Sara Pawlikowska)
 [//]: # (date:2023-01-28)
