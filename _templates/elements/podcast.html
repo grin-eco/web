@@ -2,11 +2,13 @@
 <div class="col-lg-4 col-md-6" data-aos="fade">
 <article class="blog-post">
     <div class="post-slider slider-sm rounded">
-    <img
-        loading="lazy"
-        decoding="async"
-        src="{{ podcast.picture_path | default('assets/images/act.png', True) }}" alt=""
-    >
+        <a href="{{ url }}">
+            <img
+            loading="lazy"
+            decoding="async"
+            src="{{ podcast.picture_path | default('assets/images/act.png', True) }}" alt=""
+            />
+        </a>
     </div>
     <div class="pt-2">
     <time datetime="{{ podcast.date }}">{{ podcast.date.strftime('%B %d %Y') }}</time>
