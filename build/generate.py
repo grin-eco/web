@@ -51,7 +51,8 @@ def parse_book_markdown(lines, book_file):
         for tag in ["tag", "title", "author", "summary_author", "short_url", "date", "picture_path"]:
             txt = f"[//]: # ({tag}:"
             if line.startswith(txt):
-                parsed = line.split(txt)[-1].split(")")[0]
+                parsed = line.split(txt)[-1]
+                parsed = "".join(parsed.split(")")[:-1])
                 if tag == "tag":
                     tags.append(parsed)
                 elif tag == "date":
@@ -79,6 +80,7 @@ def parse_book_markdown(lines, book_file):
         title=current_chapter,
         content=content,
         tags=tags,
+        short_url=generate_short_url(current_chapter),
     ))
     metadata["short_url"] = metadata.get("short_url") or generate_short_url(metadata.get("title") + "_by_" + metadata.get("author"))
     return dict(
