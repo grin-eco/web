@@ -4,7 +4,7 @@
 [//]: # (author:Mike Berners-Lee)
 [//]: # (summary_author:Sara Pawlikowska)
 [//]: # (date:2023-01-28)
-[//]: # (picture_path:./assets/images/learn.png)
+[//]: # (picture_path:./assets/images/book_planetB.png)
 
 ## Summary:
 “We will not establish self-sustaining colonies in space for at least 100 years, so we have to be very careful in the meantime.”
