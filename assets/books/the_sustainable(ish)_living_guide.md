@@ -4,7 +4,7 @@
 [//]: # (author:Jen Gale)
 [//]: # (summary_author:Sara Pawlikowska)
 [//]: # (date:2023-01-28)
-[//]: # (picture_path:./assets/images/learn.png)
+[//]: # (picture_path:./assets/images/book_guide.png)
 
 ## Summary
 
