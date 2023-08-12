@@ -1,7 +1,7 @@
 podcasts:
 
 # TO ADD A NEW PODCAST, ADD AN ENTRYR LIKE THIS ONE:
-- title: "Title of the episode"                             # Title, can be any characters
+- title: "Teleportation for beginners"                             # Title, can be any characters
   date: 2022-05-05                                          # YYYY-MM-DD
   picture_path: assets/images/act.png                       # picture to display
   url: https://youtu.be/MbZ4mHyKJFw                         # youtube video url
