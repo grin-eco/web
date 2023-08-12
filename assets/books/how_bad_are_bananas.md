@@ -69,9 +69,9 @@ You pay about 0.014 g of CO₂e for one text. That makes it even less polluting 
 
 ## Chapter: 10 to 100 grams
 
-Don’t misjudge bananas
-Watching TV for an hour a day for a year equals to a 45-mile drive in a petrol car
-Boil only the amount of water that you actually need
+* Don’t misjudge bananas
+* Watching TV for an hour a day for a year equals to a 45-mile drive in a petrol car
+* Boil only the amount of water that you actually need
 
 The famous banana mystery.
 
@@ -87,9 +87,9 @@ When it comes to watching TV, it all depends on the type and size of the screen.
 
 ## Chapter: 100 grams to 1 kilo
 
-A large latte costs 340 g of CO₂e
-Two and a half years of using disposable nappies by one child equals having 2500 large cappuccinos
-18 miles by intercity rail cost as much CO₂e as one cheeseburger
+* A large latte costs 340 g of CO₂e
+* Two and a half years of using disposable nappies by one child equals having 2500 large cappuccinos
+* 18 miles by intercity rail cost as much CO₂e as one cheeseburger
 
 The worst part of drinking tea or coffee can be milk.
 
@@ -107,9 +107,9 @@ But the thing is that 5 miles by the underground is equal to a pint of milk. You
 
 ## Chapter: 1 kilo to 10 kilos
 
-On average, a paperback book equals to 1 kg of CO₂e 
-Beer has a bigger carbon footprint than wine (slightly, but still)
-Avoid asparagus during winter
+* On average, a paperback book equals to 1 kg of CO₂e 
+* Beer has a bigger carbon footprint than wine (slightly, but still)
+* Avoid asparagus during winter
 
 Let them eat bread!
 
@@ -130,9 +130,9 @@ But the unquestionable winner in this deadly race is beef, being the most carbon
 
 ## Chapter: 10 kilos to 100 kilos
 
-One lamb leg is equivalent to a bowl of porridge
-Cremation costs 80 kg of CO₂e
-Your next shoes - probably Crocs
+* One lamb leg is equivalent to a bowl of porridge
+* Cremation costs 80 kg of CO₂e
+* Your next shoes - probably Crocs
 
 If you talk on the phone for a minute, you use the carbon equivalent of an apple (57 g CO₂e).
 
@@ -169,9 +169,9 @@ It’s all about looking at other, less intuitive contributors. It’s about off
 
 ## Chapter: 1 tonne to 10 tonnes
 
-A UK person costs 15 tonnes of CO₂e per year
-A heart bypass operation is an equivalent of 1.1 tonnes CO₂e
-Don’t buy photovoltaic panels having only profit in mind (as you might be surprised) 
+* A UK person costs 15 tonnes of CO₂e per year
+* A heart bypass operation is an equivalent of 1.1 tonnes CO₂e
+* Don’t buy photovoltaic panels having only profit in mind (as you might be surprised) 
 
 Fertilisers have two faces. 
 
@@ -187,8 +187,8 @@ Also, bear in mind that the panels don’t last forever. They’ll probably be a
 
 ## Chapter: 10 tonnes to 100 tonnes
 
-Building a new, two story house uses 80 tonnes of CO₂e
-A car crash has a carbon cost as well
+* Building a new, two story house uses 80 tonnes of CO₂e
+* A car crash has a carbon cost as well
 
 Installing wind turbines might be better for you than the environment.
 
@@ -200,8 +200,8 @@ Compared to carbon savings and government spendings, the person installing the t
 
 ## Chapter: 100 tonnes to 1 million tonnes
 
-Having a child might be the biggest carbon choice in your life
-The only individual action that beats having a child carbon-wise is starting a bushfire
+* Having a child might be the biggest carbon choice in your life
+* The only individual action that beats having a child carbon-wise is starting a bushfire
 
 A university costs about 72,000 tonnes of CO₂e a year.
 
@@ -217,9 +217,9 @@ We all know that deforestation is bad. How bad though? A hectare of deforestatio
 
 ## Chapter: 1 million tonnes and beyond
 
-All the volcanoes in the world produce less than 1% of population’s emissions
-The UK costs about 862 mln tonnes CO₂e per year
-The world’s data centres use one-seventh of UK’s carbon footprint
+* All the volcanoes in the world produce less than 1% of population’s emissions
+* The UK costs about 862 mln tonnes CO₂e per year
+* The world’s data centres use one-seventh of UK’s carbon footprint
 
 Do you know what black carbon is?
 
@@ -260,8 +260,8 @@ Most of the year in the UK, beetroot and broccoli are a safe bet. Also, go for a
 
 ## Chapter: Some more information
 
-Climate change is indeed a big issue
-Looking for solutions to make your everyday life more carbon efficient is worth it
-It’s a good idea to make sure your loft is well isolated
-Investing in wind farms - payback in 15 years
+* Climate change is indeed a big issue
+* Looking for solutions to make your everyday life more carbon efficient is worth it
+* It’s a good idea to make sure your loft is well isolated
+* Investing in wind farms - payback in 15 years
 
