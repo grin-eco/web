@@ -4,7 +4,7 @@
 [//]: # (author:Mike Berners-Lee)
 [//]: # (summary_author:Sara Pawlikowska)
 [//]: # (date:2022-06-01)
-[//]: # (picture_path:./assets/images/book_bananas.png)
+[//]: # (picture_path:./assets/images/How bad are bananas cover.png)
 
 ## Summary
 
