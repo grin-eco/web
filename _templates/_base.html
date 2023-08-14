@@ -34,7 +34,7 @@
 <header class="navigation bg-tertiary">
     <nav class="navbar navbar-expand-xl navbar-light text-center py-3">
         <div class="container">
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="{{ base_path }}">
                 <img loading="prelaod" decoding="async" class="img-fluid" src="assets/images/logo_small.png" alt="Grin.eco">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span>
@@ -60,7 +60,7 @@
                     {% endif %}
                     {% endfor %}
                 </ul>
-                <!-- account btn --> <a href="#!" class="btn btn-primary ms-2 ms-lg-3">Subscribe</a>
+                <a href="{{ subscribe_url }}" class="btn btn-primary ms-2 ms-lg-3">Subscribe</a>
             </div>
         </div>
     </nav>
@@ -98,24 +98,6 @@
 				</div>
 			</div>
 
-			<div class="col-lg-4 col-md-12 newsletter-form">
-				<div style="background-color: #F4F4F4; padding: 35px;">
-					<h5 class="mb-4 text-primary font-secondary">Subscribe</h5>
-					<div class="pe-0 pe-xl-5">
-						<form action="#!" method="post" name="mc-embedded-subscribe-form" target="_blank">
-							<div class="input-group mb-3">
-								<input type="text" class="form-control shadow-none bg-white border-end-0" placeholder="Email address"> <span class="input-group-text border-0 p-0">
-                    <button class="input-group-text border-0 bg-primary" type="submit" name="subscribe"
-                      aria-label="Subscribe for Newsletter"><i class="fas fa-arrow-right"></i></button>
-                  </span>
-							</div>
-							<div style="position: absolute; left: -5000px;" aria-hidden="true">
-								<input type="text" name="b_463ee871f45d2d93748e77cad_a0a2c6d074" tabindex="-1">
-							</div>
-						</form>
-					</div>
-				</div>
-			</div>
 		</div>
 		<div class="row align-items-center mt-5 text-center text-md-start">
 			<div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
@@ -128,11 +110,11 @@
 			</div>
 			<div class="col-lg-4 col-md-6 text-md-end mt-4 mt-md-0">
 				<ul class="list-unstyled list-inline mb-0 social-icons">
-					<!-- <li class="list-inline-item me-3"><a title="Explorer Facebook Profile" class="text-black" href="https://facebook.com/"><i class="fab fa-facebook-f"></i></a>
+					<li class="list-inline-item me-3"><a title="Facebook Profile" class="text-black" href="{{ facebook_url }}"><i class="fab fa-facebook-f"></i></a>
 					</li>
-					<li class="list-inline-item me-3"><a title="Explorer Twitter Profile" class="text-black" href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
+					<li class="list-inline-item me-3"><a title="Instagram Profile" class="text-black" href="{{ instagram_urrl }}"><i class="fab fa-instagram"></i></a>
 					</li>
-					<li class="list-inline-item me-3"><a title="Explorer Instagram Profile" class="text-black" href="https://instagram.com/"><i class="fab fa-instagram"></i></a> -->
+					<li class="list-inline-item me-3"><a title="Linkedin Profile" class="text-black" href="{{ instagram_url }}"><i class="fab fa-linkedin"></i></a>
 					</li>
 				</ul>
 			</div>

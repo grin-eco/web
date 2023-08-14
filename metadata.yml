@@ -1,23 +1,28 @@
-base_path: "https://www.grin.eco/"
+base_path: https://www.grin.eco/
+subscribe_url: https://grin.beehiiv.com/subscribe
 base_folder: "static"
+
+facebook_url: https://www.facebook.com/profile.php?id=100095805871033
+linkedin_url: https://www.linkedin.com/company/grin-eco
+instagram_url: https://www.instagram.com/grin.eco1/
 
 navigation:
 - name: Home
-  url: "index.html"
+  url: "https://grin.eco"
 - name: Learn
   items:
   - name: Podcast
-    url: "podcast.html"
+    url: "podcast"
   - name: Books
-    url: "books.html"
-- name: Act
-  items:
-  - name: Projects
-    url: "#projects"
-- name: Share
-  url: "#share"
-- name: About
-  url: "index.html#about"
+    url: "books"
+# - name: Act
+#   items:
+#   - name: Projects
+#     url: "projects"
+# - name: Share
+#   url: "share"
+# - name: About
+#   url: "about"
 
 
 headers:
