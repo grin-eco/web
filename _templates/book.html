@@ -13,6 +13,8 @@
                 <h4 id="summary_author">summary by {{ book.summary_author }}</h4>
                 <time datetime="{{ book.date }}">{{ book.date.strftime('%B %d %Y') }}</time>
             </div>
+        </div>
+        <div class="col-lg-5">
             <div class="mb-5">
                 <h3 id="toc">Table of Contents</h3>
                 <ul>
@@ -21,6 +23,15 @@
                     {% endfor %}
                 </ul>
             </div>
+        </div>
+        <div class="col-lg-5">
+            <div class="mb-5 text-center">
+                <div class="post-slider rounded overflow-hidden">
+                  <img loading="lazy" decoding="async" src="{{ book.picture_path | default('assets/images/act.png', True) }}" alt="" alt="Post Thumbnail">
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-10">
             <div class="content" style="text-align: justify; text-justify: inter-word;">
             {% for chapter in book.chapters %}
                 <h5 id="{{ chapter.short_url }}">{{ chapter.title }}</h5>
