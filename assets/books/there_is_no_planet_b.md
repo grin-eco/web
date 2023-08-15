@@ -13,25 +13,25 @@ Stephen Hawking
 
 There Is No Planet B is an informative handbook on various aspects of climate change. Author balances between the big picture and the small everyday actions we can take to get closer to a better future.
 
-A lot of the things we learn from this book are designed to provide us with the understanding of the issue to a level from which we can pursue further. It shows the directions in which we can improve our information sources, as well as thinking and empathy skills. By combining the two, be can create a culture of innovation and wellbeing beyond country borders and monetary profit. We can learn to multiply positive actions, while preventing them from being counterbalanced by the current systems in place. 
+A lot of the things we learn from this book are designed to provide us with an understanding of the issue to a level from which we can pursue further. It shows the directions in which we can improve our information sources, as well as thinking and empathy skills. By combining the two, we can create a culture of innovation and well-being beyond country borders and monetary profit. We can learn to multiply positive actions while preventing them from being counterbalanced by the current systems in place. 
 
-A huge takeaway from this book is the message of global empathy. It’s about wanting the best possible life for a person across the globe that you’ll never meet, just as much as you want it for your loved ones and yourself. We need to join our forces to make a real change in the state of emergency that we’re in. Everyone is involved and we have a bigger impact than we often realise. 
+A huge takeaway from this book is the message of global empathy. It’s about wanting the best possible life for a person across the globe that you’ll never meet, just as much as you want it for your loved ones and yourself. We need to join forces to make a real change in the state of emergency that we’re in. Everyone is involved and we have a bigger impact than we often realise. 
 
 ## Chapter 1: Food
 
 * We need around 2,350 kcal per day
-* We grow two and a half times as much calories per day per person as we need
+* We grow two and a half times as many calories per day per person as we need
 * 100 grams of sweet potatoes provide all the needed vitamin A for the day
 
 Food is always a huge deal when talking about climate change. For the sake of keeping things brief, yet informative, let’s just touch upon a few of the important things described in this chapter.
 
 The kcal grown refers to the equivalent amount of crops that would provide that much energy. Kcal are wasted at each step of the journey from the field (where not all of them are harvested in the first place), through the 1,740 kcal that are fed to animals and all the way to our homes, where on average we consume 180 kcal more than we need.
 
-Following simple maths, eating that surplus of 180 kcal every day should result in a 8-kilogram weight gain every year. But the trick here is that heavier bodies burn more energy throughout the day, so that correlation is not as straightforward.
+Following simple maths, eating that surplus of 180 kcal every day should result in an 8-kilogram weight gain every year. But the trick here is that heavier bodies burn more energy throughout the day so that correlation is not as straightforward.
 
 What about antibiotics?
 
-Around two thirds of all antibiotics are given to animals. You would think they’re gone, but stay tuned. They actually come back to you in such products as milk and meat you consume. Why is that an issue? Because it leads to overuse of antibiotics on a large scale, which in turn speeds up the process of bacterial resistance to those antibiotics. In short, it means they’ll become ineffective when you’ll actually need them way sooner. And the process of making new antibiotics might not keep up with that.
+Around two-thirds of all antibiotics are given to animals. You would think they’re gone, but stay tuned. They actually come back to you in such products as milk and meat you consume. Why is that an issue? Because it leads to overuse of antibiotics on a large scale, which in turn speeds up the process of bacterial resistance to those antibiotics. In short, it means they’ll become ineffective when you’ll actually need them way sooner. And the process of making new antibiotics might not keep up with that.
 
 How can you help with that?
 
