@@ -1,0 +1,69 @@
+Sara Pawlikowska  0:00  
+Hello, everyone, welcome to Grin.eco podcast. And today my guest will be Mark Pawlikowski, the co-founder of Conf42. Hello, Mark.
+
+Marek Pawlikowski  0:12  
+What's up, Sara? How are you doing? Excited to be here and have a chat.
+
+Sara Pawlikowska  0:18  
+Great. So let's warming up first with an absurd question. So if you could have a conversation with any animal, what animal would you choose? And what would you ask it?
+
+Marek Pawlikowski  0:33  
+So that's probably the weirdest one I've had yet. But the answer is pretty simple. Capybara is going to be and if you asked me why is that I find that capybaras are probably the most chill animals on the planet. They can hang out with omnivores, carnivores, herbivores, they just chill. They love water as I do swimming and stuff. And, yeah, I'm kinda curious what they would say. Because it's not super obvious. But yeah, this will be the one.
+
+Sara Pawlikowska  1:10  
+All right, very good answer. Okay, so you are the co-founder of Conf42. Could you tell us a bit more what Conf42 is?
+
+Marek Pawlikowski  1:21  
+Well, yeah, apparently. So basically, Conf42 assembles software engineers, and IT people in general, online within virtual events that we organise, right now we are heading towards 18 Year. You might start kind counting how this is possible. But basically, this is the online formula that allows us to do as many as we do. And what we plan on is basically gathering some submissions from people. Regardless of their walks of life, they can be from every single city in the world with internet connection. And the main goal is to assemble them, to let them spread the word about the latest technologies, their findings, some tooling that they're using in their day-to-day life, very often those people have the first chance to speak at Conf42, which is very important, because you know, you don't become an epic keynote speaker overnight. So having those first opportunities and those moments when you can share your knowledge and your findings that you might find a tiny bit underwhelming at times, but then having a cosy space where he can just share those thoughts, and give out some insights on the things that you're using in your work is pretty much a nice opportunity for most of people. So we have a nice mix between seasoned speakers and people who are just starting the field.
+
+Sara Pawlikowska  3:09  
+All right. Yeah?
+
+Marek Pawlikowski  3:13  
+Yeah, I was just wondering, because, you know, it's funny, because, you know, we are siblings, but I was wondering at which point you kinda know what your brothers are doing. 
+
+Sara Pawlikowska  3:30  
+Better late than never.
+
+Marek Pawlikowski  3:31  
+So what will be our vision on what Conf42 does, like, in general, because you've had some contacts with like, people at conferences. Do you think we're doing all right? 
+
+Sara Pawlikowska  3:44  
+Yeah, I think I think you guys are doing all right. Yeah, I remember the first conference you guys did, and it was in person back then. But now you guys focus on online stuff, mostly right? But I remember that it was amazing, very proud of you. And also, you managed to get people from really across the world. Some people would come from US just for one night talk at your conference. So it was very impressive.
+
+Marek Pawlikowski  4:14  
+Yeah, and actually goes back to like the roots of Conf42 because as I mentioned, we started with in person and our first goal was to do in person. So back in 2019, I moved to London. And with Miko, the co-founder, we started thinking of a way to find something for us to do given our different walks of life. So I have the cinema background, I've been studying film, basically and video. And Miko is right now an SRE, site reliability engineer, and at the time he was working at a big corporation as the Technical Lead that was focusing on chaos testing, and hence the name of the first conference we did Conf42 chaos engineering back in 2020. And that the magic thing happened. I should say, the malediction on the whole world, the C-19. situation. And actually, the first conference was just right before the outbreak, like, literally one month before COVID started. So we were actually super lucky to be able to conduct it. Even though it was just, you know, the pandemic was just around the corner. So the whole reason why we started doing online is because of COVID. And so yeah, with Conf42 We stay online, while we start to develop other brands like SRE Day that focus more on in person events.
+
+Sara Pawlikowska  5:57  
+Fair enough. Yeah, the C-word happened. Okay, but yeah, you guys have a chance to have a broad range of speakers from across the country. And so I'm wondering, is sustainability, like the climate change, anything like that. Is that the topic at all in any of your events? Does that come up?
+
+Marek Pawlikowski  6:27  
+Well, it does at times, like, there is this whole conversation that is going around, like the responsibility towards the planet of companies, especially the big ones, they have a potentially bigger footprint than the small ones. Because just for the context, like we are a tiny, I would say even nano company at this point, we employ just a couple of people, which makes us like in terms of the carbon footprint, is quite minimal, because apart from using, like the normal media that you would use for office work, we do not like conduct any conferences with any sophisticated transportation. Of course, like the carbon footprint is everywhere. And we have to be aware of that. But for us, it hasn't been really like a big question, because we just wanted to be, you know, as small as we need to be. I mean, as big as we need to be to grow and keep making conferences, but in the sense that we didn't want to overgrow the whole company before it's necessary. So in terms of I think the key word here is the sustainability, right? How do we become sustainable for the planet? But yeah, I'm kind of new to this topic as well, because even though we have some conferences that had talks about, like what we can do to improve the footprint, like what technologies facilitate that, that was actually the question that I wanted to ask to you like, what would be like the top 5 or top 10 things that companies can do to become more sustainable over time?
+
+Sara Pawlikowska  8:20  
+Yeah, so for the bigger companies, that's usually where all of the monitoring goes and there are various things people do. The monitoring is mostly when it comes to the carbon emissions. So many companies now they have a certain amount that they pay for, that they can emit. But then after that, there's a fine, they can't really do that. And there's a lot of pressure on how the companies show their carbon footprint to the public. Now, there's more demand on that. Which is, I guess, fair enough. But there are the small things as well, like what you said about trying not to overgrow, I think that's a very smart thing to do. If you don't need to use more electricity or paper or plastic, then don't do that. And that's a step in the right direction for sure. I know that there are also many other initiatives that are happening not only when it comes to companies, but universities as well. They try to encourage students to think about that. There are sustainability pledges in places around the UK universities, at least. So there's a lot of happening. And yeah, what you say it's sounds good enough, and smart and thoughtful approach, I would say.
+
+Marek Pawlikowski  9:58  
+And we circled back to, I guess you have this brand new initiative of Grin.eco. So I wanted to maybe you know, this is the first episode. So maybe you could say what are the objectives of the initiative going forward? What plans you have to like, maybe increased the visibility on those problems, maybe increase awareness, like educate people? Or is it more like showing stuff for people to understand better the climate change? Or can you tell us more about this?
+
+Sara Pawlikowska  10:36  
+Yeah, for sure. I don't think it's about educating people so much as there's a lot of information everywhere. So I think it's more about just making certain things more visible, and just showing them in simple form, since when you have 10s of books about climate change, you can't really read all of them, and do your own stuff at the same time, if you're not very interested in that. But since everyone kind of needs to start thinking about how to make their lives more sustainable, I feel like our main goal at Grin.eco is to just summarise and gather that information for you so that you don't have to go and read the whole book, you can just extract the stuff that you need. And we're trying to make it as appealing, as easy, looking for keywords, looking for patterns as well. There's a lot of knowledge out there. And we still don't have all the answers, but it's good, it's a good start to just have a look at what's already there. What you can do, and so that it's not overwhelming. So I guess that's what we're trying to do. And we're also we're just starting off. So we also have some ideas moving forward how to grow, but we'll see how that goes. But yeah, that brings me to my next question. So when it comes to new partnerships, would you say that companies they look for that kind of carbon transparency? Is that important?
+
+Marek Pawlikowski  12:32  
+I wouldn't talk for all companies, I think they all have like different perspectives on that. But there is like a fine line, I feel like between companies trying to virtue signal, like saying, 'Oh, we are ecological now, because we reduced X and Y, while increasing the positive impact, we planted X trees'. So there's definitely that. Companies that need this kind of visibility to grow or to appeal to sponsors and kind of investors. But I think the best groundwork, for me personally happens a bit in the shadows, like you don't need to post everything on social media if you do something good for the environment. So of course, there's this fine balance between like, having this in mind and kind of acting silently, and needing to spread the word and you know, make it viral, if that makes sense. But this is a conversation that we've been having for quite some time regarding like Conf42. And what positive impact can we do as a company. And there might be potentially some things coming up, but for now is just in the plans. So I can't really give you any details for now. But to be honest, when speaking with startups, this is not very often a point of deeper conversation, but hopefully this keeps evolving and changing, you know, as the time goes.
+
+Sara Pawlikowska  14:18  
+All right. So I guess we'll see what the future brings.
+
+Marek Pawlikowski  14:24  
+That was a very, like big time explanation of 'we'll see'.
+
+Sara Pawlikowska  14:30  
+All right, fair enough. Okay, well, I feel like that was a very insightful first episode.
+
+Marek Pawlikowski  14:42  
+I hope you guys enjoyed it. And for all the Grin.eco enthusiasts and Conf42.com enjoyers. You can take a look at those two platforms. Definitely there's some potential if you'd like to share your knowledge on ecology or technology, or maybe in the future, eco-technology, we'll see how it goes. There has to be something in between. So, yeah, I hope that the project grows and you get more interest around those topics that seem to be like crucial for us to proceed like in terms of humankind, because otherwise we risk damaging the planet to the extent where it's hard to recover while we're alive, so definitely something to keep in mind. All right, so I have this appointment on Mars right now. You might be wondering why I have the suit. Actually, I'm going into space right now. So sorry, no more time. But yeah, I will see you on the next one, Sara.
+
+Sara Pawlikowska  15:51  
+All right, safe travels. Thank you for coming. And thank you for listening.
+
