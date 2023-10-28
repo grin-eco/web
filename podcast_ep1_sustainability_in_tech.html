@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+
+<html lang="en-us">
+
+<head>
+    <meta charset="utf-8">
+    <title>Grin.eco - climate change: learn, act, share</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+    <meta name="description" content="This is meta description">
+    <meta name="author" content="Themefisher">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="assets/favicon/site.webmanifest">
+
+    <!-- # Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap" rel="stylesheet">
+
+    <!-- # CSS Plugins -->
+    <link rel="stylesheet" href="plugins/slick/slick.css">
+    <link rel="stylesheet" href="plugins/font-awesome/fontawesome.min.css">
+    <link rel="stylesheet" href="plugins/font-awesome/brands.css">
+    <link rel="stylesheet" href="plugins/font-awesome/solid.css">
+
+    <!-- # Main Style Sheet -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<!-- NAVIGATION -->
+<header class="navigation bg-tertiary">
+    <nav class="navbar navbar-expand-xl navbar-light text-center py-3">
+        <div class="container">
+            <a class="navbar-brand" href="https://www.grin.eco/">
+                <img loading="prelaod" decoding="async" class="img-fluid" src="assets/images/logo_small.png" alt="Grin.eco">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
+                    
+                    
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://grin.eco">Home</a>
+                    </li>
+                    
+                    
+                    
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Learn</a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            
+                            <li>
+                                <a class="dropdown-item" href="podcast">Podcast</a>
+                            </li>
+                            
+                            <li>
+                                <a class="dropdown-item" href="books">Books</a>
+                            </li>
+                            
+                        </ul>
+                    </li>
+                    
+                    
+                </ul>
+                <a href="https://grin.beehiiv.com/subscribe" class="btn btn-primary ms-2 ms-lg-3">Subscribe</a>
+            </div>
+        </div>
+    </nav>
+</header>
+
+
+<!-- CONTENT -->
+
+
+<!-- PODCAST -->
+<div class="section">
+    <div class="container">
+        <div class="row justify-content-center">
+        <div class="col-lg-10">
+            <div class="mb-5">
+                <h2 class="mb-4" style="line-height:1.5">Sustainability in Tech from a Founder's perspective</h2>
+                <time datetime="2022-10-27">October 27 2022</time>
+            </div>
+            <div class="content">
+            <!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
+            <style>
+                .videoWrapper {
+                    position: relative;
+                    padding-bottom: 56.25%;
+                    /* 16:9 */
+                    padding-top: 25px;
+                    height: 0;
+                }
+                .videoWrapper iframe {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                }
+            </style>
+            <div class="videoWrapper">
+                <div id="player"></div>
+            </div>
+            <!-- 2. Some funky code to stitch it together -->
+            <script>
+                var transcript = [{"body": "Hello, everyone, welcome to Grin.eco podcast. And today my guest will be Mark Pawlikowski, the co-founder of Conf42. Hello, Mark.", "speaker": "Sara Pawlikowska", "timestamp": "0:00  ", "timestamp_s": 0}, {"body": "What\u0027s up, Sara? How are you doing? Excited to be here and have a chat.", "speaker": "Marek Pawlikowski", "timestamp": "0:12  ", "timestamp_s": 12}, {"body": "Great. So let\u0027s warming up first with an absurd question. So if you could have a conversation with any animal, what animal would you choose? And what would you ask it?", "speaker": "Sara Pawlikowska", "timestamp": "0:18  ", "timestamp_s": 18}, {"body": "So that\u0027s probably the weirdest one I\u0027ve had yet. But the answer is pretty simple. Capybara is going to be and if you asked me why is that I find that capybaras are probably the most chill animals on the planet. They can hang out with omnivores, carnivores, herbivores, they just chill. They love water as I do swimming and stuff. And, yeah, I\u0027m kinda curious what they would say. Because it\u0027s not super obvious. But yeah, this will be the one.", "speaker": "Marek Pawlikowski", "timestamp": "0:33  ", "timestamp_s": 33}, {"body": "All right, very good answer. Okay, so you are the co-founder of Conf42. Could you tell us a bit more what Conf42 is?", "speaker": "Sara Pawlikowska", "timestamp": "1:10  ", "timestamp_s": 70}, {"body": "Well, yeah, apparently. So basically, Conf42 assembles software engineers, and IT people in general, online within virtual events that we organise, right now we are heading towards 18 Year. You might start kind counting how this is possible. But basically, this is the online formula that allows us to do as many as we do. And what we plan on is basically gathering some submissions from people. Regardless of their walks of life, they can be from every single city in the world with internet connection. And the main goal is to assemble them, to let them spread the word about the latest technologies, their findings, some tooling that they\u0027re using in their day-to-day life, very often those people have the first chance to speak at Conf42, which is very important, because you know, you don\u0027t become an epic keynote speaker overnight. So having those first opportunities and those moments when you can share your knowledge and your findings that you might find a tiny bit underwhelming at times, but then having a cosy space where he can just share those thoughts, and give out some insights on the things that you\u0027re using in your work is pretty much a nice opportunity for most of people. So we have a nice mix between seasoned speakers and people who are just starting the field.", "speaker": "Marek Pawlikowski", "timestamp": "1:21  ", "timestamp_s": 81}, {"body": "All right. Yeah?", "speaker": "Sara Pawlikowska", "timestamp": "3:09  ", "timestamp_s": 189}, {"body": "Yeah, I was just wondering, because, you know, it\u0027s funny, because, you know, we are siblings, but I was wondering at which point you kinda know what your brothers are doing. ", "speaker": "Marek Pawlikowski", "timestamp": "3:13  ", "timestamp_s": 193}, {"body": "Better late than never.", "speaker": "Sara Pawlikowska", "timestamp": "3:30  ", "timestamp_s": 210}, {"body": "So what will be our vision on what Conf42 does, like, in general, because you\u0027ve had some contacts with like, people at conferences. Do you think we\u0027re doing all right? ", "speaker": "Marek Pawlikowski", "timestamp": "3:31  ", "timestamp_s": 211}, {"body": "Yeah, I think I think you guys are doing all right. Yeah, I remember the first conference you guys did, and it was in person back then. But now you guys focus on online stuff, mostly right? But I remember that it was amazing, very proud of you. And also, you managed to get people from really across the world. Some people would come from US just for one night talk at your conference. So it was very impressive.", "speaker": "Sara Pawlikowska", "timestamp": "3:44  ", "timestamp_s": 224}, {"body": "Yeah, and actually goes back to like the roots of Conf42 because as I mentioned, we started with in person and our first goal was to do in person. So back in 2019, I moved to London. And with Miko, the co-founder, we started thinking of a way to find something for us to do given our different walks of life. So I have the cinema background, I\u0027ve been studying film, basically and video. And Miko is right now an SRE, site reliability engineer, and at the time he was working at a big corporation as the Technical Lead that was focusing on chaos testing, and hence the name of the first conference we did Conf42 chaos engineering back in 2020. And that the magic thing happened. I should say, the malediction on the whole world, the C-19. situation. And actually, the first conference was just right before the outbreak, like, literally one month before COVID started. So we were actually super lucky to be able to conduct it. Even though it was just, you know, the pandemic was just around the corner. So the whole reason why we started doing online is because of COVID. And so yeah, with Conf42 We stay online, while we start to develop other brands like SRE Day that focus more on in person events.", "speaker": "Marek Pawlikowski", "timestamp": "4:14  ", "timestamp_s": 254}, {"body": "Fair enough. Yeah, the C-word happened. Okay, but yeah, you guys have a chance to have a broad range of speakers from across the country. And so I\u0027m wondering, is sustainability, like the climate change, anything like that. Is that the topic at all in any of your events? Does that come up?", "speaker": "Sara Pawlikowska", "timestamp": "5:57  ", "timestamp_s": 357}, {"body": "Well, it does at times, like, there is this whole conversation that is going around, like the responsibility towards the planet of companies, especially the big ones, they have a potentially bigger footprint than the small ones. Because just for the context, like we are a tiny, I would say even nano company at this point, we employ just a couple of people, which makes us like in terms of the carbon footprint, is quite minimal, because apart from using, like the normal media that you would use for office work, we do not like conduct any conferences with any sophisticated transportation. Of course, like the carbon footprint is everywhere. And we have to be aware of that. But for us, it hasn\u0027t been really like a big question, because we just wanted to be, you know, as small as we need to be. I mean, as big as we need to be to grow and keep making conferences, but in the sense that we didn\u0027t want to overgrow the whole company before it\u0027s necessary. So in terms of I think the key word here is the sustainability, right? How do we become sustainable for the planet? But yeah, I\u0027m kind of new to this topic as well, because even though we have some conferences that had talks about, like what we can do to improve the footprint, like what technologies facilitate that, that was actually the question that I wanted to ask to you like, what would be like the top 5 or top 10 things that companies can do to become more sustainable over time?", "speaker": "Marek Pawlikowski", "timestamp": "6:27  ", "timestamp_s": 387}, {"body": "Yeah, so for the bigger companies, that\u0027s usually where all of the monitoring goes and there are various things people do. The monitoring is mostly when it comes to the carbon emissions. So many companies now they have a certain amount that they pay for, that they can emit. But then after that, there\u0027s a fine, they can\u0027t really do that. And there\u0027s a lot of pressure on how the companies show their carbon footprint to the public. Now, there\u0027s more demand on that. Which is, I guess, fair enough. But there are the small things as well, like what you said about trying not to overgrow, I think that\u0027s a very smart thing to do. If you don\u0027t need to use more electricity or paper or plastic, then don\u0027t do that. And that\u0027s a step in the right direction for sure. I know that there are also many other initiatives that are happening not only when it comes to companies, but universities as well. They try to encourage students to think about that. There are sustainability pledges in places around the UK universities, at least. So there\u0027s a lot of happening. And yeah, what you say it\u0027s sounds good enough, and smart and thoughtful approach, I would say.", "speaker": "Sara Pawlikowska", "timestamp": "8:20  ", "timestamp_s": 500}, {"body": "And we circled back to, I guess you have this brand new initiative of Grin.eco. So I wanted to maybe you know, this is the first episode. So maybe you could say what are the objectives of the initiative going forward? What plans you have to like, maybe increased the visibility on those problems, maybe increase awareness, like educate people? Or is it more like showing stuff for people to understand better the climate change? Or can you tell us more about this?", "speaker": "Marek Pawlikowski", "timestamp": "9:58  ", "timestamp_s": 598}, {"body": "Yeah, for sure. I don\u0027t think it\u0027s about educating people so much as there\u0027s a lot of information everywhere. So I think it\u0027s more about just making certain things more visible, and just showing them in simple form, since when you have 10s of books about climate change, you can\u0027t really read all of them, and do your own stuff at the same time, if you\u0027re not very interested in that. But since everyone kind of needs to start thinking about how to make their lives more sustainable, I feel like our main goal at Grin.eco is to just summarise and gather that information for you so that you don\u0027t have to go and read the whole book, you can just extract the stuff that you need. And we\u0027re trying to make it as appealing, as easy, looking for keywords, looking for patterns as well. There\u0027s a lot of knowledge out there. And we still don\u0027t have all the answers, but it\u0027s good, it\u0027s a good start to just have a look at what\u0027s already there. What you can do, and so that it\u0027s not overwhelming. So I guess that\u0027s what we\u0027re trying to do. And we\u0027re also we\u0027re just starting off. So we also have some ideas moving forward how to grow, but we\u0027ll see how that goes. But yeah, that brings me to my next question. So when it comes to new partnerships, would you say that companies they look for that kind of carbon transparency? Is that important?", "speaker": "Sara Pawlikowska", "timestamp": "10:36  ", "timestamp_s": 636}, {"body": "I wouldn\u0027t talk for all companies, I think they all have like different perspectives on that. But there is like a fine line, I feel like between companies trying to virtue signal, like saying, \u0027Oh, we are ecological now, because we reduced X and Y, while increasing the positive impact, we planted X trees\u0027. So there\u0027s definitely that. Companies that need this kind of visibility to grow or to appeal to sponsors and kind of investors. But I think the best groundwork, for me personally happens a bit in the shadows, like you don\u0027t need to post everything on social media if you do something good for the environment. So of course, there\u0027s this fine balance between like, having this in mind and kind of acting silently, and needing to spread the word and you know, make it viral, if that makes sense. But this is a conversation that we\u0027ve been having for quite some time regarding like Conf42. And what positive impact can we do as a company. And there might be potentially some things coming up, but for now is just in the plans. So I can\u0027t really give you any details for now. But to be honest, when speaking with startups, this is not very often a point of deeper conversation, but hopefully this keeps evolving and changing, you know, as the time goes.", "speaker": "Marek Pawlikowski", "timestamp": "12:32  ", "timestamp_s": 752}, {"body": "All right. So I guess we\u0027ll see what the future brings.", "speaker": "Sara Pawlikowska", "timestamp": "14:18  ", "timestamp_s": 858}, {"body": "That was a very, like big time explanation of \u0027we\u0027ll see\u0027.", "speaker": "Marek Pawlikowski", "timestamp": "14:24  ", "timestamp_s": 864}, {"body": "All right, fair enough. Okay, well, I feel like that was a very insightful first episode.", "speaker": "Sara Pawlikowska", "timestamp": "14:30  ", "timestamp_s": 870}, {"body": "I hope you guys enjoyed it. And for all the Grin.eco enthusiasts and Conf42.com enjoyers. You can take a look at those two platforms. Definitely there\u0027s some potential if you\u0027d like to share your knowledge on ecology or technology, or maybe in the future, eco-technology, we\u0027ll see how it goes. There has to be something in between. So, yeah, I hope that the project grows and you get more interest around those topics that seem to be like crucial for us to proceed like in terms of humankind, because otherwise we risk damaging the planet to the extent where it\u0027s hard to recover while we\u0027re alive, so definitely something to keep in mind. All right, so I have this appointment on Mars right now. You might be wondering why I have the suit. Actually, I\u0027m going into space right now. So sorry, no more time. But yeah, I will see you on the next one, Sara.", "speaker": "Marek Pawlikowski", "timestamp": "14:42  ", "timestamp_s": 882}, {"body": "All right, safe travels. Thank you for coming. And thank you for listening.", "speaker": "Sara Pawlikowska", "timestamp": "15:51  ", "timestamp_s": 951}];
+
+// 2. This code loads the IFrame Player API code asynchronously.
+var tag = document.createElement('script');
+
+tag.src = "https://www.youtube.com/iframe_api";
+var firstScriptTag = document.getElementsByTagName('script')[0];
+firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+// 3. This function creates an <iframe> (and YouTube player)
+//    after the API code downloads.
+var player;
+function onYouTubeIframeAPIReady() {
+  player = new YT.Player('player', {
+  //   height: '390',
+  //   width: '640',
+    videoId: '0aJcS9XzCqM',
+    playerVars: {
+      'playsinline': 1
+    },
+    events: {
+      'onReady': onPlayerReady,
+      // 'onStateChange': onPlayerStateChange
+    }
+  });
+}
+
+// 4. The API will call this function when the video player is ready.
+function onPlayerReady(event) {
+  console.log("Player ready");
+  var sec = Number(location.href.split("#")[1]);
+  if (sec){
+    player.seekTo(sec, true);
+  }
+  player.playVideo();
+  highlightParagraph();
+}
+function findParagraph(sec){
+  var prev = transcript[0];
+  for (var i = 0; i < transcript.length; i++) {
+    var paragraph = transcript[i];
+    if (sec >= paragraph.timestamp_s){
+      prev = paragraph;
+    } else {
+      prev.end_s = paragraph.timestamp_s;
+      prev.lenght_s = paragraph.timestamp_s - prev.timestamp_s;
+      break
+    }
+  }
+  return prev;
+}
+function seek(sec){
+  if(player){
+    player.playVideo();
+    player.seekTo(sec, true);
+  }
+  console.log(findParagraph(sec));
+}
+var prevParagraph;
+function highlightParagraph() {
+  if (!player){
+    return;
+  }
+  var currentTime = player.getCurrentTime();
+  if (!currentTime){
+    return;
+  }
+  var currentParagraph = findParagraph(currentTime);
+  if (currentParagraph !== prevParagraph){
+    prevParagraph = currentParagraph;
+    Array.from(document.getElementsByClassName("transcript-paragraph")).forEach((e) => {
+      e.classList.remove('text-white');
+      e.classList.remove('bg-success');
+    });
+    var body = document.getElementById("body-"+currentParagraph.timestamp_s);
+    body.classList.add('text-white');
+    body.classList.add('bg-success');
+    console.log(currentParagraph);
+    var header = document.getElementById(""+currentParagraph.timestamp_s);
+    header.scrollIntoView({behavior: "smooth"});
+  }
+}
+time_update_interval = setInterval(highlightParagraph, 1000);
+            </script>
+
+            
+            <p id="0">
+                <a href="#0" onclick="seek(0);"><i class="fe fe-play"></i> 0:00  </a>
+                Sara Pawlikowska
+            </p>
+            <p id="body-0" class="transcript-paragraph">Hello, everyone, welcome to Grin.eco podcast. And today my guest will be Mark Pawlikowski, the co-founder of Conf42. Hello, Mark.</p>
+            
+            <p id="12">
+                <a href="#12" onclick="seek(12);"><i class="fe fe-play"></i> 0:12  </a>
+                Marek Pawlikowski
+            </p>
+            <p id="body-12" class="transcript-paragraph">What's up, Sara? How are you doing? Excited to be here and have a chat.</p>
+            
+            <p id="18">
+                <a href="#18" onclick="seek(18);"><i class="fe fe-play"></i> 0:18  </a>
+                Sara Pawlikowska
+            </p>
+            <p id="body-18" class="transcript-paragraph">Great. So let's warming up first with an absurd question. So if you could have a conversation with any animal, what animal would you choose? And what would you ask it?</p>
+            
+            <p id="33">
+                <a href="#33" onclick="seek(33);"><i class="fe fe-play"></i> 0:33  </a>
+                Marek Pawlikowski
+            </p>
+            <p id="body-33" class="transcript-paragraph">So that's probably the weirdest one I've had yet. But the answer is pretty simple. Capybara is going to be and if you asked me why is that I find that capybaras are probably the most chill animals on the planet. They can hang out with omnivores, carnivores, herbivores, they just chill. They love water as I do swimming and stuff. And, yeah, I'm kinda curious what they would say. Because it's not super obvious. But yeah, this will be the one.</p>
+            
+            <p id="70">
+                <a href="#70" onclick="seek(70);"><i class="fe fe-play"></i> 1:10  </a>
+                Sara Pawlikowska
+            </p>
+            <p id="body-70" class="transcript-paragraph">All right, very good answer. Okay, so you are the co-founder of Conf42. Could you tell us a bit more what Conf42 is?</p>
+            
+            <p id="81">
+                <a href="#81" onclick="seek(81);"><i class="fe fe-play"></i> 1:21  </a>
+                Marek Pawlikowski
+            </p>
+            <p id="body-81" class="transcript-paragraph">Well, yeah, apparently. So basically, Conf42 assembles software engineers, and IT people in general, online within virtual events that we organise, right now we are heading towards 18 Year. You might start kind counting how this is possible. But basically, this is the online formula that allows us to do as many as we do. And what we plan on is basically gathering some submissions from people. Regardless of their walks of life, they can be from every single city in the world with internet connection. And the main goal is to assemble them, to let them spread the word about the latest technologies, their findings, some tooling that they're using in their day-to-day life, very often those people have the first chance to speak at Conf42, which is very important, because you know, you don't become an epic keynote speaker overnight. So having those first opportunities and those moments when you can share your knowledge and your findings that you might find a tiny bit underwhelming at times, but then having a cosy space where he can just share those thoughts, and give out some insights on the things that you're using in your work is pretty much a nice opportunity for most of people. So we have a nice mix between seasoned speakers and people who are just starting the field.</p>
+            
+            <p id="189">
+                <a href="#189" onclick="seek(189);"><i class="fe fe-play"></i> 3:09  </a>
+                Sara Pawlikowska
+            </p>
+            <p id="body-189" class="transcript-paragraph">All right. Yeah?</p>
+            
+            <p id="193">
+                <a href="#193" onclick="seek(193);"><i class="fe fe-play"></i> 3:13  </a>
+                Marek Pawlikowski
+            </p>
+            <p id="body-193" class="transcript-paragraph">Yeah, I was just wondering, because, you know, it's funny, because, you know, we are siblings, but I was wondering at which point you kinda know what your brothers are doing. </p>
+            
+            <p id="210">
+                <a href="#210" onclick="seek(210);"><i class="fe fe-play"></i> 3:30  </a>
+                Sara Pawlikowska
+            </p>
+            <p id="body-210" class="transcript-paragraph">Better late than never.</p>
+            
+            <p id="211">
+                <a href="#211" onclick="seek(211);"><i class="fe fe-play"></i> 3:31  </a>
+                Marek Pawlikowski
+            </p>
+            <p id="body-211" class="transcript-paragraph">So what will be our vision on what Conf42 does, like, in general, because you've had some contacts with like, people at conferences. Do you think we're doing all right? </p>
+            
+            <p id="224">
+                <a href="#224" onclick="seek(224);"><i class="fe fe-play"></i> 3:44  </a>
+                Sara Pawlikowska
+            </p>
+            <p id="body-224" class="transcript-paragraph">Yeah, I think I think you guys are doing all right. Yeah, I remember the first conference you guys did, and it was in person back then. But now you guys focus on online stuff, mostly right? But I remember that it was amazing, very proud of you. And also, you managed to get people from really across the world. Some people would come from US just for one night talk at your conference. So it was very impressive.</p>
+            
+            <p id="254">
+                <a href="#254" onclick="seek(254);"><i class="fe fe-play"></i> 4:14  </a>
+                Marek Pawlikowski
+            </p>
+            <p id="body-254" class="transcript-paragraph">Yeah, and actually goes back to like the roots of Conf42 because as I mentioned, we started with in person and our first goal was to do in person. So back in 2019, I moved to London. And with Miko, the co-founder, we started thinking of a way to find something for us to do given our different walks of life. So I have the cinema background, I've been studying film, basically and video. And Miko is right now an SRE, site reliability engineer, and at the time he was working at a big corporation as the Technical Lead that was focusing on chaos testing, and hence the name of the first conference we did Conf42 chaos engineering back in 2020. And that the magic thing happened. I should say, the malediction on the whole world, the C-19. situation. And actually, the first conference was just right before the outbreak, like, literally one month before COVID started. So we were actually super lucky to be able to conduct it. Even though it was just, you know, the pandemic was just around the corner. So the whole reason why we started doing online is because of COVID. And so yeah, with Conf42 We stay online, while we start to develop other brands like SRE Day that focus more on in person events.</p>
+            
+            <p id="357">
+                <a href="#357" onclick="seek(357);"><i class="fe fe-play"></i> 5:57  </a>
+                Sara Pawlikowska
+            </p>
+            <p id="body-357" class="transcript-paragraph">Fair enough. Yeah, the C-word happened. Okay, but yeah, you guys have a chance to have a broad range of speakers from across the country. And so I'm wondering, is sustainability, like the climate change, anything like that. Is that the topic at all in any of your events? Does that come up?</p>
+            
+            <p id="387">
+                <a href="#387" onclick="seek(387);"><i class="fe fe-play"></i> 6:27  </a>
+                Marek Pawlikowski
+            </p>
+            <p id="body-387" class="transcript-paragraph">Well, it does at times, like, there is this whole conversation that is going around, like the responsibility towards the planet of companies, especially the big ones, they have a potentially bigger footprint than the small ones. Because just for the context, like we are a tiny, I would say even nano company at this point, we employ just a couple of people, which makes us like in terms of the carbon footprint, is quite minimal, because apart from using, like the normal media that you would use for office work, we do not like conduct any conferences with any sophisticated transportation. Of course, like the carbon footprint is everywhere. And we have to be aware of that. But for us, it hasn't been really like a big question, because we just wanted to be, you know, as small as we need to be. I mean, as big as we need to be to grow and keep making conferences, but in the sense that we didn't want to overgrow the whole company before it's necessary. So in terms of I think the key word here is the sustainability, right? How do we become sustainable for the planet? But yeah, I'm kind of new to this topic as well, because even though we have some conferences that had talks about, like what we can do to improve the footprint, like what technologies facilitate that, that was actually the question that I wanted to ask to you like, what would be like the top 5 or top 10 things that companies can do to become more sustainable over time?</p>
+            
+            <p id="500">
+                <a href="#500" onclick="seek(500);"><i class="fe fe-play"></i> 8:20  </a>
+                Sara Pawlikowska
+            </p>
+            <p id="body-500" class="transcript-paragraph">Yeah, so for the bigger companies, that's usually where all of the monitoring goes and there are various things people do. The monitoring is mostly when it comes to the carbon emissions. So many companies now they have a certain amount that they pay for, that they can emit. But then after that, there's a fine, they can't really do that. And there's a lot of pressure on how the companies show their carbon footprint to the public. Now, there's more demand on that. Which is, I guess, fair enough. But there are the small things as well, like what you said about trying not to overgrow, I think that's a very smart thing to do. If you don't need to use more electricity or paper or plastic, then don't do that. And that's a step in the right direction for sure. I know that there are also many other initiatives that are happening not only when it comes to companies, but universities as well. They try to encourage students to think about that. There are sustainability pledges in places around the UK universities, at least. So there's a lot of happening. And yeah, what you say it's sounds good enough, and smart and thoughtful approach, I would say.</p>
+            
+            <p id="598">
+                <a href="#598" onclick="seek(598);"><i class="fe fe-play"></i> 9:58  </a>
+                Marek Pawlikowski
+            </p>
+            <p id="body-598" class="transcript-paragraph">And we circled back to, I guess you have this brand new initiative of Grin.eco. So I wanted to maybe you know, this is the first episode. So maybe you could say what are the objectives of the initiative going forward? What plans you have to like, maybe increased the visibility on those problems, maybe increase awareness, like educate people? Or is it more like showing stuff for people to understand better the climate change? Or can you tell us more about this?</p>
+            
+            <p id="636">
+                <a href="#636" onclick="seek(636);"><i class="fe fe-play"></i> 10:36  </a>
+                Sara Pawlikowska
+            </p>
+            <p id="body-636" class="transcript-paragraph">Yeah, for sure. I don't think it's about educating people so much as there's a lot of information everywhere. So I think it's more about just making certain things more visible, and just showing them in simple form, since when you have 10s of books about climate change, you can't really read all of them, and do your own stuff at the same time, if you're not very interested in that. But since everyone kind of needs to start thinking about how to make their lives more sustainable, I feel like our main goal at Grin.eco is to just summarise and gather that information for you so that you don't have to go and read the whole book, you can just extract the stuff that you need. And we're trying to make it as appealing, as easy, looking for keywords, looking for patterns as well. There's a lot of knowledge out there. And we still don't have all the answers, but it's good, it's a good start to just have a look at what's already there. What you can do, and so that it's not overwhelming. So I guess that's what we're trying to do. And we're also we're just starting off. So we also have some ideas moving forward how to grow, but we'll see how that goes. But yeah, that brings me to my next question. So when it comes to new partnerships, would you say that companies they look for that kind of carbon transparency? Is that important?</p>
+            
+            <p id="752">
+                <a href="#752" onclick="seek(752);"><i class="fe fe-play"></i> 12:32  </a>
+                Marek Pawlikowski
+            </p>
+            <p id="body-752" class="transcript-paragraph">I wouldn't talk for all companies, I think they all have like different perspectives on that. But there is like a fine line, I feel like between companies trying to virtue signal, like saying, 'Oh, we are ecological now, because we reduced X and Y, while increasing the positive impact, we planted X trees'. So there's definitely that. Companies that need this kind of visibility to grow or to appeal to sponsors and kind of investors. But I think the best groundwork, for me personally happens a bit in the shadows, like you don't need to post everything on social media if you do something good for the environment. So of course, there's this fine balance between like, having this in mind and kind of acting silently, and needing to spread the word and you know, make it viral, if that makes sense. But this is a conversation that we've been having for quite some time regarding like Conf42. And what positive impact can we do as a company. And there might be potentially some things coming up, but for now is just in the plans. So I can't really give you any details for now. But to be honest, when speaking with startups, this is not very often a point of deeper conversation, but hopefully this keeps evolving and changing, you know, as the time goes.</p>
+            
+            <p id="858">
+                <a href="#858" onclick="seek(858);"><i class="fe fe-play"></i> 14:18  </a>
+                Sara Pawlikowska
+            </p>
+            <p id="body-858" class="transcript-paragraph">All right. So I guess we'll see what the future brings.</p>
+            
+            <p id="864">
+                <a href="#864" onclick="seek(864);"><i class="fe fe-play"></i> 14:24  </a>
+                Marek Pawlikowski
+            </p>
+            <p id="body-864" class="transcript-paragraph">That was a very, like big time explanation of 'we'll see'.</p>
+            
+            <p id="870">
+                <a href="#870" onclick="seek(870);"><i class="fe fe-play"></i> 14:30  </a>
+                Sara Pawlikowska
+            </p>
+            <p id="body-870" class="transcript-paragraph">All right, fair enough. Okay, well, I feel like that was a very insightful first episode.</p>
+            
+            <p id="882">
+                <a href="#882" onclick="seek(882);"><i class="fe fe-play"></i> 14:42  </a>
+                Marek Pawlikowski
+            </p>
+            <p id="body-882" class="transcript-paragraph">I hope you guys enjoyed it. And for all the Grin.eco enthusiasts and Conf42.com enjoyers. You can take a look at those two platforms. Definitely there's some potential if you'd like to share your knowledge on ecology or technology, or maybe in the future, eco-technology, we'll see how it goes. There has to be something in between. So, yeah, I hope that the project grows and you get more interest around those topics that seem to be like crucial for us to proceed like in terms of humankind, because otherwise we risk damaging the planet to the extent where it's hard to recover while we're alive, so definitely something to keep in mind. All right, so I have this appointment on Mars right now. You might be wondering why I have the suit. Actually, I'm going into space right now. So sorry, no more time. But yeah, I will see you on the next one, Sara.</p>
+            
+            <p id="951">
+                <a href="#951" onclick="seek(951);"><i class="fe fe-play"></i> 15:51  </a>
+                Sara Pawlikowska
+            </p>
+            <p id="body-951" class="transcript-paragraph">All right, safe travels. Thank you for coming. And thank you for listening.</p>
+            
+            </div>  
+        </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<!-- FOOTER -->
+<footer class="section-sm bg-tertiary">
+	<div class="container">
+		<div class="row justify-content-between">
+
+
+			<div class="col-lg-2 col-md-4 col-6 mb-4">
+				<div class="footer-widget">
+					<h5 class="mb-4 text-primary font-secondary">Grin.eco</h5>
+					<ul class="list-unstyled">
+            
+            
+						<li class="mb-2">
+              <a href="https://grin.eco">Home</a>
+						</li>
+            
+            
+            
+                
+                <li class="mb-2">
+                  <a href="podcast">Podcast</a>
+                </li>
+                
+                <li class="mb-2">
+                  <a href="books">Books</a>
+                </li>
+                
+            
+            
+					</ul>
+				</div>
+			</div>
+
+		</div>
+		<div class="row align-items-center mt-5 text-center text-md-start">
+			<div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
+				<ul class="list-unstyled list-inline mb-0 text-lg-center">
+					<!-- <li class="list-inline-item me-4"><a class="text-black" href="privacy-policy.html">Privacy Policy</a>
+					</li>
+					<li class="list-inline-item me-4"><a class="text-black" href="terms.html">Terms &amp; Conditions</a>
+					</li> -->
+				</ul>
+			</div>
+			<div class="col-lg-4 col-md-6 text-md-end mt-4 mt-md-0">
+				<ul class="list-unstyled list-inline mb-0 social-icons">
+					<li class="list-inline-item me-3"><a title="Facebook Profile" class="text-black" href="https://www.facebook.com/profile.php?id=100095805871033"><i class="fab fa-facebook-f"></i></a>
+					</li>
+					<li class="list-inline-item me-3"><a title="Instagram Profile" class="text-black" href=""><i class="fab fa-instagram"></i></a>
+					</li>
+					<li class="list-inline-item me-3"><a title="Linkedin Profile" class="text-black" href="https://www.instagram.com/grin.eco1/"><i class="fab fa-linkedin"></i></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</footer>
+
+
+<!-- # JS Plugins -->
+<script src="plugins/jquery/jquery.min.js"></script>
+<script src="plugins/bootstrap/bootstrap.min.js"></script>
+<script src="plugins/slick/slick.min.js"></script>
+<script src="plugins/scrollmenu/scrollmenu.min.js"></script>
+
+<!-- Main Script -->
+<script src="js/script.js"></script>
+
+</body>
+</html>
