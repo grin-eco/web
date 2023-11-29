@@ -90,130 +90,136 @@
 
 <!-- CONTENT -->
 
-<section class="banner bg-tertiary position-relative overflow-hidden">
+
+<!-- PODCAST -->
+<div class="section">
     <div class="container">
-        <div class="row align-items-center justify-content-center">
-            <div class="col-lg-6 mb-5 mb-lg-0">
-                <div class="block text-center text-lg-start pe-0 pe-xl-5">
-                    <h1 class="text-capitalize mb-4">Grin.eco Podcast</h1>
-                </div>
+        <div class="row justify-content-center">
+        <div class="col-lg-10">
+            <div class="mb-5">
+                <h2 class="mb-4" style="line-height:1.5">COP28 Explained</h2>
+                <time datetime="2022-11-29">November 29 2022</time>
             </div>
-            <div class="col-lg-6">
-                <div class="ps-lg-5 text-center">
-                    <img loading="lazy" decoding="async" src="assets/images/learn.png" class="" style="width:300px">
-                </div>
+            <div class="content">
+            <!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
+            <style>
+                .videoWrapper {
+                    position: relative;
+                    padding-bottom: 56.25%;
+                    /* 16:9 */
+                    padding-top: 25px;
+                    height: 0;
+                }
+                .videoWrapper iframe {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                }
+            </style>
+            <div class="videoWrapper">
+                <div id="player"></div>
             </div>
+            <!-- 2. Some funky code to stitch it together -->
+            <script>
+                var transcript = [{"body": "Hello everyone, welcome to the Grin podcast. My name is Sara Pawlikowska and I\u0027m the co-founder and Grin.eco, as I\u0027m sure you\u0027re aware, tomorrow, COP28 is kicking off in Dubai, and it\u0027s gonna be happening till the 12th of December, and we\u0027re super excited about it. But just in case you\u0027re not quite familiar with the concept, let me introduce you.", "speaker": "Sara Pawlikowska", "timestamp": "0:00  ", "timestamp_s": 0}];
+
+// 2. This code loads the IFrame Player API code asynchronously.
+var tag = document.createElement('script');
+
+tag.src = "https://www.youtube.com/iframe_api";
+var firstScriptTag = document.getElementsByTagName('script')[0];
+firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+// 3. This function creates an <iframe> (and YouTube player)
+//    after the API code downloads.
+var player;
+function onYouTubeIframeAPIReady() {
+  player = new YT.Player('player', {
+  //   height: '390',
+  //   width: '640',
+    videoId: 'i7MRzU5c_1E?si=32x9cutXltjRPHfn',
+    playerVars: {
+      'playsinline': 1
+    },
+    events: {
+      'onReady': onPlayerReady,
+      // 'onStateChange': onPlayerStateChange
+    }
+  });
+}
+
+// 4. The API will call this function when the video player is ready.
+function onPlayerReady(event) {
+  console.log("Player ready");
+  var sec = Number(location.href.split("#")[1]);
+  if (sec){
+    player.seekTo(sec, true);
+  }
+  player.playVideo();
+  highlightParagraph();
+}
+function findParagraph(sec){
+  var prev = transcript[0];
+  for (var i = 0; i < transcript.length; i++) {
+    var paragraph = transcript[i];
+    if (sec >= paragraph.timestamp_s){
+      prev = paragraph;
+    } else {
+      prev.end_s = paragraph.timestamp_s;
+      prev.lenght_s = paragraph.timestamp_s - prev.timestamp_s;
+      break
+    }
+  }
+  return prev;
+}
+function seek(sec){
+  if(player){
+    player.playVideo();
+    player.seekTo(sec, true);
+  }
+  console.log(findParagraph(sec));
+}
+var prevParagraph;
+function highlightParagraph() {
+  if (!player){
+    return;
+  }
+  var currentTime = player.getCurrentTime();
+  if (!currentTime){
+    return;
+  }
+  var currentParagraph = findParagraph(currentTime);
+  if (currentParagraph !== prevParagraph){
+    prevParagraph = currentParagraph;
+    Array.from(document.getElementsByClassName("transcript-paragraph")).forEach((e) => {
+      e.classList.remove('text-white');
+      e.classList.remove('bg-success');
+    });
+    var body = document.getElementById("body-"+currentParagraph.timestamp_s);
+    body.classList.add('text-white');
+    body.classList.add('bg-success');
+    console.log(currentParagraph);
+    var header = document.getElementById(""+currentParagraph.timestamp_s);
+    header.scrollIntoView({behavior: "smooth"});
+  }
+}
+time_update_interval = setInterval(highlightParagraph, 1000);
+            </script>
+
+            
+            <p id="0">
+                <a href="#0" onclick="seek(0);"><i class="fe fe-play"></i> 0:00  </a>
+                Sara Pawlikowska
+            </p>
+            <p id="body-0" class="transcript-paragraph">Hello everyone, welcome to the Grin podcast. My name is Sara Pawlikowska and I'm the co-founder and Grin.eco, as I'm sure you're aware, tomorrow, COP28 is kicking off in Dubai, and it's gonna be happening till the 12th of December, and we're super excited about it. But just in case you're not quite familiar with the concept, let me introduce you.</p>
+            
+            </div>  
+        </div>
         </div>
     </div>
-    <div class="has-shapes">
-      <svg class="shape shape-left text-light" viewBox="0 0 192 752" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path
-    d="M-30.883 0C-41.3436 36.4248 -22.7145 75.8085 4.29154 102.398C31.2976 128.987 65.8677 146.199 97.6457 166.87C129.424 187.542 160.139 213.902 172.162 249.847C193.542 313.799 149.886 378.897 129.069 443.036C97.5623 540.079 122.109 653.229 191 728.495"
-    stroke="currentColor" stroke-miterlimit="10" />
-    <path
-    d="M-55.5959 7.52271C-66.0565 43.9475 -47.4274 83.3312 -20.4214 109.92C6.58466 136.51 41.1549 153.722 72.9328 174.393C104.711 195.064 135.426 221.425 147.449 257.37C168.829 321.322 125.174 386.42 104.356 450.559C72.8494 547.601 97.3965 660.752 166.287 736.018"
-    stroke="currentColor" stroke-miterlimit="10" />
-    <path
-    d="M-80.3302 15.0449C-90.7909 51.4697 -72.1617 90.8535 -45.1557 117.443C-18.1497 144.032 16.4205 161.244 48.1984 181.915C79.9763 202.587 110.691 228.947 122.715 264.892C144.095 328.844 100.439 393.942 79.622 458.081C48.115 555.123 72.6622 668.274 141.552 743.54"
-    stroke="currentColor" stroke-miterlimit="10" />
-    <path
-    d="M-105.045 22.5676C-115.506 58.9924 -96.8766 98.3762 -69.8706 124.965C-42.8646 151.555 -8.29436 168.767 23.4835 189.438C55.2615 210.109 85.9766 236.469 98.0001 272.415C119.38 336.367 75.7243 401.464 54.9072 465.604C23.4002 562.646 47.9473 675.796 116.838 751.063"
-    stroke="currentColor" stroke-miterlimit="10" />
-</svg>
-      <svg class="shape shape-right text-light" width="474" height="511" viewBox="0 0 474 511" fill="none"
-xmlns="http://www.w3.org/2000/svg">
-<path
-  d="M601.776 325.899C579.043 348.894 552.727 371.275 520.74 375.956C478.826 382.079 438.015 355.5 412.619 321.6C387.211 287.707 373.264 246.852 354.93 208.66C336.584 170.473 311.566 132.682 273.247 114.593C220.12 89.5159 155.704 108.4 99.7772 90.3769C53.1531 75.3464 16.3392 33.2759 7.65012 -14.947"
-  stroke="currentColor" stroke-miterlimit="10" />
-<path
-  d="M585.78 298.192C564.28 319.945 539.378 341.122 509.124 345.548C469.472 351.341 430.868 326.199 406.845 294.131C382.805 262.059 369.62 223.419 352.278 187.293C334.936 151.168 311.254 115.417 275.009 98.311C224.74 74.582 163.815 92.4554 110.913 75.3971C66.8087 61.1784 31.979 21.3767 23.7639 -24.2362"
-  stroke="currentColor" stroke-miterlimit="10" />
-<path
-  d="M569.783 270.486C549.5 290.99 526.04 310.962 497.501 315.13C460.111 320.592 423.715 296.887 401.059 266.641C378.392 236.402 365.963 199.965 349.596 165.901C333.24 131.832 310.911 98.1265 276.74 82.0034C229.347 59.6271 171.895 76.4848 122.013 60.4086C80.419 47.0077 47.5905 9.47947 39.8431 -33.5342"
-  stroke="currentColor" stroke-miterlimit="10" />
-<path
-  d="M553.787 242.779C534.737 262.041 512.691 280.809 485.884 284.722C450.757 289.853 416.568 267.586 395.286 239.173C373.993 210.766 362.308 176.538 346.945 144.535C331.581 112.533 310.605 80.8723 278.502 65.7217C233.984 44.6979 180.006 60.54 133.149 45.4289C94.0746 32.8398 63.2303 -2.41965 55.9568 -42.8233"
-  stroke="currentColor" stroke-miterlimit="10" />
-<path
-  d="M537.791 215.073C519.964 233.098 499.336 250.645 474.269 254.315C441.41 259.126 409.422 238.286 389.513 211.704C369.594 185.13 358.665 153.106 344.294 123.17C329.923 93.2337 310.293 63.6078 280.258 49.4296C238.605 29.7646 188.105 44.5741 144.268 30.4451C107.714 18.6677 78.8538 -14.3229 72.0543 -52.1165"
-  stroke="currentColor" stroke-miterlimit="10" />
-</svg>
-    </div>
-</section>
-
-
-<!-- PODCASTS -->
-<section class="section pt-4">
-    <div class="container">
-
-        <!-- LIST -->
-        <div class="row">
-            
-                
-                <!-- PODCAST EPISODE-->
-<div class="col-lg-4 col-md-6" data-aos="fade">
-<article class="blog-post">
-    <div class="post-slider slider-sm rounded">
-        <a href="podcast_COP28_explained">
-            <img
-            loading="lazy"
-            decoding="async"
-            src="assets/images/Grin.eco_COP28_cover.png" alt=""
-            />
-        </a>
-    </div>
-    <div class="pt-2">
-    <time datetime="2022-11-29">November 29 2022</time>
-    <h2 class="h4">
-        <a
-        class="text-black"
-        href="podcast_COP28_explained"
-        >COP28 Explained</a>
-    </h2>
-    <p>COP28 is kicking off tomorrow!</p>
-    <a
-        href="podcast_COP28_explained"
-        class="text-primary fw-bold"
-        aria-label="Listen to COP28 Explained"
-    >Listen</a>
-    </div>
-</article>
 </div>
-            
-                
-                <!-- PODCAST EPISODE-->
-<div class="col-lg-4 col-md-6" data-aos="fade">
-<article class="blog-post">
-    <div class="post-slider slider-sm rounded">
-        <a href="podcast_ep1_sustainability_in_tech">
-            <img
-            loading="lazy"
-            decoding="async"
-            src="assets/images/Podcast Ep1 cover.png" alt=""
-            />
-        </a>
-    </div>
-    <div class="pt-2">
-    <time datetime="2022-10-27">October 27 2022</time>
-    <h2 class="h4">
-        <a
-        class="text-black"
-        href="podcast_ep1_sustainability_in_tech"
-        >Sustainability in Tech from a Founder's perspective</a>
-    </h2>
-    <p>Is sustainability a topic in the technology sector?</p>
-    <a
-        href="podcast_ep1_sustainability_in_tech"
-        class="text-primary fw-bold"
-        aria-label="Listen to Sustainability in Tech from a Founder's perspective"
-    >Listen</a>
-    </div>
-</article>
-</div>
-            
-        </div>
-    </div>
-</section>
 
 
 
