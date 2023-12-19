@@ -175,3 +175,41 @@ As a final note, Gates discusses how his own opinion on using less has shifted t
 [//]: # (carbon capture)
 [//]: # (DAC)
 
+
+
+## Chapter: How we make things
+
+* materials like steel, concrete, glass & plastics are important to modern lifestyles
+* producing them releases CO2 into the atmosphere
+* some materials, like concrete, are harder to turn carbon-neutral than others
+* electrification relying on clean electricity production can help
+
+When you look at various signs of improving lifestyles, you see a lot of man-made materials. Skyscrapers are full of concrete, steel & glass. Cars & electronics contain plenty of plastics. These materials are extremely successful, but the way we produce them at the moment releases a lot of greenhouse gases into the atmosphere.
+
+Steel is made of iron and carbon, and is both strong and easy to bend while hot. The form of iron that you dig out of the ground (iron ore) is polluted with other elements. To make steel, you melt the iron ore at high temperature in the presence of oxygen & carbon. The byproduct is CO2 - 1.8 tons of CO2 for every 1 ton of steel produced. The world is expected to produce about 5 billion tons of CO2 yearly from steel production by 2050.
+
+Concrete production offers a similar story. To make concrete, you use cement. To make cement, you use calcium. To get calcium, you burn limestone, and produce 1 ton of CO2 for every ton of calcium. This contributes another 4 billion tons per year at the moment, and currently there is no known way to produce cement without releasing CO2.
+
+Plastics, specifically synthetic plastics, are made of carbon mixed with other elements like hydrogen and oxygen. The carbon is typically taken from a fossil fuel, and while the good news is that instead of going into the atmosphere, a large proportion of the carbon ends up in the end material; the bad news is that the carbon bonds are very durable, and the plastics we produce can take hundreds of years to degrade, ending up with all kinds of problems from poisoning marine life, to filling up landfills for centuries.
+
+To address the emissions linked to these materials, you need to look at all the stages involved:
+
+* electricity needed to run the factories & equipment
+* the way to generate the heat needed
+* the side products of actually making the materials in question
+
+The first problem is the one of clean electricity, discusses in previous chapter. The second one requires high temperatures that typically require either burning a fossil fuel or nuclear energy. Capturing back some of the CO2 produced can help. The third problem is the hardest, and we don't have a solution in some cases. We can offset some of that with more carbon capture.
+
+Added all together, the green premiums (extra cost to make the process greenhouse gas-netural) end up being 75-140% for cement, 16-29% for steel and 9-15% for plastics.
+
+How can we get these to be lower? Use clean electricity, and electrify the existing process as much as possible. For example, a new process called molten oxide electrolysis can purify the iron needed for steel production without requiring high temperatures currently achieved through burning fossil fuels.
+
+And given that plastics contain a lot of carbon, they have the hypthetical potential to become carbon sinks - if we could capture it from other processes.
+
+[//]: # (steel)
+[//]: # (concrete)
+[//]: # (cement)
+[//]: # (glass)
+[//]: # (plastics)
+[//]: # (molten oxide electrolysis)
+[//]: # (DAC)
