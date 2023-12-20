@@ -261,7 +261,8 @@ The remaining 30% of the emissions are largely due to the deforestation. The def
 ## Chapter: How we get around
 
 * gasoline is energy dense and cheap, which makes it hard to replace
-* 
+* we should electrify the vehicles we can, and use altenative fuels for the rest
+
 
 Gasoline is simultaneusly remarkably energy dense and cheap. A gallon of gas contains the same amount of energy as 130 sticks of dynamine, and it's cheaper than milk or orange juice. Which makes it hard to replace - we'll need something that's just as energy dense and jusrt as cheap.
 
@@ -301,4 +302,43 @@ The prescription for solving the transportation problem becomes rather clean-cut
 [//]: # (tag:container ship)
 [//]: # (tag:tracks)
 [//]: # (tag:SUV)
+
+
+
+## Chapter: How we keep cool and stay warm
+
+* 90% of American households have AC, and it's the single biggest electricty consumer
+* existing technology can already improve AC power demand significantly
+* technologies like heat pumps are already more efficient & cheaper than fossil-fuel powered options
+* to electrify heating, we need carbon-neutral electricity
+
+
+The first machine to cool the air is credited to John Gorrie, a physician in Florida, who tried to help his patients recover from malaria. Built in the 1840, it relied on a block of ice to cool the room. In 1902 Willis Carrier, an engineer working in a print shop, designed a machine to decrease humidity in a room while also decreasing the temperature, and started the air-conditioning industry.
+
+Today, 90% of American households have some kind of air conditioning, and it's the household's largest electricity consumer. Worldwide, there is an estimated 1.6 billion units, unevenly distributed primarily in rich countries. The number is expected to hit 5 billion by 2050, tripling the energy demand.
+
+As it turns out, we can make a big difference by just using more efficient, more modern units. Some estimates place an average unit to be only half as efficient as the the best models available now. Regulations, including clean way of marking efficiency and long-term costs of units, can help with that.
+
+The greenhouse emissions are also due to the refrigerants - known as F-gases - which slowly escape aging AC units, and have a powerful effect of warming up the atmosphere.
+
+The other side of the equation is heating - our offices, homes & water furnaces. The approach is similar the personal cars: electrify what you can, and find cheap alternative fuels for the rest.
+
+One of the existing technologies is a heat pump. It leverages the fact that gases and liquids change their temperature as they expand and contract. This allows heat pumps to move heat from one place to another, just like your fridge already does. In many places, the overall cost of buying and operating a heat pump over 15 years is cheaper than using fossil fuels to heat and cool the building. So why aren't they more widely used?partly, due to the long lifespan of installations, and partly due to outdated policies favouring things like natural gas over an electric alternative, which is less efficient.
+
+Yet again, the suggested solution relies on decarbonising the power grid - none of this helps, if the electricity is not produced in a carbon-neutral way.
+
+The chapter also mentions Seattle's Bullitt Centre, which at times can produce 60% more energy than it needs to run. Even though that building is very expensive, some of the technologies have a good chance of spreading around; for example, supertight envelope (little air gets in and out), triple glazing, good insulation, efficient doors, and smart windows, which automatically tint to keep the room cool, and turn lighter to let it warm up.
+
+
+[//]: # (tag:AC)
+[//]: # (tag:John Gorrie)
+[//]: # (tag:Willis Carrier)
+[//]: # (tag:F-gases)
+[//]: # (tag:refrigerants)
+[//]: # (tag:heat pump)
+[//]: # (tag:fridge)
+[//]: # (tag:Bullitt Center)
+[//]: # (tag:supertight envelope)
+[//]: # (tag:triple glazing)
+[//]: # (tag:smart windows)
 
