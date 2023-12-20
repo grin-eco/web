@@ -343,3 +343,36 @@ The chapter also mentions Seattle's Bullitt Centre, which at times can produce 6
 [//]: # (tag:triple glazing)
 [//]: # (tag:smart windows)
 
+## Chapter: Adapting to a warmer world
+
+* just about everyone who's alive today will need to adapt to the warmer world
+* all cities will be affected, but the coastal ones will be affected more
+* we should invest in our natural defences
+* there is an economical case, not only moral, to deploying new funds to prevent climate change
+* geoengineering, or engineering a change in the atmosphere to cool down the planet, might be a break-glass solution that we need
+
+
+Gates asserts, that just about everyone alive today will need to adapt to a warmer world, but the its effects won't be distributed evenly. Even though people in the poorer parts of the world do the least to cause emissions, they are the most likely to suffer from it. For example, what will be a problem to deal with for a comparatively well-off farmer in North America might completely wipe out a substanance farmer in Africa or Asia. Increased draughts and floods are likley to drive the food prices up, and that will be felt the most by the poorest, millions of whom are already spending more than half of their incomes on food. And food insecurity will contribute to the raise in rates of malnurishment, and declining health care overall. Therefore any philantropic efforts should prioritise health care and preventing malnourishment.
+
+CGIAR (Consultative Group for International Agricultural Research) helps create better palnts and better animal genetics. Norman Borlaug's wheat breathrough happened at their labs, and so did the invention of "scuba" rice, which can survive being submerged in water for up to two weeks, making it much better at surviving floods. Another example is a deployment of modified maize seed in Zimbabwe, which allowed for 600 kg higher yields per hectare, thanks to its drought-tolerant properties. CGIAR also works on other technologies, including an app to diagnose cassava pests and diseases using a smartphone.
+
+Gates makes three recommendation related to the agriculture: help farmers manage the risks from more chaotic weather; focus on the most vulnerable people; factors climate change into policy decisions.
+
+For cities specifically, the author offers a three-stage plan. First, reduce the risks posed by warming planet. Second, prepare for emergencies. And third, plan for the recovery period after disasters.
+
+All cities will be affected, but the coastal ones will be affected the most. The city planners should gather the data on climate risks and projections from computer models to make informed decisions on how to grow their cities, and where to invest first to protect them from storms and raising sea levels, for example. And cities with a lot of hot days will need to invest in cooling centers, where people can flee the heat.
+
+We should also invest in our natural defences. For example, forests store and regulate water, wetlands prevent floods and coral reefs provide home to the fish that coastal towns rely on for food. A good example is that of mangroves. They are short trees that grow along coastlines, adopted to saltwater, and help reduce storm surges. The mangroves alone can save the world about $80 billion a year in losses to floods.
+
+We will also need to produce more drinking water. As freshwater sources dry up, we will need to innovate to continue providing potable water to populations. The desalination technology already exists, but it's very energy-heavy, so it boils back to the question of generating clean electricity.
+
+It's clear, that we're going to need to unlock more money to fund these projects. Gates estimated that an investment of $1.8 trillion into five key areas (early warning systems, waste management, climate-resiliant infrastructure, raising crop yields, and protecting mangroves) would yield more than $7 trillion between 2020 and 2030. So the case is not just morally justified, but also economically.
+
+If all that fails, we might be left with no other option than to try to engineer an emergency solution to cool down the planet. Various approaches all under the common umbrella of "geoengineering", and they all rely on putting things in the atmosphere to reflect some of the energy back, for example spraying salts. This has the advantage of being comparatively simple & cheap, but it's often criticised as conducting a planet-scale expriment. But we're already conducing one - by putting more greenhouse gases in the atmosphere - so we might need a break-glass solution. Gates is advising to at least discuss and research, so that we can be more prepared if such a need arises more suddenly than we expect.
+
+
+[//]: # (tag:CGIAR)
+[//]: # (tag:cities)
+[//]: # (tag:mangrove)
+[//]: # (tag:geoengineering)
+
