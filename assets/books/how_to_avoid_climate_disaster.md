@@ -16,9 +16,10 @@
 
 Virtually every part of a modern lifestyle contributes to releasing greenhouse gases. If the world carries on like it is, Gates predicts that the effects of the charning climate will be catastrophic. Gates initially started from the angle of delivering affordable energy to the poor, but as he dove into the details, he realised that it also needed to be done without emitting any new greenhouse gases. It's not acceptable to demand from poorer nations to not use more energy, so the only way forward is to make the clean sources the cheapest option.
 
-Gates also addresses his own 'absurdly high' carbon footprint, including flying private planes toparis climate conference. He believes that his other actions, like offsetting his family's aviation emissions will make up for it.
+Gates also addresses his own 'absurdly high' carbon footprint, including flying private planes to a Paris climate conference. He believes that his other actions, like offsetting his family's aviation emissions will make up for it.
 
 The book will follow five parts:
+
 * why going to zero is necessary
 * how to have an informed opinion about climate change
 * why going to zero will be very hard
