@@ -257,3 +257,48 @@ The remaining 30% of the emissions are largely due to the deforestation. The def
 [//]: # (tag:nitrous oxide)
 [//]: # (tag:Haber-Bosch)
 [//]: # (tag:planting trees)
+
+## Chapter: How we get around
+
+* gasoline is energy dense and cheap, which makes it hard to replace
+* 
+
+Gasoline is simultaneusly remarkably energy dense and cheap. A gallon of gas contains the same amount of energy as 130 sticks of dynamine, and it's cheaper than milk or orange juice. Which makes it hard to replace - we'll need something that's just as energy dense and jusrt as cheap.
+
+Transportation is usually the first thing people think about when asked about emissions. Globally, it's 16% of global emissions. In the USA, however, it's the number 1 cause for emissions.
+
+The emissions in this category break into several sub-categories:
+
+* 47% - passenger cars, SUVs and motorcycles
+* 30% - garbage tracks, buses and 18-wheelers
+* 10% - cargo and cruise ships
+* 10% - airplanes
+* 3% - others
+
+The passenger cars are the biggest category, with over 1 billion cars on the road around the world. The best way to clean up this lot is to choose electric vehicles (the author predicts green premiums to reach zero by 2030) and make sure that the electricty used to power it is carbon-neutral. When considering electric vehicles, it's not just the price of gas and electricity that matters, as EVs tend to cost less in maintenance. Currently, less than 2% of all new vehicles sold are EVs globally.
+
+Another option is to use liquid fuels that reuse the carbon already present in the atmosphere. "Alternative fuels" is often used to describe ethanol. Ethanol is already widely used - most gasoline in the USA contains about 10% ethanol. However, depending on how it's produced, it might not be low-carbon, and the land it uses competes with other crops.
+
+Second generation biofuels, including using switchgrass, try to address these issues, and sometimes offer a drop-in replacements to gasoline. However, at the moment, their price commands over 100% green premium.
+
+Another alternative, called electrofuels, used electricity to combine the hydrogen in water with carbon in carbon dioxide, resulting in hydrocarbon fuels. While they provide a carbon-neutral option, they're currently very expensive, at 237% premium, and it's benefits rely on using carbon-neutral electricity.
+
+Garbage tracks, buses and 18-wheelers can be split into two categories: medium-duty, where electrifying makes sense; and heavy-duty, where the size and weight of the batteries required stops making sense. Pound for pound, the best lithium-ion batteries on the market are 35 times heavier than gasoline that contains the same energy. Co an electric bus driving around a city is easier to make sense than a heavy lorry driving across the country. Advanced biofuels and electrofuels are both available at similar green premiums to passenger cars (103% and 234%, respectively).
+
+Ships and planes take the same problem to the extreme. In addition, container ships use bunker fuel, which is even cheaper than regular gasoline, so the green premiums for advanced biofuels and electrofuels become even higher (326% and 601%, respectively.) While batteries keep improving, it's hard to see how they can compete with jet fuel on price. The advanced biofuels and electrofuels are available, at 141% and 296% premiums.
+
+What else can we do? We could travel less, and we can get more efficient using fuels. We could also use nuclear energy for large container ships, using the technology powering military ships.
+
+The prescription for solving the transportation problem becomes rather clean-cut: electrify all the vehicles we can, and try to bring down the price of lower-emission fuels for the rest.
+
+
+[//]: # (tag:gasoline)
+[//]: # (tag:electric vehicle)
+[//]: # (tag:EV)
+[//]: # (tag:gasoline)
+[//]: # (tag:advanced biofuel)
+[//]: # (tag:electrofuel)
+[//]: # (tag:container ship)
+[//]: # (tag:tracks)
+[//]: # (tag:SUV)
+
