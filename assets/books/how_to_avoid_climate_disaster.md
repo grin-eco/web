@@ -111,7 +111,7 @@ Finally, let's think about costs. The existing energy technologies are typically
 * making electricty is arguably the most important problem to tackle to reduce greenhouse gases emissions
 * we're going to need a collection of various technologies working together to achieve a reduction
 * each technology comes with unique advantages and disadvantages, and progress is being made on mitigating the latter
-* 
+
 
 Cheap & reliable electicity is a bedrock of modern life. Generating that electricity produces 27% of the world's greenhouse emissions.
 
@@ -219,5 +219,37 @@ And given that plastics contain a lot of carbon, they have the hypthetical poten
 
 19% of the 51 billion tons of CO2e falls under the category called "agriculture, forestry and other land uses". With agriculture, the primary greenhouse gases are methane (causes 28 times more warming per molecule than CO2), and nitrous oxide (causes 265 times more warming).
 
-Thanks to various breakthroughs, like Norman Borlaug's modified semi-dwart wheat which yields more than plain old wheat, the prices of food tend to get lower over time, not higher. And as people get richer, they tend to eat more meat, which contributes to increased emissions. To raise a chicken, we need to provide two calories' worth of food for each calorie of the end product. It's three and six, respectively, for pigs and beef. So the problem is this: how to produce more food, bigger percentage of which will be meat, without increasing the greenhouse emissions.
+Thanks to various breakthroughs, like Norman Borlaug's modified semi-dwarf wheat which yields more than plain old wheat, the prices of food tend to get lower over time, not higher. And as people get richer, they tend to eat more meat, which contributes to increased emissions. To raise a chicken, we need to provide two calories' worth of food for each calorie of the end product. It's three and six, respectively, for pigs and beef. So the problem is this: how to produce more food, bigger percentage of which will be meat, without increasing the greenhouse emissions.
 
+There is about a billion cattle raised for beef and diary around the world. When cattle eats grass, they leverage bacteria in their stomachs (in a process called enteric fermentation) to digest it. The side product burped by these cows is primarily methane, which accounts for about 2 billion CO2e, or 4% of all global emissions. Additionally, animal poop, while it decomposes, it produces various greenhouse gasses; primarily nitrous oxide and methane, sulfur and ammonia. The manure is the second biggest cause of emissions in this category.
+
+The attemps to reduce animal breeding-related emissions have been largely unsuccessful. Short of stopping to breed livestock, attempts have been made to produce plant-based meat substitutes (Gates mentions Beyond Meat, and Impossible Foods, two companies he's invested in), or lab-grown meat, where real animal tissue is extracted from a life animal, and then grown in the lab (currently very expensively).
+
+Food waste itself is believed to contribute around 3.3 billion tons of CO2e each year. In Europe, parts of Asia and Africa, about 20% of food is wasted. In the USA, about 40% of all foods ends up in the bin.
+
+Synthetic fertilizer was a key factor in the agricultural revolution in the 1960 and 70ties, that nearly quadrupled the yields of farmers in the USA. Plants' growth is in big part driven by the presence of nitrogen. Most plants can't produce it, and they rely on microbes in the soil to turn ammonia into nitrogen. That's why, for epochs, humans used natural fertilizers like manure to increase crop yields.
+
+The breakthrough, Haber-Bosch process, came in 1908, and allows us to create ammonia from nitrogen and hydrogen in the factory. However, using an artificial fertilizer has it's downsides. For one, it disrupts the natural organisms in the soil, and they stop producing nitrogen. In addition, the extra fertilizer ends up evaporating in the form of nitrous oxide and polluting surface waters.
+
+In 2010, the making of fertilizer (which includes high temperatures) contributed about 1.3 billion tons of CO2e, and at the moment, we don't have a practical way of making it a zero-carbon way.
+
+Some of the ideas explored include modified plants that can get bacteria to produce nitrogen for them, or modified bacteria that always produces nitrogen, even if it's already present in the soil.
+
+The remaining 30% of the emissions are largely due to the deforestation. The deforestation happens in different places for different reasons, including making room for breeding livestock, or planting lucrative plants to produce things like palm oil. While we certainly need to slow down the deforestation, just planting trees doesn't solve the problem either. As a rule of thumb, an average tree will capture about 4 tons of carbon over its 40 year lifespan. That means, that just to cover the current emissions of the USA, we would need to plant 16 billion acres of trees, or roughly half the landmass of the world. The author's recommendation is thus to focus on stopping cutting down trees.
+
+
+
+[//]: # (tag:norman borlaug)
+[//]: # (tag:semi-dwarf wheat)
+[//]: # (tag:enteric fermentation)
+[//]: # (tag:manure)
+[//]: # (tag:plant-based meat)
+[//]: # (tag:Beyond Meat)
+[//]: # (tag:Impossible Foods)
+[//]: # (tag:lab-grown meat)
+[//]: # (tag:food waste)
+[//]: # (tag:nitrogen)
+[//]: # (tag:fertilizer)
+[//]: # (tag:nitrous oxide)
+[//]: # (tag:Haber-Bosch)
+[//]: # (tag:planting trees)
