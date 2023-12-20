@@ -217,6 +217,10 @@ And given that plastics contain a lot of carbon, they have the hypthetical poten
 
 ## Chapter: How we grow things
 
+* agriculture produces greenhouse gases through enteric fermentation, manure & fertilizer use and production
+* as much as 40% of all food in the USA is wasted
+* deforestation contributes about 30% of emissions in this category, but we don't have enough landmass to offset our emissions just through planting more trees
+
 19% of the 51 billion tons of CO2e falls under the category called "agriculture, forestry and other land uses". With agriculture, the primary greenhouse gases are methane (causes 28 times more warming per molecule than CO2), and nitrous oxide (causes 265 times more warming).
 
 Thanks to various breakthroughs, like Norman Borlaug's modified semi-dwarf wheat which yields more than plain old wheat, the prices of food tend to get lower over time, not higher. And as people get richer, they tend to eat more meat, which contributes to increased emissions. To raise a chicken, we need to provide two calories' worth of food for each calorie of the end product. It's three and six, respectively, for pigs and beef. So the problem is this: how to produce more food, bigger percentage of which will be meat, without increasing the greenhouse emissions.
