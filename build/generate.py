@@ -160,6 +160,7 @@ for book_file in book_files:
     with open(book_file, "r") as f:
         content = f.readlines()
         context["books"].append(parse_book_markdown(content, book_file))
+context["books"].sort(key=lambda x: x.get("date"), reverse=True)
 
 print(DIVIDER)
 print("Processing tags for %d books" % (len(context["books"])))
