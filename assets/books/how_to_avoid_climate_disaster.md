@@ -4,7 +4,7 @@
 [//]: # (author:Bill Gates)
 [//]: # (summary_author:Mikolaj Pawlikowski)
 [//]: # (date:2023-12-11)
-[//]: # (picture_path:./assets/images/How bad are bananas cover.png)
+[//]: # (picture_path:./assets/images/Bill Gates how to avoid climate disaster cover.png)
 
 ## Summary
 
@@ -51,11 +51,11 @@ We know that the earth is warming, it's about 1 degree Celsius higher than durin
 
 Gates argues for the rich countries as the place where a lot of mitigation needs to start, not only because that's where the bulk of the emissions have been done historically, but also because they are best suited to develop the necessary climate solutions in terms of funding, infrastructure and seizing the economic opportunity. 
 
-[//]: # (CO2)
-[//]: # (methane)
-[//]: # (CO2e)
-[//]: # (net zero)
-[//]: # (greenhouse effect)
+[//]: # (tag:CO2)
+[//]: # (tag:methane)
+[//]: # (tag:CO2e)
+[//]: # (tag:net zero)
+[//]: # (tag:greenhouse effect)
 
 
 
@@ -70,7 +70,7 @@ Fossil fuels are cheap and abundant, and massive industries have grown around th
 
 To top things up, our timeline is probably shorter than any of the previous gigantic changes that we've gone through as a species.
 
-[//]: # (greenhouse gases)
+[//]: # (tag:greenhouse gases)
 
 
 
@@ -101,9 +101,9 @@ Fourthly, different forms of energy production have vastly different space requi
 
 Finally, let's think about costs. The existing energy technologies are typically the cheapest. The added cost to use a lower emission alternative is called a Green Premium. Considering different ideas, it's important to look at whether the Green Premium is affordable to everyone. Unfortunately, we don't yet have alternatives for everything (for example cement), so it's not always easy to estimate the Green Premiums.
 
-[//]: # (sources of emissions)
-[//]: # (power density)
-[//]: # (green premium)
+[//]: # (tag:sources of emissions)
+[//]: # (tag:power density)
+[//]: # (tag:green premium)
 
 
 ## Chapter: How we plug in
@@ -160,20 +160,20 @@ The chapter discusses capturing carbon. Point capture focuses on where the CO2 i
 As a final note, Gates discusses how his own opinion on using less has shifted to more favourable, once he realised just how much land would be required to meet the raising electricity demands with solar and wind power alone.
 
 
-[//]: # (electricity)
-[//]: # (intermittency)
-[//]: # (transmission)
-[//]: # (fission)
-[//]: # (fusion)
-[//]: # (nuclear power)
-[//]: # (ITER)
-[//]: # (geothermal)
-[//]: # (pumped hydro)
-[//]: # (thermal storage)
-[//]: # (hydrogen)
-[//]: # (electrolysis)
-[//]: # (carbon capture)
-[//]: # (DAC)
+[//]: # (tag:electricity)
+[//]: # (tag:intermittency)
+[//]: # (tag:transmission)
+[//]: # (tag:fission)
+[//]: # (tag:fusion)
+[//]: # (tag:nuclear power)
+[//]: # (tag:ITER)
+[//]: # (tag:geothermal)
+[//]: # (tag:pumped hydro)
+[//]: # (tag:thermal storage)
+[//]: # (tag:hydrogen)
+[//]: # (tag:electrolysis)
+[//]: # (tag:carbon capture)
+[//]: # (tag:DAC)
 
 
 
@@ -206,13 +206,13 @@ How can we get these to be lower? Use clean electricity, and electrify the exist
 
 And given that plastics contain a lot of carbon, they have the hypthetical potential to become carbon sinks - if we could capture it from other processes.
 
-[//]: # (steel)
-[//]: # (concrete)
-[//]: # (cement)
-[//]: # (glass)
-[//]: # (plastics)
-[//]: # (molten oxide electrolysis)
-[//]: # (DAC)
+[//]: # (tag:steel)
+[//]: # (tag:concrete)
+[//]: # (tag:cement)
+[//]: # (tag:glass)
+[//]: # (tag:plastics)
+[//]: # (tag:molten oxide electrolysis)
+[//]: # (tag:DAC)
 
 
 ## Chapter: How we grow things
