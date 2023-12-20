@@ -4,7 +4,7 @@
 [//]: # (author:Bill Gates)
 [//]: # (summary_author:Mikolaj Pawlikowski)
 [//]: # (date:2023-12-11)
-[//]: # (picture_path:./assets/images/How bad are bananas cover.png)
+[//]: # (picture_path:./assets/images/Bill Gates how to avoid climate disaster cover.png)
 
 ## Summary
 
