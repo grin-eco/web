@@ -147,7 +147,7 @@ for podcast in context.get("podcasts"):
     with open(BASE_FOLDER + "/" + podcast.get("short_url").replace(".html","") + ".html", "w") as f:
         template = env.get_template("podcast_episode.html")
         f.write(template.render(podcast=podcast, **context))
-        SITEMAP_URLS.append((podcast.get("short_url").replace(".html",""), 0.81))
+        SITEMAP_URLS.append(podcast.get("short_url").replace(".html",""))
 
 # BOOKS
 book_files = []
@@ -192,7 +192,7 @@ for book in context.get("books"):
     with open(BASE_FOLDER + "/" + book.get("short_url").replace(".html","") + ".html", "w") as f:
         template = env.get_template("book.html")
         f.write(template.render(book=book, **context))
-        SITEMAP_URLS.append((book.get("short_url").replace(".html",""), 0.81))
+        SITEMAP_URLS.append(book.get("short_url").replace(".html",""))
 
 print(DIVIDER)
 print("Generating %d tag pages" % (len(context["tags"])))
@@ -200,7 +200,7 @@ for tag in context.get("tags").values():
     with open(BASE_FOLDER + "/" + tag.get("url").replace(".html","") + ".html", "w") as f:
         template = env.get_template("tag.html")
         f.write(template.render(tag=tag, **context))
-        SITEMAP_URLS.append((tag.get("url").replace(".html",""), 0.81))
+        SITEMAP_URLS.append(tag.get("url").replace(".html",""))
 
 # MAIN PAGES
 print(DIVIDER)
@@ -212,7 +212,7 @@ for page in pages:
         template = env.get_template(page)
         f.write(template.render(page=page, **context))
         if page != "index.html":
-            SITEMAP_URLS.append((page.replace(".html",""), 0.75))
+            SITEMAP_URLS.append(page.replace(".html",""))
 
 # SITEMAP
 print(DIVIDER)
