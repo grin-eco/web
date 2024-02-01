@@ -15,3 +15,10 @@ podcasts:
   transcript: assets/podcasts/COP28_transcript.txt  # the file with the transcript from otter.ai
   short_url: podcast_COP28_explained              # only aphanumeric, -, _ allowed
   blurb: "COP28 is kicking off tomorrow!"                    # this will appear in the list views
+- title: "Agriculture for Climate with Philippe Birker"                             # Title, can be any characters
+  date: 2024-02-01                                          # YYYY-MM-DD
+  picture_path: assets/images/GrinCast ep3.jpg                      # picture to display
+  url: https://youtu.be/yORqa6W_ktw?feature=shared               # youtube video url
+  transcript: assets/podcasts/Grin_podcast 1_ Phillipe Birker.txt  # the file with the transcript from otter.ai
+  short_url: podcast_ep3_philippe_birker_agriculture_for_climate              # only aphanumeric, -, _ allowed
+  blurb: "Why regenerative agriculture is so important for the climate and our health"                    # this will appear in the list views
