@@ -10,7 +10,7 @@ podcasts:
   blurb: "Is sustainability a topic in the technology sector?"                    # this will appear in the list views
 - title: "COP28 Explained"                             # Title, can be any characters
   date: 2022-11-29                                          # YYYY-MM-DD
-  picture_path: assets/images/Grin.eco_COP28_cover.png                       # picture to display
+  picture_path: assets/images/GrinCast cover 2.jpg                      # picture to display
   url: https://youtu.be/i7MRzU5c_1E?si=32x9cutXltjRPHfn               # youtube video url
   transcript: assets/podcasts/COP28_transcript.txt  # the file with the transcript from otter.ai
   short_url: podcast_COP28_explained              # only aphanumeric, -, _ allowed
