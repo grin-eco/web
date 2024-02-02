@@ -2,14 +2,14 @@ podcasts:
 
 # TO ADD A NEW PODCAST, ADD AN ENTRYR LIKE THIS ONE:
 - title: "Sustainability in Tech from a Founder's perspective"                             # Title, can be any characters
-  date: 2022-10-27                                          # YYYY-MM-DD
+  date: 2023-10-27                                          # YYYY-MM-DD
   picture_path: assets/images/GrinCast ep1.jpg                       # picture to display
   url: https://youtu.be/0aJcS9XzCqM               # youtube video url
   transcript: assets/podcasts/Grin.eco_Ep1_Marek&Sara.txt  # the file with the transcript from otter.ai
   short_url: podcast_ep1_sustainability_in_tech              # only aphanumeric, -, _ allowed
   blurb: "Is sustainability a topic in the technology sector?"                    # this will appear in the list views
 - title: "COP28 Explained"                             # Title, can be any characters
-  date: 2022-11-29                                          # YYYY-MM-DD
+  date: 2023-11-29                                          # YYYY-MM-DD
   picture_path: assets/images/GrinCast ep2.jpg                      # picture to display
   url: https://youtu.be/i7MRzU5c_1E?si=32x9cutXltjRPHfn               # youtube video url
   transcript: assets/podcasts/COP28_transcript.txt  # the file with the transcript from otter.ai
