@@ -1,104 +1,120 @@
-[00:00:00] Yeah.
+Sara Pawlikowska  0:05
+Hello everyone. Welcome to Grin.eco Podcast. My name Sara Pawlikowska, the co-founder at Grin.eco. And today my guest is Joao Fonseca, who is the expert on sustainability and permaculture designer. How are you doing today? 
 
-[00:00:05] Track 1: Hello everyone. Welcome to Grin.eco Podcast. My name Sara Pawlikowska, the co-founder at Grin.eco. And today my guest is Joao Fonseca, who is the expert on sustainability and permaculture designer. How are you doing today? 
+Joao Fonseca  0:18
+I'm good, thanks.
 
-[00:00:18] Joao Fonseca: I'm good, thanks.
+Sara Pawlikowska  0:19
+Good to have you here. So just before we begin, I would like to warm you up with a question first. So what is your most favorite Polish dish?
 
-[00:00:19] Sara Pawlikowska: Good to have you here. So just before we begin, I would like to warm you up with a question first. So what is your most favorite Polish dish?
+Joao Fonseca  0:28
+I would say pierogi ruskie, and barszcz that's amazing.
 
-[00:00:28] Joao Fonseca: I would say pierogi ruskie, and barszcz that's amazing.
+Sara Pawlikowska  0:33
+Very delicious So first of all, I would like to ask you about your background. Could you tell us a little bit about your journey?
 
-[00:00:33] Sara Pawlikowska: Very delicious So first of all, I would like to ask you about your background. Could you tell us a little bit about your journey?
+Joao Fonseca  0:39
+I was studying in university industrial product designing, and then I started to work as a light designer while I was doing the Master in sustainable energetic systems and 
 
-[00:00:39] Joao Fonseca: I was studying in university industrial product designing, and then I started to work as a light designer while I was doing the Master in sustainable energetic systems and 
+Joao Fonseca  0:52
+I designed a lot of, lighting solutions for outdoor indoor, for retail for different areas. Later I joined a project of soft mobility I was able to design and in bike sharing solutions for cities. And I was also able to create my own company and start working as a consultancy in the design area. More focused in sustainability, but working in different fields like metal furniture, RP refining systems. later, with the help of my wife we also offer some consultancy in slow fashion, slow beauty wellbeing solutions like biohacking and others that we'll talk later. But nowadays we are working in several countries like Switzerland, Dubai, India, China, Belgium, Spain, Poland, and UK and so far so good. It's been a great experience. A lot of learning during the process. 
 
-[00:00:52] jo-o-fonseca_1_02-06-2024_105808: I designed a lot of, lighting solutions for outdoor indoor, for retail for different areas. [00:01:00] later I joined a project of soft mobility I was able to design and in bike sharing solutions for cities. And I was also 
+Sara Pawlikowska  1:54
+It sounds very exciting. And I would like to ask you about the projects you're involved in. Could you elaborate on that a little bit?
 
-[00:01:09] Joao Fonseca: able 
+Joao Fonseca  2:00
+So we are working now in more focus in sustainability and circular economy and we are partnering with plastics, with Precious Plastics, Plastic People. We also. I have a friend in Project Kamp that is developing ways of sustainable living. We also partner with Quatroanas developing events also helping in the farm with permaculture tips Zenshield, Replusminus, Unitedbyplants, Olio2, iRetreat, Sastang, Bina school and we also work with artists like Boris Martel and Ela Martel. We are now working on a marketing agency focused on sustainability that is called Rev3rse. That will also allow us to promote sustainable brands during our projects. Gather more information about sustainability, a bit like how you are doing also, but more focused in marketing promoting brands that are sustainable. We also work with Truly that is, new way to communicate. I think it'll be also to take a look on that project later.
 
-[00:01:10] jo-o-fonseca_1_02-06-2024_105808: to create my own company and start working as a consultancy in 
+Sara Pawlikowska  3:15
+That's a lot of very interesting initiatives. We'll make sure to link them in the description so that people can learn a little bit more about them. But you mentioned circular economy. Could you explain real quick what circular economy is?
 
-[00:01:14] Joao Fonseca: the design area. More focused in sustainability, but working in different fields like metal furniture, RP refining systems. later, with the help of my wife we also offer some consultancy in slow fashion, slow beauty wellbeing solutions like biohacking and others that we'll talk later. But nowadays we are working in several countries like Switzerland, Dubai, India, China, Belgium, Spain, Poland, and UK and so far so good. It's been a great experience. A lot of learning during the process. 
+Joao Fonseca  3:29
+For us is to close the loop, is to think in the way that nothing is waste. Everything can be reused or repurposed or recycled. And we try to develop business model around circular economy in the way that we can help each other supply things that we don't need to others. Create value with things that people don't need or don't like in a period of time. So it's trying to leave things in the system for longer. 
 
-[00:01:54] Sara Pawlikowska: It sounds very exciting. And I would like to ask you about the projects you're involved in. Could you elaborate on that a [00:02:00] little bit?
+Sara Pawlikowska  4:03
+Basically reducing waste then.
 
-[00:02:00] 
+Joao Fonseca  4:05
+Waste is a word we eradicate from our dictionary. There is no more waste. There is just opportunities.
 
-[00:02:00] Joao Fonseca: So we are working now in more focus in sustainability and circular economy and we are partnering with plastics, with Precious Plastics, Plastic People. We also. I have a friend in Project Kamp that is developing ways of sustainable living. We also partner with Quatroanas developing events also helping in the farm with permaculture tips Zenshield, Replusminus, Unitedbyplants, Olio2, iRetreat, Sastang, Bina school and we also work with artists like Boris Martel and Ela Martel. We are now working on a marketing agency focused on sustainability that is called Rev3rse. That will also allow us to promote sustainable brands during our projects. Gather more information about sustainability, a bit [00:03:00] like how you are doing also, but more focused in marketing promoting brands that are sustainable. We also work with Truly that is, new way to communicate. I think it'll be also to take a look on that project later.
+Sara Pawlikowska  4:11
+I like that. So since it's such a broad term, what are some of the biggest challenges when trying to apply circular economy to businesses?
 
-[00:03:15] Sara Pawlikowska: That's a lot of very interesting initiatives. We'll make sure to link them in the description so that people can learn a little bit more about them. But you mentioned circular economy. Could you explain real quick what circular economy is?
+Joao Fonseca  4:22
+First of all, I think seeing the big picture is challenging because we are used to this traditional business models where we buy the resources as cheap as possible,produce the products as efficient or easy as possible and then sell it. And it's not easy, at least when I was working in the industry to, to see the big picture and to design or think the products in a circular way or look for things that no one needs and try to make products from them. And instead of buying raw materials and raw materials for free. So seeing the big picture is challenging. Going out of the comfort zone is also quite challenging because we prefer to work on business models that are legit and sturdy and bring money instead of just trying different things, different approach that still yet to be validated or are not so common. So going out from the comfort zone. It's also a big challenge on circular economy nowadays. 
 
-[00:03:29] Joao Fonseca: For us is to close the loop, is to think in the way that nothing is waste. Everything can be reused or repurposed or recycled. And we try to develop business model around circular economy in the way that we can help each other supply things that we don't need to others. Create value with things that people don't need or don't like in a period of time. So it's trying [00:04:00] to leave things in the system for longer. 
+Sara Pawlikowska  5:31
+It's not easy to do things differently than everyone else around you.
 
-[00:04:03] Sara Pawlikowska: Basically reducing waste then.
+Joao Fonseca  5:35
+Mainly because your friends will say that you are doing something that is not right. So, it's challenging
 
-[00:04:05] Joao Fonseca: Waste is a word we eradicate from our dictionary. There is no more waste. There is just opportunities.
+Sara Pawlikowska  5:41
+Definitely challenging. So you're the permaculture designer. What is permaculture? 
 
-[00:04:11] Sara Pawlikowska: I like that. So since it's such a broad term, what are some of the biggest challenges when trying to apply circular economy to businesses?
+Joao Fonseca  5:48
+Me and my wife, we decide to engage in this permaculture design course with Geoff Lawton in Australia. And it was a change, big change in our life, in our lifestyle and in our way of thinking. My wife introduced me to permaculture when we met. She was studying architecture and she was using the principles to develop the master thesis. So we start to put more effort on that and we took the course and we learned a lot, and we learned to be kind with the planet, with all the creatures to design in harmony with nature. And to avoid exploitation. that changed our way of eating, dressing, working, designing And nowadays we try to have this lifestyle or to have this business approach of being kind and care of others, take care of the resources,avoid exploitation, and avoid overconsumption So this is very important topic for us. Recently we was invited to do a permaculture project, so it'll be happening in the beginning of the year, a new permaculture project in the north Portugal in an amazing farm.This is something that we like to do and also a way of living in the nature and working with the nature and manage the resources that nature is giving to us. It's our way of doing business.
 
-[00:04:22] Joao Fonseca: First of all, I think seeing the big picture is challenging because we are used to this traditional business models where we buy the resources as cheap as possible,produce the products as efficient or easy as possible and then sell it. And it's not easy, at least when I was working in the industry to, to see the big picture and to design or think the products in a circular way or look for things that no one needs and try to make products from them. And instead of buying raw materials and raw [00:05:00] materials for free. So seeing the big picture is challenging. Going out of the comfort zone is also quite challenging because we prefer to work on business models that are legit and sturdy and bring money instead of just trying different things, different approach that still yet to be validated or are not so common.
+Sara Pawlikowska  7:23
+So are there any specific, perhaps less complicated ways that we could introduce permaculture into our lives?
 
-[00:05:24] So going out from the comfort zone. It's also a big challenge on circular economy nowadays. 
+Joao Fonseca  7:33
+Of course saving water. It's easy, it's something that we could do at home. Plant herbs plant small things that are next to our kitchen or do composting. There are a lot of small things that can be done. Plant trees, if you have a place, plant a lot of trees, you don't need to know nothing. You just need to plant them. The ones that fit to the place will grow. The ones that don't fit won't grow and will die and feed the others. So in permaculture, if you don't know, you just do it and the nature will guide you. 
 
-[00:05:31] Sara Pawlikowska: It's not easy to do things differently than everyone else around you.
+Sara Pawlikowska  8:08
+That's a nice slogan for permaculture.
 
-[00:05:35] Mainly because your friends will say that you are doing something that is not right. So, it's challenging
+Joao Fonseca  8:11
+Nature is very kind to us and is teaching us a lot. And one of the principles that we learn is that for every 1 hour of work, we should have 100 hours of observation. So when we do something, we already know quite well what to do. And day go out for the forest, for the nature, and we feel, we see, we learn, and then later we apply knowledge in our daily life and in our business. And everyone can do it, and it's that easy. Just a question of paying attention to what surrounds us.
 
-[00:05:41] Definitely challenging. So you're the permaculture designer. What is permaculture? 
+Sara Pawlikowska  8:47
+So the next topic I would like to talk to you about is eco traveling. When I hear eco traveling, I'm thinking about some of the biggest hallmarks of eco traveling. So flying less, taking public transport, walking whenever possible. But what are other things to think about? Maybe less straightforward. 
 
-[00:05:48] Joao Fonseca: Me and my wife, we decide to engage in this permaculture design course with Geoff Lawton in Australia. And it was a change, big change in our life, [00:06:00] in our lifestyle and in our way of thinking. My wife introduced me to permaculture when we met. She was studying architecture and she was using the principles to develop the master thesis. So we start to put more effort on that and we took the course and we learned a lot, and we learned to be kind with the planet, with all the creatures to design in harmony with nature. And to avoid exploitation. that changed our way of eating, dressing, working, designing And nowadays we try to have this lifestyle or to have this business approach of being kind and care of others, take care of the resources,avoid exploitation, and avoid overconsumption So this is very important topic for us. Recently we was invited to do a permaculture project, so [00:07:00] it'll be happening in the beginning of the year, a new permaculture project in the north Portugal in an amazing farm.This is something that we like to do and also a way of living in the nature and working with the nature and manage the resources that nature is giving to us. It's our way of doing business.
+Joao Fonseca  9:07
+For us, eco traveling is, it's also a lifestyle. We travel on electric car and we plan our trips. We drive slow. We don't do longer trips if we don't need, and try make a journey instead of just a trip. So nowadays we are more focusing in plan, a trip that goes around Europe instead of just go to Paris and come back or going to Spain and come back. We found that could be interesting in the sustainable way to do one way trip instead of two ways. Even when we buy tickets now we are in Poland, in the mountains of Lipowa. We just buy tickets for one way and then later we'll decide where to go or what to do. And in this way, we are saving at least one travel. Using electric cars, we are more kind for others because we are not just putting smoke to the guy that is coming back from our back. The mobility is changing. We also are trying to develop a partnership with the Salvador Caetano that have hydrogen bus and that are leading this technology around the world. So we are focused on the new ways mobility, soft mobility or zero emissions. Eco traveling is going minimal. Be more aware of what you do in the traveling and respect. Always respect, nature, and respect the others. 
 
-[00:07:23] Sara Pawlikowska: So are there any specific, perhaps less complicated ways that we could introduce permaculture into our lives?
+Sara Pawlikowska  10:36
+So you mentioned using your electric car to travel around Europe. So one of the things that I think people are a little worried about is the lack of infrastructure in place.
 
-[00:07:33] Joao Fonseca: Of course saving water. It's easy, it's something that we could do at home. Plant herbs plant small things that are next to our kitchen or do composting. There are a lot of small things that can be done. Plant trees, if you have a place, plant a lot of trees, you don't need to know nothing.
+Joao Fonseca  10:49
+We are trying to partner with companies that are expanding the possibilities to travel around Europe, because nowadays in Portugal you can travel with one card or one app and charging in every charging stations in the country. But when you go out from Portugal, starting to be different and every country have their own rules, probably you need to have one card per country or more than one if you want to charge in different stations. So we want to showcase that challenge and we want to bring awareness so the European community can come up with plans to make it more standard or more uniform in the way that we can travel with one app or charging anywhere using one platform. We also want to bring this to attention of the public so we can improve the infrastructure and promote more this kind of traveling.
 
-[00:07:55] You just need to plant them. The ones that fit to the place will grow. The ones that don't [00:08:00] fit won't grow and will die and feed the others. So in permaculture, if you don't know, you just do it and the nature will guide you. 
+Sara Pawlikowska  11:43
+That kind of leads me to the next topic of being a digital nomad and homeschooling, would you say that homeschooling is kind of a byproduct of being a digital nomad?
 
-[00:08:08] Sara Pawlikowska: That's a nice slogan for permaculture.
+Joao Fonseca  11:56
+Yeah it's a good byproduct, because nowadays being a digital nomad, you create your own flow and you work in the way that you spend not eight hours working. You spend different time of life working. And with schooling, things changing also. Old school is less important nowadays and it's for us more important to offer experience to our daughter and offer the possibility to develop different skills and then later use that skills to choose a job or a profession or something do for a living. And homeschooling is very good for us and we have good partners on that area that we're that we're trying also to engage and to bring to our life. So we can offer to our daughter.
 
-[00:08:11] Joao Fonseca: Nature is very kind to us and is teaching us a lot. And one of the principles that we learn is that for every 1 hour of work, we should have 100 hours of observation. So when we do something, we already know quite well what to do. And day go out for the forest, for the nature, and we feel, we see, we learn, and then later we apply knowledge in our daily life and in our business. And everyone can do it, and it's that easy. Just a question of paying attention to what surrounds us.
+Sara Pawlikowska  12:45
+I really like what you mentioned, that your daughter or children who are homeschooled in that way, they'll be able to choose their profession, not just based on what they think it is, but based on their actual experience.
 
-[00:08:47] Sara Pawlikowska: So the next topic I would like to talk to you about is eco traveling. When I hear eco traveling, I'm thinking about some of the biggest hallmarks of eco traveling. So flying less, taking public [00:09:00] transport, walking whenever possible. But what are other things to think about? Maybe less straightforward. 
+Joao Fonseca  12:58
+Because when I was in the school, I was studying till the university and I didn't know what to do or what I like to do as a profession. And why? Because they was teaching me everything and I was not engaged with much of those things. I would prefer to be football player, but no one allow me to develop focus on these things that I like and we want to do in the opposite way. We want to offer the possibility to learn everything that our daughter wants to experience things. Different sports, different profession, different artworks. And then will naturally choose the one she likes. And she will be very good doing that because if she's doing something that she truly loves,it will be easy for her to be a good professional. And it'll also be easy to choose. 'cause for me, it was not easy to choose. It was more like I choose something that later enjoy So it was more luck than knowing what to do.
 
-[00:09:07] Joao Fonseca: For us, eco traveling is, it's also a lifestyle. We travel on electric car and we plan our trips. We drive slow. We don't do longer trips if we don't need, and try make a journey instead of just a trip. So nowadays we are more focusing in plan, a trip that goes around Europe instead of just go to Paris and come back or going to Spain and come back. We found that could be interesting in the sustainable way to do one way trip instead of two ways. Even when we buy tickets now we are in Poland, in the mountains of Lipowa. We just buy tickets for one way and then later we'll decide where to go or what to do. And in this way, we are saving at least one travel. Using electric cars, we are more [00:10:00] kind for others because we are not just putting smoke to the guy that is coming back from our back. The mobility is changing. We also are trying to develop a partnership with the Salvador Caetano that have hydrogen bus and that are leading this technology around the world. So we are focused on the new ways mobility, soft mobility or zero emissions. Eco traveling is going minimal. Be more aware of what you do in the traveling and respect. Always respect, nature, and respect the others. 
+Sara Pawlikowska  14:05
+The last topic for today that I would like to talk to you about is biohacking. So you mentioned biohacking, but what is like the top one, your favorite biohacking tool?
 
-[00:10:36] Sara Pawlikowska: So you mentioned using your electric car to travel around Europe. So one of the things that I think people are a little worried about is the lack of infrastructure in place.
+Joao Fonseca  14:17
+The one that I like the most is the breath work. So learning how to breathe and use, breath in different moments of your daily life. For me, it's very important and it's helping me a lot. Even when I'm starting to get some flu or some issues. Breath work is the first tool I use to, to take care of that repair my body. And there are others like going to the freezing river in the morning and wake up with this water that looks like needles in your body. It's also a good way to increase the resilience and the body healing or body protection. Meditation. The way we eat. We have a plant-based diet, so we don't eat meat. And this also is for us a good way to feel better, because we are what we eat and we prefer to be more aligned with the plants, the plant lifestyle. Biohacking is a lifestyle, but there are also tools and we also promote some tools for the sports, for the professional athletes or for competition. We promote some tools like barbaric therapy, cryotherapy and use these natural ways of putting the body in shock or overfeed the body with oxygen to promote the healing. So this is for us, biohacking is starting in the lifestyle and there is a lot of things you can do on natural and, plant-based level. And then there are some machines and some other tools that can boost your performance in a professional or in sports level that we also use and like to promote and to offer to our partners.
 
-[00:10:49] Joao Fonseca: We are trying to partner with companies that are expanding the possibilities to travel around Europe, because nowadays in Portugal you can travel with one card or [00:11:00] one app and charging in every charging stations in the country. But when you go out from Portugal, starting to be different and every country have their own rules, probably you need to have one card per country or more than one if you want to charge in different stations. So we want to showcase that challenge and we want to bring awareness so the European community can come up with plans to make it more standard or more uniform in the way that we can travel with one app or charging anywhere using one platform. We also want to bring this to attention of the public so we can improve the infrastructure and promote more this kind of traveling.
+Sara Pawlikowska  16:12
+So would you say that biohacking can help with eco anxiety? So this overwhelming feeling of helplessness, because of the climate change.
 
-[00:11:43] Sara Pawlikowska: That kind of leads me to the next topic of being a digital nomad and homeschooling, would you say that homeschooling is kind of a byproduct of being a digital nomad?
+Joao Fonseca  16:24
+Yeah, if you practice meditation, if you breathwork, yoga, or all these holistic therapies, and ways of looking to yourself. And if you have a lifestyle that is sustainable, you won't have eco-anxiety because you'll feel good with the things you are doing. You feel that you are part of the solution and you feel that you are in your scale, helping changing the world and making it more sustainable. So we have no eco anxiety or we don't suffer this kind of anxieties because of the way we live and the way we are happy and in peace with our actions and with our impact in the world. This lifestyle is also what want to do in the future and what we want to promote, and we are developing a project that called Eco Explorers Journey Towards Sustainability, we want to travel in an electric car or in a sustainable way, and showcase sustainable initiatives, sustainable projects, good examples of, some projects that are pushing sustainability to the next level.And we want visit this place, promote this place, and create a bigger community of people that are conscious consumers, eco travelers, digital normals,new generations, people that want to be part of the change.And that's what we. are planning to do in the future. And we'll plan to recover and recycle plastic on the way. With the help of Plastiks and Precious Plastic, Plastic people, there are a lot of amazing initiatives around the world promoting plastic recovery reforestation.We are doing a lot already. We should be proud of the things we are doing.Not so much trying to show what is bad and how bad we are going. I think good to be positive and to do our own part,to be a part of the solution and be positive and push forward the things that we can do. And nowadays, I'm more focused in decentralizing the sustainability in the way that everyone can do a bit, and we don't need to rely so much in the governments or in the countries or the United Nations or in the big companies because politics are changing every 2, 3, 4 years. Companies are also changing. They are based or focused on profit. So this is not the best environment for you to promote a sustainable and long term lifestyle or a way of living in society. And if you do it by yourself, with your friends, with your community, with your village, with your city,you can scale.And you can make it sustainable because you are creating your own culture of not putting plastic to the floor or not putting trash to the floor, and to help each other's farming in your village. When you create this community focused on sharing and caring, I think the world is starting to be better and better every day. 
 
-[00:11:56] Joao Fonseca: Yeah it's a good byproduct, because nowadays being a [00:12:00] digital nomad, you create your own flow and you work in the way that you spend not eight hours working. You spend different time of life working. And with schooling, things changing also. Old school is less important nowadays and it's for us more important to offer experience to our daughter and offer the possibility to develop different skills and then later use that skills to choose a job or a profession or something do for a living. And homeschooling is very good for us and we have good partners on that area that we're that we're trying also to engage and to bring to our life. So we can offer to our daughter.
+Sara Pawlikowska  19:38
+That's very beautiful. I have one more question for you to finish off. So if you could give advice to your younger self, so something that you wish you started doing earlier or maybe stopped doing earlier, what would that be? 
 
-[00:12:45] Sara Pawlikowska: I really like what you mentioned, that your daughter or children who are homeschooled in that way, they'll be able to choose their profession, not just based on what they think it is, but based on their actual experience.
+Joao Fonseca  19:54
+That's a good. one. I think the best way is always to look to ourselves see how we impact the planet and how we behave towards the nature and towards the others. And if we decide to be kind with all living creature and share love and be positive, this a big change, and this will change all of your life. So the youngers, if they adopt this positive mindset of enjoying the nature, enjoying the river, enjoying the sun, enjoying the clouds, enjoying the forests, this will change the perspective and the way they perceive the world, the way they want to live in this world or in this environment. And if they are evolved enough to do this retrospective or to think about themselves, I think it's going to help them having more clear strategy to, to live their daily life. 
 
-[00:12:58] Joao Fonseca: Because when I was [00:13:00] in the school, I was studying till the university and I didn't know what to do or what I like to do as a profession. And why? Because they was teaching me everything and I was not engaged with much of those things. I would prefer to be football player, but no one allow me to develop focus on these things that I like and we want to do in the opposite way. We want to offer the possibility to learn everything that our daughter wants to experience things. Different sports, different profession, different artworks. And then will naturally choose the one she likes. And she will be very good doing that because if she's doing something that she truly loves,it will be easy for her to be a good professional. And it'll also be easy to choose. 'cause for me, it was not easy to choose. It was more like I choose something that [00:14:00] later enjoy So it was more luck than knowing what to 
+Sara Pawlikowska  20:51
+Joao, thank you so much for taking the time to talk to me today. It was a real blast.
 
-[00:14:04] jo-o-fonseca_1_02-06-2024_105808: do.
+Joao Fonseca  20:57
+Thank you for inviting me. I hope we can talk later the project that we visiting and let's be kind to all.
 
-[00:14:05] Sara Pawlikowska: The last topic for today that I would like to talk to you about is biohacking. So you mentioned biohacking, but what is like the top one, your favorite biohacking tool?
-
-[00:14:17] Joao Fonseca: The one that I like the most is the breath work. So learning how to breathe and use, breath in different moments of your daily life. For me, it's very important and it's helping me a lot. Even when I'm starting to get some flu or some issues. Breath work is the first tool I use to, to take care of that repair my body. And 
-
-[00:14:40] Track 1: Mm-Hmm. 
-
-[00:14:41] Joao Fonseca: there are others like going to the freezing river in the morning and wake up with this water that looks like needles in your body. It's also a good way to increase the resilience and the body healing or body protection. Meditation. The way [00:15:00] we eat. We have a plant-based diet, so we don't eat meat. And this also is for us a good way to feel better, because we are what we eat and we prefer to be more aligned with the plants, the plant lifestyle. Biohacking is a lifestyle, but there are also tools and we also promote some tools for the sports, for the professional athletes or for competition. We promote some tools like barbaric therapy, cryotherapy and use these natural ways of putting the body in shock or overfeed the body with oxygen to promote the healing. So this is for us, biohacking is starting in the lifestyle and there is a lot of things you can do on natural and, plant-based level.
-
-[00:15:56] And then there are some machines and some other [00:16:00] tools that can boost your performance in a professional or in sports level that we also use and like to promote and to offer to our partners.
-
-[00:16:12] Sara Pawlikowska: So would you say that biohacking can help with eco anxiety? So this overwhelming feeling of helplessness, because of the climate change.
-
-[00:16:24] Joao Fonseca: Yeah, if you practice meditation, if you breathwork, yoga, or all these holistic therapies, and ways of looking to yourself. And if you have a lifestyle that is sustainable, you won't have eco-anxiety because you'll feel good with the things you are doing. You feel that you are part of the solution and you feel that you are in your scale, helping changing the world and making it more sustainable. So we have no eco anxiety or we don't suffer this kind of anxieties because of the way we live and the way we are [00:17:00] happy and in peace with our actions and with our impact in the world. This lifestyle is also what want to do in the future and what we want to promote, and we are developing a project that called Eco Explorers Journey Towards Sustainability, we want to travel in an electric car or in a sustainable way, and showcase sustainable initiatives, sustainable projects, good examples of, some projects that are pushing sustainability to the next level.And we want visit this place, promote this place, and create a bigger community of people that are conscious consumers, eco travelers, digital normals,new generations, people that want to be part of the change.And that's what we. are planning to do in the future. And we'll plan to recover and recycle plastic on the way. With the help of [00:18:00] Plastiks and Precious Plastic, Plastic people, there are a lot of amazing initiatives around the world promoting plastic recovery reforestation.We are doing a lot already. We should be proud of the things we are doing.Not so much trying to show what is bad and how bad we are going. I think good to be positive and to do our own part,to be a part of the solution and be positive and push forward the things that we can do. And nowadays, I'm more focused in decentralizing the sustainability in the way that everyone can do a bit, and we don't need to rely so much in the governments or in the countries or the United Nations or in the big companies because politics are changing every 2, 3, 4 years. Companies are also changing. They are based or focused on profit. So this is not the best environment [00:19:00] for you to promote a sustainable and long term lifestyle or a way of living in society. And if you do it by yourself, with your friends, with your community, with your village, with your city,you can scale.And you can make it sustainable because you are creating your own culture of not putting plastic to the floor or not putting trash to the floor, and to help each other's farming in your village.
-
-[00:19:27] When you create this community focused on sharing and caring, I think the world is starting to be better and better every day. 
-
-[00:19:38] Sara Pawlikowska: That's very beautiful. I have one more question for you to finish off. So if you could give advice to your younger self, so something that you wish you started doing earlier or maybe stopped doing earlier, what would that be? 
-
-[00:19:54] Joao Fonseca: That's a good. one. I think the best way is always to look to ourselves see how [00:20:00] we impact the planet and how we behave towards the nature and towards the others. And if we decide to be kind with all living creature and share love and be positive, this a big change, and this will change all of your life. So the youngers, if they adopt this positive mindset of enjoying the nature, enjoying the river, enjoying the sun, enjoying the clouds, enjoying the forests, this will change the perspective and the way they perceive the world, the way they want to live in this world or in this environment. And if they are evolved enough to do this retrospective or to think about themselves, I think it's going to help them having more clear strategy to, to live their daily life. 
-
-[00:20:51] Sara Pawlikowska: Joao, thank you so much for taking the time to talk to me today. It was a real blast.
-
-[00:20:57] Joao Fonseca: Thank you for inviting me. I hope we [00:21:00] can talk later the project that we visiting and let's be kind to all.
-
-[00:21:10] Sara Pawlikowska: Let's be kind.
+Sara Pawlikowska  21:10
+Let's be kind.
 
