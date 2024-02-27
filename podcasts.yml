@@ -25,7 +25,7 @@ podcasts:
 - title: "Why do we need Circular Economy?"                             # Title, can be any characters
   date: 2024-02-27                                          # YYYY-MM-DD
   picture_path: assets/images/GrinCast ep4.png                    # picture to display
-  url:               # youtube video url
+  url: https://youtu.be/DayOsoWz2Ms?si=hdE1hcvHSvptIoea              # youtube video url
   transcript: assets/podcasts/Joao Fonseca_Grin.eco Podcast.txt  # the file with the transcript from otter.ai
   short_url: podcast_ep4_joao_fonseca_why_do_we_need_circular_economy              # only aphanumeric, -, _ allowed
   blurb: "Why regenerative agriculture is so important for the climate and our health"                    # this will appear in the list views
