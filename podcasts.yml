@@ -29,5 +29,11 @@ podcasts:
   transcript: assets/podcasts/Joao Fonseca_Grin.eco Podcast.txt  # the file with the transcript from otter.ai
   short_url: podcast_ep4_joao_fonseca_why_do_we_need_circular_economy              # only aphanumeric, -, _ allowed
   blurb: "What is circular economy? What can biohacking do for you? Traveling is not a luxury, it's a lifestyle!"                    # this will appear in the list views
-
+- title: "How to build your career in a climate role"                             # Title, can be any characters
+  date: 2024-03-26                                          # YYYY-MM-DD
+  picture_path: assets/images/GrinCast ep5.jpeg                     # picture to display
+  url: https://youtu.be/wUf_us2Yr0w?si=ytL8Vwsvp3ZQvC-P               # youtube video url
+  transcript: assets/podcasts/Kris Kobi Podcast_Grin.eco.txt  # the file with the transcript from otter.ai
+  short_url: podcast_COP28_explained              # only aphanumeric, -, _ allowed
+  blurb: "Learn how to take your love for the environment to the next level"                    # this will appear in the list views
 
