@@ -6,9 +6,10 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>https://www.grin.eco/</loc>
-  <lastmod>2024-03-26T15:16:40.736392+00:00</lastmod>
+  <lastmod>2024-03-26T15:21:52.159427+00:00</lastmod>
   <priority>1.00</priority>
 </url>
+<url><loc>https://www.grin.eco/podcast_COP28_explained</loc></url>
 <url><loc>https://www.grin.eco/podcast_ep4_joao_fonseca_why_do_we_need_circular_economy</loc></url>
 <url><loc>https://www.grin.eco/podcast_ep3_philippe_birker_agriculture_for_climate</loc></url>
 <url><loc>https://www.grin.eco/podcast_COP28_explained</loc></url>
