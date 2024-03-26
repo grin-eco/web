@@ -32,8 +32,8 @@ podcasts:
 - title: "How to build your career in a climate role"                             # Title, can be any characters
   date: 2024-03-26                                          # YYYY-MM-DD
   picture_path: assets/images/GrinCast ep5.jpeg                     # picture to display
-  url: https://youtu.be/wUf_us2Yr0w?si=c3iV3Jy43_X4TXY3              # youtube video url
+  url: https://youtu.be/wUf_us2Yr0w?si=YeiBlF0ukaRD5BhL              # youtube video url
   transcript: assets/podcasts/Kris Kobi Podcast_Grin.eco.txt  # the file with the transcript from otter.ai
-  short_url: podcast_COP28_explained              # only aphanumeric, -, _ allowed
+  short_url: podcast_ep5_kris_kobi_how_to_buil_your_career_in_a_climate_role              # only aphanumeric, -, _ allowed
   blurb: "Learn how to take your love for the environment to the next level"                    # this will appear in the list views
 
