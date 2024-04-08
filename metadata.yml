@@ -9,16 +9,14 @@ instagram_url: https://www.instagram.com/grin.eco1/
 navigation:
 - name: Home
   url: "https://grin.eco"
-- name: Learn
-  items:
-  - name: Podcast
-    url: "podcast"
-  - name: Books
-    url: "books"
-  - name: Lexicon
-    url: "tags"
+- name: Podcast
+  url: "podcast"
+- name: Books
+  url: "books"
 - name: Blog
   url: "https://grin.beehiiv.com/"
+- name: Lexicon
+  url: "tags"
 # - name: Act
 #   items:
 #   - name: Projects
