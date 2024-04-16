@@ -36,4 +36,10 @@ podcasts:
   transcript: assets/podcasts/Kris Kobi Podcast_Grin.eco.txt  # the file with the transcript from otter.ai
   short_url: podcast_ep5_kris_kobi_how_to_buil_your_career_in_a_climate_role              # only aphanumeric, -, _ allowed
   blurb: "Learn how to take your love for the environment to the next level"                    # this will appear in the list views
-
+- title: "Can Eco-Anxiety Be Good?"                             # Title, can be any characters
+  date: 2024-04-16                                          # YYYY-MM-DD
+  picture_path: assets/images/Oliver Dauert cover.jpeg                    # picture to display
+  url: https://youtu.be/DuQCBoqSAAM?feature=shared              # youtube video url
+  transcript: assets/podcasts/Oliver Dauert_Podcast_Grin.eco.txt  # the file with the transcript from otter.ai
+  short_url: podcast_ep6_oliver_dauert_ecoanxiety_biodiversity              # only aphanumeric, -, _ allowed
+  blurb: "How to use eco-anxiety for good. What do we mean by 'biodiversity'?"                    # this will appear in the list views
