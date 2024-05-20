@@ -43,3 +43,10 @@ podcasts:
   transcript: assets/podcasts/Oliver Dauert_Podcast_Grin.eco.txt  # the file with the transcript from otter.ai
   short_url: podcast_ep6_oliver_dauert_ecoanxiety_biodiversity              # only aphanumeric, -, _ allowed
   blurb: "How to use eco-anxiety for good. What do we mean by 'biodiversity'?"                    # this will appear in the list views
+- title: "Indigenous Leaders in Biodiversity"                             # Title, can be any characters
+  date: 2024-05-20                                          # YYYY-MM-DD
+  picture_path: assets/images/GrinCast7_Drea Burbank.png                    # picture to display
+  url: https://youtu.be/ZGeY9FxS5V0?feature=shared              # youtube video url
+  transcript: assets/podcasts/GrinCast#7_Drea Burbank.txt  # the file with the transcript from otter.ai
+  short_url: podcast_ep7_drea_burbank_indigenous_leaders_savimbo              # only aphanumeric, -, _ allowed
+  blurb: "Biodiversity preservation from the depths of the Amazon forest"                    # this will appear in the list views
