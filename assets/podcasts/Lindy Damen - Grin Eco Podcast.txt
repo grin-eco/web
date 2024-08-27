@@ -1,0 +1,241 @@
+Lindy Damen - Grin Eco Podcast
+===
+
+Grin: [00:00:00] Rrrrrrrrrrrrrrrrrrrrrrrrrr 
+
+Sara Pawlikowska: Hello everyone, welcome to Grin.eco podcast. My name is Sara Pawlikowska, I'm the co founder at Grin.eco, and today my guest is Lindy from The EVRgreen. How are you doing today?
+
+Lindy Damen: I'm pretty good in the Netherlands. It's been such ~bad, ~bad weather. The rain was good, but now there's some sun coming out and it always helps my mood a lot. ~Um, ~yeah, I'm working on my company, which is also my mission. So that also helps with working hard. 
+
+Sara Pawlikowska: ~So, ~just before we start, I have a question out of curiosity. ~So, ~what is your favorite game? 
+
+Lindy Damen: Wow. At this point it's Hogwarts legacy. Because I really love the wizarding world, and ~I mean, ~it's so beautiful and I love the Witcher and Zelda. Also, I'm playing a lot of Paleo, which is a community sim where you can garden and build your home,~ uh,~ going on adventures. [00:01:00] So if you like those type of games.
+
+And then with friends, we play,~ um, ~Stardew valley, Valheim, if you know all these. Maybe you like it as well, but yeah. And board games, by the way, wingspan is beautiful and very mechanically good game if you're into board games.
+
+Sara Pawlikowska: Oh, I love board games. There's such an underestimated entertainment.
+
+Lindy Damen: Yes, I agree.
+
+Sara Pawlikowska: Okay, so we will be talking a lot about games and the VR. So to give a little bit of context to all that. Can you explain what extended reality is?
+
+Lindy Damen: Sure. So after having all these terms, it became a bit confusing and they came up with an umbrella term XR, which stands for extended reality. ~Uh, ~where you have Mr. AR and VR, but even maybe more RS realities. ~Uh, ~and it's also called IX, which stands for immersive [00:02:00] experiences. So if you wear either XR or IX, it's about these alternate realities.
+
+Sara Pawlikowska: So ~what are, ~what are the differences between those? 
+
+Lindy Damen: ~Uh, ~as far as my understanding goes, it started in the 1980s with virtual reality was also called anything on the screen. So virtual reality, but now people use it as the enclosed,~ uh,~ device where you're really in another world. Then you have AR, which is augmented reality,~ uh,~ added reality to ours. So where you see extra elements,~ uh,~ they can learn from information, but you always have ~the ~, our reality, and then on top of that, an extra user interface, and we have MR, which is mixed reality because with AR, we usually use a screen like an iPad or your smartphone, but you still see the assets in 2D.
+
+So it's still a flat screen with MR, we now have ~the, ~the HoloLens of Microsoft. We [00:03:00] have the Apple vision, and there you see volumetric 3D elements. It's floating in space. So it looks even more real as it's floating in your reality. So you have these glasses and you see it on top. ~Um, ~yeah, so that those are those three terms, as I understand.
+
+Sara Pawlikowska: What do you think are the main use-cases for those? 
+
+Lindy Damen: Yeah, so it differs,~ uh,~ also because of the user friendliness and because of the pricing and , how many people have them. So we have a lot of iPad schools in the Netherlands where it's much easier to do AR. MR is the most expensive right now, which is the HoloLens and Apple Vision.
+
+~Well, ~you have to think about,~ um,~ 4, 000 euros for the HoloLens. So companies might have those,~ uh,~ toys to play with, to develop for, but then where's your user audience? So it will come,~ um,~ but it differs where you're designing [00:04:00] for what you're actually designing. ~Um, ~and right now I think VR is coming up for education as well, but also in people's homes since the pandemic,~ uh,~ or for co-creation .
+
+Sara Pawlikowska: so you're the founder of Evergreen and the CEO and that company. So tell us a little bit about it. 
+
+Lindy Damen: A long time ago, middle of the pandemic in 2020,~ um,~ my job as a lead artist had to stop, so we created,~ uh,~ applied games,~ um,~ For embodied learning for children. And I got to design universes and characters, and it was really a dream job in that regard. But what I missed was working on my mission, which is making the world a greener place and that we learn to live together with nature again, as we are nature,~ um,~ yeah, to leave it more.
+
+Green. Then I found it. And then I thought I can combine it with. What I studied for and what I enjoy doing.~ Uh, ~so the company was [00:05:00] born EVRgreen, and I'll get into the VR part later. ~Uh, ~but that was my first idea with it to envision other realities or futures that we could work towards by using this as a tool.
+
+~Uh, ~games and VR. So fast forward three and a half years later, I have found,~ uh,~ co founders and yeah, we're a serious company now.
+
+Sara Pawlikowska: Serious company?
+
+Lindy Damen: Yeah, I say serious, but ~we, ~we create games. ~I mean, , uh,~ you have to be serious to ~play, ~play ~the, ~the business game, of course, but we also create serious games because they call it that way when it's an added value on top of entertainment.
+
+So yeah, that's how it is. 
+
+Sara Pawlikowska: So you combined climate change with games. How do you address that? What's the main objective there? 
+
+Lindy Damen: Yes, so the value of VR lies in that you are enclosed inside [00:06:00] another reality, which could also mean you can time travel. In the past, of course, so we can learn from the past. The past and maybe past mistakes or how everything came to be as it was In the present, we can use it to build use building blocks simulations, and then we can look into the future, which we can't really imagine that.
+
+~Well, so, ~usually, the climate change issue is a lack of imagination for many people, a lack of urgency, and maybe we can use the tool VR to envision what it could look like. Or,~ uh, well, ~it could look like when we do nothing about it, when we,~ uh,~ keep the baseline the same, or when we start working on it.
+
+And you can envision a beautiful utopic world.~ So, um, ~addressing climate change only makes sense to me because it's the one of the biggest challenges we have this century, in my opinion.
+
+Sara Pawlikowska: Mhm.
+
+Lindy Damen: And I think it's a great tool. ~Uh, ~Stanford [00:07:00] university already did a lot of studies on this, like the validity of VR and using the tool can at least,~ um,~ help awareness.
+
+And hopefully help behavior change. 
+
+Sara Pawlikowska: ~so, ~What those games look like? Could you give some examples? 
+
+Lindy Damen: The games we created.
+
+Sara Pawlikowska: Yeah 
+
+Lindy Damen: Yeah. So maybe it's fun if I share my screen,
+
+let's see if we can do that.
+
+Do you see my screen?
+
+Okay. So I started out with some digital animals, which are,~ uh, ~ endangered species for primary education. And in this case,~ uh,~ apologies for the Dutch, but in this case, I started with Polar Bear and we created an ebook around it that you can read with a nice storytelling with it.[00:08:00] 
+
+And I call it a mixed reality lesson because if you scan the QR codes, you go to this app. And you can see and place this photo bear in your classroom and it looks cute, which is apparently very important because that's why it's been looked at 30, 000 times, probably because he has a round cute face. So we shouldn't underestimate , that,~ uh,~ value.
+
+And the kids learn in about five to 10 minutes. They learn. interesting facts about those animals. And after quizzing them, they remembered every fact they learned. Of course, that's not a scientific study, but it's still quite promising. They really love the medium and they were even taking it home, telling it to their parents.
+
+So I think it's a really nice,~ uh,~ Innovative way of education.
+
+Let's see.~ So, well, ~yes,~ uh,~ it's Japanese for courage.
+
+~Um, ~ We have some mini games [00:09:00] about sustainable energy, so you can visit the center and then you walk by, you can play it together. And these are usually quite boring themes for people like the energy transition, protein transition.
+
+Really technical. But if you. Can tell it in a fun way and also make it competitive.
+
+~Um, ~people usually have more fun and when they have more fun, they usually learn better. Yeah.~ Uh, ~so let's see. Oh, this was the prototype. I spoke about what I envisioned. So we have a prototype. What I can explain about it is that you see a coral reefs and the time you give some answers to some lifestyle questions like,~ um,~ how many hours do you travel by plane per year? So these are some questions that have an effect on CO2 emissions. And then the time starts [00:10:00] ticking towards 2050 in front of your eyes. There you go. So what it's, Yeah, what it shows is that there can be a link between our behavior as humans. And if everyone would live like that, a future could look X or Y.
+
+Sara Pawlikowska: further. So
+
+Lindy Damen: course it's a bit abstract, but we're wanting to use the IPCC,~ um, uh, ~predictions. ~Uh, well, ~it's been funded to be developed further. So these are some examples of how we can address climate change and environmentalism,~ uh,~ through games.
+
+Sara Pawlikowska: So basically this one was [00:11:00] about filling out a questionnaire to see how your life choices influence the coral reefs. 
+
+Lindy Damen: Exactly. Because many people don't see the link,~ um,~ it's far away from them. And again, I'm not saying that if you eat fish that ~the, ~the sea will die immediately, but it's more like an abstract ~vision, vision, ~vision, and we want to connect it better to science as it is now, but you have to be careful with that as well, but this way we're using art to,~ uh,~ in an interactive experience. 
+
+Sara Pawlikowska: ~Mm hmm. ~Okay, so would you say that this is the main reason why VR can be useful when conveying serious messages? The fact that you can apply that and see the link between what you do in real life to what the potential consequences are?
+
+Lindy Damen: Sure, and I think the VR at this point has one of the most impacts that we see in [00:12:00] technologies because you get enclosed in literally another reality. ~Uh, ~and that makes it, our brain gets confused at first, because even when you place people in VR for the first time, even in a rollercoaster or a hot air balloon, right?
+
+They're like, oh my god, this is so insane. And that's even a 360 view. In this case, you can walk around, you can swim around and even grab things. And,~ um,~ it's more logical to our brains than sitting in front of a screen, using a keyboard and a mouse, which is very strange connection, actually, instead of being somewhere, being able to walk around.
+
+And the only senses you're still missing are the other senses, like smell,~ uh,~ of course, and touch mostly, but they're working on that.
+
+~Um, ~ we're not pins on it has to be VR because we also do card games or board games. We're looking more to the target audience and where can we meet them? But [00:13:00] for the most impactful immersive experience, I would advise VR and later MR.
+
+Yeah.
+
+Sara Pawlikowska: For me, one of those break-through moments was using an actual wheel to put my console in to play Mario Kart. That did it for me. But if you
+
+Lindy Damen: Oh, okay. ~Well, ~even that it's like an entertainment game, right? Imagine ~why, ~why can't we use that also for impactful and serious theme. So of course, I'm very much for that. We should include the entertainment element and we should design good game mechanics because in many serious games, that's really not up to par in my opinion, which is why many people don't like serious games or don't like games about with a certain theme, but if you have a fun and beautiful game and within that indirectly, you teach about the theme.
+
+You have Among Trees, you have like many games where you learn about plants and how to grow them and you can make dishes [00:14:00] out of it. ~Um, ~or even Farmville, which is immensely popular. You indirectly learn a bit about how that works. So if we can use sustainable ways of, using those games? Yeah, why not?
+
+Sara Pawlikowska: If the 
+
+potential impact of those games can be so big why does it seem like there is not much games coming out for VR 
+
+Lindy Damen: Yeah, so I think that has to do with the fact not many people have it at home.~ So, um, ~it's the early adopting phase still, and that has been it for very long, because,~ um,~ it encloses you and it's very ~individual, ~individual experience. And many games are co op or online. People like to hop online at night and see their friends and game with it.
+
+So now, since the pandemic that has grown a lot, also being developed many tools to [00:15:00] be able to be social on VR as well.~ Um, ~Then for me, it's a bit exhausting to be more than an hour in a VR game, and for many it is. ~Um, ~ It does get better. But after playing one hour of Moss, it's so impactful, but you're also a bit disconnected from reality.
+
+So I don't pick it up as easy as sitting at my computer or playing board games. ~Um, ~So it either the social aspect and ~the, ~the expensive aspect, because not that. Don't buy a VR glasses that easily,~ um,~ and then,
+
+yeah, I think those are holding it back a bit. Yes, and also the development of VR games, of course, can be expensive.
+
+~So, ~Especially in our case. In the serious or impact business it is a bit hard to find funding for those projects because it's very expensive to build and [00:16:00] there's not enough backbone to prove that it like a validation study is really hard to do. So that is what is holding it back. I think.
+
+Sara Pawlikowska: so then what's the best,~ um,~ current use case for VR? Would you say that maybe it's best for educational purposes, for example?
+
+Lindy Damen: It can do really well for educational purposes. What I've seen with AR that it's really good for primary schools because technology is kids second nature. I always say it's,~ uh,~ I don't have to explain anything. They just run away with it. ~Uh, ~the teachers are usually a bit more cautious,~ um,~ but I see a big use case for that because it's very intuitive for us to use the hands.
+
+And to see with our eyes and turn around a 3D object. And then just learn from it. You can zoom in. We are very visual creatures.~ Um,~
+
+VR is a bit more individual. So you have maybe one person in [00:17:00] corner of a classroom using a VR glasses, but you could build in an XR lab in primary schools, in high schools, you could have one XR lab, just as we had computer classrooms,~ um,~ And then I'm not saying we should,~ uh,~ replace the real world with VR.
+
+No, but just as an addition of one hour,~ uh,~ education about maybe the pyramids or climate change, and,~ uh,~ it's a great tool to add to education in my opinion. Also, because they can develop XR experiences themselves, just ~like, uh, ~a lot of young people like to program and create games that could create XR experiences and invite people, friends to come over.
+
+Sara Pawlikowska: ~hmm.~
+
+Lindy Damen: again, if they have fun, they learn a lot. ~So, ~I think it's a great case for education.
+
+Sara Pawlikowska: you also agree that it actually helps develop the skills if there's some manual skills that you need for like muscle memory, would that help as well?
+
+For example, some simulations, perhaps seeing an engineering panel that you need [00:18:00] to do something with and just using that muscle to actually try and do something without having ~the,~
+
+Lindy Damen: Oh, yes. They already use it very much in healthcare. ~Um, ~By even that using needles and it does. It has proven in studies that it works really well. I thought up to 75 percent retention. So that's really high. ~Um, ~and they already use Mr. Glasses in actual,~ um, uh, ~healthcare operations.
+
+Yeah, that's the word they use it already because,~ uh,~ at first they had to look at the screen while doing the operation. And nowadays you just have to go off on it. It tells you where exactly on the millimeter they tell you where to be. So don't ask me any more details about that because I'm not an expert, but I know it's being used already and being tested.
+
+~Um, ~Not so much yet in climate change and environmental cases, but,~ uh,~ you asked me for it's best use scenario. One of the best things I've seen for climate change is [00:19:00] called Pollinator Park VR and I got friends with the creator so I'm very happy with that. But they create this maybe hour long tour inside 2050 experience and it's a dome where they have the only pollinators left in the world.
+
+I don't think it's 2050,
+
+but Anywhere where the pollinators have died and they still have them inside that park. And you follow this journey of the woman who started and founded that dome. And it's really, it's a beautiful story. So the storytelling grips you and you learn, but you also want to know more.
+
+And yeah, you can pick up flowers and you can see what kind of foods you still can eat. ~Uh, ~in 2080, for example, if there wouldn't be any pollinators anymore, you see it on a plate and there's no jam, there's no fun food anymore because nothing has been pollinated. So this [00:20:00] sounds all very negative, but it's really beautiful ~because, ~because of that dome, we can reintroduce
+
+the pollinators in the road back when it's ready.
+
+Sara Pawlikowska: Mhm. But that shows very nicely the actual impact of that VR, because when you say there will be no bees, then you're, okay, the reaction is okay, but why do I care? And then you see, oh, there's no food on my plate. 
+
+Lindy Damen: Exactly. It's again, the link between our 
+
+Sara Pawlikowska: Yeah. 
+
+Lindy Damen: that has to be created.
+
+Sara Pawlikowska: but, so you mentioned some of ~the, ~the challenges, for example,~ the,~ the ware that is quite bulky, ~what you, ~what you need to use for that. So ~what,~ how could that be addressed? 
+
+Lindy Damen: Yeah. So I think it's already much better within the Apple vision and the new,~ um,~ meta,~ uh,~ devices that come out. Because they're less clunky,~ um,~ they don't grip your head that much and it's heavy,~ um,~ less sweaty. But I think where we're moving towards is more [00:21:00] like glasses that you wear daily, ~ uh,~ anyway, or lenses in the end. 
+
+~Um, ~As long as we have good regulations around it all, because you don't want anywhere on the streets,~ well,~ Google Glass proved that a long time ago, they had the technology, but everyone was like, what, but then you can film at every moment, everyone, and the world has changed. ~Um, ~People seem to care a bit less about that.
+
+~Now we, ~Now we have smartphones because they know where you are. Anyways, and they can film at any point, but I think we should be very careful with that. ~Uh, ~However, if we use it for good, like all technology, you can use it for bad and good. And if we use it for good, it can be so so awesome because we can in education We can just have an object ~Um ~in biology and explain about how it all works.
+
+You can do a tour about pollinators in biology ~Um Um, ~yeah, so and in business life, we can just put on the glasses and we can have this [00:22:00] visualization of certain themes and explanations on right in front of you and you can co create and you can turn it around. I always see this Iron Man scenes,~ uh,~ when I think about that, where you see the planet, you can zoom in on in stuff and then you can, we can work together on the challenges of the century.
+
+Sara Pawlikowska: I guess my question would be, would you say that VR is the optimal medium for the climate change educational content? Cause we did say that it is a bit difficult to do VR for prolonged periods of time. And if people are not so keen on using VR for So purely entertainment purposes, would you think that they will be willing to spend more time trying to learn how their impact hurts the planet?
+
+Lindy Damen: I, I can't be so sure about it at this point. I think at this point it would be a great addition, but not,~ um,~ [00:23:00] replacement. Because I think books are still really important. But if we can enrich the books with visualizations. So we still use a lot of text. We still should, use teachers and that are very knowledgeable and then you can have it as an addition.
+
+~Um, ~Like maybe the extra experience. I think that is the way I would use it at this point. I don't know if that answers your question, but
+
+Sara Pawlikowska: That's fair
+
+Lindy Damen: I, yeah, my opinion is not too much like we should do everything with VR, 
+
+but I do think ~it's, ~it's a great tool.
+
+Sara Pawlikowska: What is something that you're looking forward to? Some of the, maybe a new innovation or even just more funding? 
+
+Lindy Damen: Yeah. So regarding funding, it's still quite niche and new to use ~innovative, ~innovative tools like immersive experience for the climate. ~Um, ~so ~it's, ~it's popping up ~more and ~more and WWF [00:24:00] has tried to use NFTs,~ uh,~ which went a bit sideways. However, ~if we, ~if we educate ourselves more on these tools,~ uh,~ at Web 3. 0, which could be great, ~ uh,~ updates to. Web 2. 0 and what we have been doing. I would be quite happy because now we're sitting eight hours a day on our laptops, on our screens, also quite disconnected, very distractive. The mental health of the planet isn't that great. So if we might stand up more and with these tools, you can, so you have, you move, you have still the movements you would do.
+
+~Um, ~and. Yeah, I don't know where I was going with this, but I'm looking forward to the time where we are a bit more away from the screen and then not again, replacing it entirely with VR, but more being more in reality and then also using more movement and that it's not that bad for your eyes and,~ um,~ the way you're [00:25:00] sitting,~ uh,~ so that I'm looking forward to.
+
+And using more vr tools
+
+Because
+
+of our health but also to help our imagination ~um ~because right now maybe people who draw really well or can make great visualizations use photoshop very well they are able to express their imagination, but In that world, many more people can express their imagination and explain better what they mean and what kind of world we want to work towards.
+
+~Uh, ~so I'm pretty excited about that.
+
+Sara Pawlikowska: I think it's a very nice summary ~of, ~of what we talked about, but just now to ~kind of ~finish off, I want to ask about you being a founder. So I'm curious, what was the biggest surprise on your journey to founding your current company?
+
+Lindy Damen: Yeah, sure. Before I go into that, I forgot to add about the funding. Yes, it would be great if there would be a bit more funding towards that niche. Of [00:26:00] using these technologies for good for a mission or an impact like climate change because there's so much money going on in very strange roads that only damage the planet and it would be nice.
+
+It would be better balanced and distributed towards these kind of projects, but in the Netherlands, it's growing and the,~ uh,~ you have this. ~Uh, ~initiative called C I I I C,~ uh,~ which gotten a huge,~ uh,~ fund to develop this technology and,~ uh,~ this world. So I'm happy about that. And now your question about surprise as a founder, so many surprises, but I think,~ um,~ that people are really wanting to help.
+
+And that you can ask for way more than expected. It's difficult to ask,
+
+especially
+
+if you're a creative person,~ uh,~ and an introvert, then at first you, it's a bit difficult to ask, especially for funding. [00:27:00] But you have to look for the no. And if you don't ask, you never know, and you're not going to get it.
+
+And it's really nice to see so many kind people wanting just to help out and, or to listen or taking you seriously. ~Um, ~That you're, that we're doing this together. I found many other founders which call themselves ecopreneurs,
+
+which is really great to have that community. Because you can, it can feel quite lonely.
+
+~Um, ~So I'm positively surprised. Yeah,
+
+Sara Pawlikowska: That's great. That's really good to hear. But yeah, I guess if you don't ask, the answer is always no.
+
+Lindy Damen: Exactly. But it's weird because everyone knows this. But you have to start doing it. So you have to start asking the questions, difficult ones,~ uh,~ and have courage in that.
+
+Sara Pawlikowska: Lindy, thank you so much. I found that very insightful and informative.
+
+Lindy Damen: I'm so glad to hear that. I hope it helps anyone. And,~ um,~ [00:28:00] yeah, if anyone wants to talk a bit more about this, I am happy to.
+
+Sara Pawlikowska: Great. Thank you so much. And,~ um, I guess, uh, ~see you maybe on another episode? Or
+
+making a game together?
+
+Lindy Damen: Oh, let's make a game together, please.
+
+Sara Pawlikowska: Great.
+
