@@ -38,15 +38,22 @@ podcasts:
   blurb: "Learn how to take your love for the environment to the next level"                    # this will appear in the list views
 - title: "Can Eco-Anxiety Be Good?"                             # Title, can be any characters
   date: 2024-04-16                                          # YYYY-MM-DD
-  picture_path: assets/images/Oliver Dauert cover.jpeg                    # picture to display
+  picture_path: assets/images/GrinCast#6 cover.png                    # picture to display
   url: https://youtu.be/DuQCBoqSAAM?feature=shared              # youtube video url
   transcript: assets/podcasts/Oliver Dauert_Podcast_Grin.eco.txt  # the file with the transcript from otter.ai
   short_url: podcast_ep6_oliver_dauert_ecoanxiety_biodiversity              # only aphanumeric, -, _ allowed
   blurb: "How to use eco-anxiety for good. What do we mean by 'biodiversity'?"                    # this will appear in the list views
 - title: "Indigenous Leaders in Biodiversity"                             # Title, can be any characters
   date: 2024-05-20                                          # YYYY-MM-DD
-  picture_path: assets/images/GrinCast7_Drea Burbank.png                    # picture to display
+  picture_path: assets/images/GrinCast#7 cover.png                    # picture to display
   url: https://youtu.be/ZGeY9FxS5V0?feature=shared              # youtube video url
   transcript: assets/podcasts/GrinCast#7_Drea Burbank.txt  # the file with the transcript from otter.ai
   short_url: podcast_ep7_drea_burbank_indigenous_leaders_savimbo              # only aphanumeric, -, _ allowed
   blurb: "Biodiversity preservation from the depths of the Amazon forest"                    # this will appear in the list views
+- title: "Why Gaming is Good for Climate"                             # Title, can be any characters
+  date: 2024-08-27                                          # YYYY-MM-DD
+  picture_path: assets/images/GrinCast#8 cover.png                    # picture to display
+  url: https://youtu.be/1vXADj2ramQ              # youtube video url
+  transcript: assets/podcasts/GrinCast#8 Lindy Damen.txt  # the file with the transcript from otter.ai
+  short_url: podcast_ep8_lindy_damen_gaming_climate_change             # only aphanumeric, -, _ allowed
+  blurb: "How to use eco-anxiety for good. What do we mean by 'biodiversity'?"                    # this will appear in the list views
