@@ -57,3 +57,10 @@ podcasts:
   transcript: assets/podcasts/GrinCast#8 Lindy Damen.txt  # the file with the transcript from otter.ai
   short_url: podcast_ep8_lindy_damen_gaming_climate_change             # only aphanumeric, -, _ allowed
   blurb: "Gaming to the rescue!"                    # this will appear in the list views
+- title: "Is Space Sustainable?"                             # Title, can be any characters
+  date: 2024-09-03                                          # YYYY-MM-DD
+  picture_path: assets/images/GrinCast9 Andrew Wilson cover.png                   # picture to display
+  url: https://www.youtube.com/watch?v=HCSQzyNzfkI&t=473s              # youtube video url
+  transcript: assets/podcasts/GrinCast#9_Dr Andrew Wilson transcript.txt  # the file with the transcript from otter.ai
+  short_url: podcast_ep9_Andrew_Wilson_sustainability_in_space             # only aphanumeric, -, _ allowed
+  blurb: "Our environment extends beyond the planet"                    # this will appear in the list views
