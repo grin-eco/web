@@ -77,7 +77,7 @@ function highlightParagraph() {
     body.classList.add('bg-success');
     console.log(currentParagraph);
     var header = document.getElementById(""+currentParagraph.timestamp_s);
-    header.scrollIntoView({behavior: "smooth"});
+    //header.scrollIntoView({behavior: "smooth"});
   }
 }
 time_update_interval = setInterval(highlightParagraph, 1000);
