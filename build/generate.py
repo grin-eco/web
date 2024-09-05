@@ -17,7 +17,7 @@ def generate_short_url(url):
     return url[:100]
 
 def parse_otter_ai_transcript_file(transcript_path):
-    print("Processing transcript file: %s" % transcript_path)
+    print("Processing otter transcript file: %s" % transcript_path)
     with open(transcript_path, 'r') as f:
         chapters = f.read().split("\n\n")
     transcript = []
