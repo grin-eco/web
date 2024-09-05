@@ -61,6 +61,6 @@ podcasts:
   date: 2024-09-03
   picture_path: assets/images/GrinCast9 Andrew Wilson cover.png
   url: https://youtu.be/HCSQzyNzfkI?si=13rna6GZuaAR2EcU
-  transcript: assets/podcasts/GrinCast#9_Dr Andrew Wilson transcript.txt
+  transcript_descript: assets/podcasts/GrinCast#9_Dr Andrew Wilson transcript descript.txt
   short_url: podcast_ep9_Andrew_Wilson_sustainability_in_space
   blurb: "Our environment extends beyond the planet"
