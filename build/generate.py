@@ -37,6 +37,38 @@ def parse_otter_ai_transcript_file(transcript_path):
         ))
     return transcript
 
+
+def parse_descript_transcript_file(transcript_path):
+    print("Processing descript transcript file: %s" % transcript_path)
+    with open(transcript_path, 'r') as f:
+        chapters = f.read().split("\n\n")
+    transcript = []
+    for chapter in chapters:
+        if "===" in chapter:
+            continue
+        if not chapter:
+            continue
+        parts = chapter.split(": ", 1)
+        if len(parts) < 2:
+            # [00:00:00] Rrrrrrrrrrrrrrrrrrrrrrrrrr
+            continue
+        else:
+            # [00:00:05] Sara Pawlikowska: Welcome to Grin.eco podcast.
+            header, body = parts
+        if not body:
+            continue
+        timestamp_raw, speaker = header.split(" ", 1)
+        # [00:00:27]
+        timestamp = timestamp_raw[1:-1]
+        time_h, time_m, time_s = timestamp.split(":")
+        transcript.append(dict(
+            speaker=speaker,
+            timestamp=timestamp,
+            timestamp_s=(int(time_h)*60*60 + int(time_m)*60 + int(time_s)),
+            body=body,
+        ))
+    return transcript
+
 def parse_book_markdown(lines, book_file):
     dividers = dict(
         chapter="## ",
@@ -135,13 +167,18 @@ print("Generating podcast pages")
 for podcast in context.get("podcasts"):
 
     podcast["YouTubeId"] = podcast.get("url").split("/")[-1]
-
-    transcript_path = podcast.get("transcript")
-    if not transcript_path:
+    
+    options = dict(
+        transcript=parse_otter_ai_transcript_file,
+        transcript_descript=parse_descript_transcript_file,
+    )
+    
+    for k, f in options.items():
+        val = podcast.get(k)
+        if val:
+            podcast["transcript"] = f(val)
+    else:
         print("No transcript file for: %s" % podcast.get("title"))
-        continue
-
-    podcast["transcript"] = parse_otter_ai_transcript_file(transcript_path)
 
     # write out the template for the podcast episode
     with open(BASE_FOLDER + "/" + podcast.get("short_url").replace(".html","") + ".html", "w") as f:
