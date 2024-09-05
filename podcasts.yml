@@ -1,66 +1,66 @@
 podcasts:
 
-# TO ADD A NEW PODCAST, ADD AN ENTRYR LIKE THIS ONE:
-- title: "Sustainability in Tech from a Founder's perspective"                             # Title, can be any characters
-  date: 2023-10-27                                          # YYYY-MM-DD
-  picture_path: assets/images/GrinCast ep1.jpg                       # picture to display
-  url: https://youtu.be/0aJcS9XzCqM               # youtube video url
-  transcript: assets/podcasts/Grin.eco_Ep1_Marek&Sara.txt  # the file with the transcript from otter.ai
-  short_url: podcast_ep1_sustainability_in_tech              # only aphanumeric, -, _ allowed
-  blurb: "Is sustainability a topic in the technology sector?"                    # this will appear in the list views
-- title: "COP28 Explained"                             # Title, can be any characters
-  date: 2023-11-29                                          # YYYY-MM-DD
-  picture_path: assets/images/GrinCast ep2.jpg                      # picture to display
-  url: https://youtu.be/i7MRzU5c_1E?si=32x9cutXltjRPHfn               # youtube video url
-  transcript: assets/podcasts/COP28_transcript.txt  # the file with the transcript from otter.ai
-  short_url: podcast_COP28_explained              # only aphanumeric, -, _ allowed
-  blurb: "COP28 is kicking off tomorrow!"                    # this will appear in the list views
-- title: "Agriculture for Climate with Philippe Birker"                             # Title, can be any characters
-  date: 2024-02-01                                          # YYYY-MM-DD
-  picture_path: assets/images/GrinCast ep3.jpg                      # picture to display
-  url: https://youtu.be/yORqa6W_ktw?feature=shared               # youtube video url
-  transcript: assets/podcasts/GrinCast_transcript_ep3_ Phillipe Birker.txt  # the file with the transcript from otter.ai
-  short_url: podcast_ep3_philippe_birker_agriculture_for_climate              # only aphanumeric, -, _ allowed
-  blurb: "Why regenerative agriculture is so important for the climate and our health"                    # this will appear in the list views
-- title: "Why do we need Circular Economy?"                             # Title, can be any characters
-  date: 2024-02-27                                          # YYYY-MM-DD
-  picture_path: assets/images/GrinCast ep4.png                    # picture to display
-  url: https://youtu.be/DayOsoWz2Ms?si=hdE1hcvHSvptIoea              # youtube video url
-  transcript: assets/podcasts/Joao Fonseca_Grin.eco Podcast.txt  # the file with the transcript from otter.ai
-  short_url: podcast_ep4_joao_fonseca_why_do_we_need_circular_economy              # only aphanumeric, -, _ allowed
-  blurb: "What is circular economy? What can biohacking do for you? Traveling is not a luxury, it's a lifestyle!"                    # this will appear in the list views
-- title: "How to build your career in a climate role"                             # Title, can be any characters
-  date: 2024-03-26                                          # YYYY-MM-DD
-  picture_path: assets/images/GrinCast ep5.jpeg                     # picture to display
-  url: https://youtu.be/wUf_us2Yr0w?si=YeiBlF0ukaRD5BhL              # youtube video url
-  transcript: assets/podcasts/Kris Kobi Podcast_Grin.eco.txt  # the file with the transcript from otter.ai
-  short_url: podcast_ep5_kris_kobi_how_to_buil_your_career_in_a_climate_role              # only aphanumeric, -, _ allowed
-  blurb: "Learn how to take your love for the environment to the next level"                    # this will appear in the list views
-- title: "Can Eco-Anxiety Be Good?"                             # Title, can be any characters
-  date: 2024-04-16                                          # YYYY-MM-DD
-  picture_path: assets/images/GrinCast6 cover.png                    # picture to display
-  url: https://youtu.be/DuQCBoqSAAM?feature=shared              # youtube video url
-  transcript: assets/podcasts/Oliver Dauert_Podcast_Grin.eco.txt  # the file with the transcript from otter.ai
-  short_url: podcast_ep6_oliver_dauert_ecoanxiety_biodiversity              # only aphanumeric, -, _ allowed
-  blurb: "How to use eco-anxiety for good. What do we mean by 'biodiversity'?"                    # this will appear in the list views
-- title: "Indigenous Leaders in Biodiversity"                             # Title, can be any characters
-  date: 2024-05-20                                          # YYYY-MM-DD
-  picture_path: assets/images/GrinCast7 cover.png                    # picture to display
-  url: https://youtu.be/ZGeY9FxS5V0?feature=shared              # youtube video url
-  transcript: assets/podcasts/GrinCast#7_Drea Burbank.txt  # the file with the transcript from otter.ai
-  short_url: podcast_ep7_drea_burbank_indigenous_leaders_savimbo              # only aphanumeric, -, _ allowed
-  blurb: "Biodiversity preservation from the depths of the Amazon forest"                    # this will appear in the list views
-- title: "Why Gaming is Good for Climate"                             # Title, can be any characters
-  date: 2024-08-27                                          # YYYY-MM-DD
-  picture_path: assets/images/GrinCast8 cover.png                    # picture to display
-  url: https://youtu.be/1vXADj2ramQ              # youtube video url
-  transcript: assets/podcasts/GrinCast#8 Lindy Damen.txt  # the file with the transcript from otter.ai
-  short_url: podcast_ep8_lindy_damen_gaming_climate_change             # only aphanumeric, -, _ allowed
-  blurb: "Gaming to the rescue!"                    # this will appear in the list views
-- title: "Is Space Sustainable?"                             # Title, can be any characters
-  date: 2024-09-03                                          # YYYY-MM-DD
-  picture_path: assets/images/GrinCast9 Andrew Wilson cover.png                   # picture to display
-  url: https://youtu.be/HCSQzyNzfkI?si=13rna6GZuaAR2EcU              # youtube video url
-  transcript: assets/podcasts/GrinCast#9_Dr Andrew Wilson transcript.txt  # the file with the transcript from otter.ai
-  short_url: podcast_ep9_Andrew_Wilson_sustainability_in_space             # only aphanumeric, -, _ allowed
-  blurb: "Our environment extends beyond the planet"                    # this will appear in the list views
+# TO ADD A NEW PODCAST, ADD AN ENTRY LIKE THIS ONE:
+- title: "Sustainability in Tech from a Founder's perspective"    # Title, can be any characters
+  date: 2023-10-27                                                # YYYY-MM-DD
+  picture_path: assets/images/GrinCast ep1.jpg                    # picture to display
+  url: https://youtu.be/0aJcS9XzCqM                               # youtube video url
+  transcript: assets/podcasts/Grin.eco_Ep1_Marek&Sara.txt         # the file with the transcript from otter.ai
+  short_url: podcast_ep1_sustainability_in_tech                   # only aphanumeric, -, _ allowed
+  blurb: "Is sustainability a topic in the technology sector?"    # this will appear in the list views
+- title: "COP28 Explained"
+  date: 2023-11-29
+  picture_path: assets/images/GrinCast ep2.jpg
+  url: https://youtu.be/i7MRzU5c_1E?si=32x9cutXltjRPHfn
+  transcript: assets/podcasts/COP28_transcript.txt
+  short_url: podcast_COP28_explained
+  blurb: "COP28 is kicking off tomorrow!"
+- title: "Agriculture for Climate with Philippe Birker"
+  date: 2024-02-01
+  picture_path: assets/images/GrinCast ep3.jpg
+  url: https://youtu.be/yORqa6W_ktw?feature=shared
+  transcript: assets/podcasts/GrinCast_transcript_ep3_ Phillipe Birker.txt
+  short_url: podcast_ep3_philippe_birker_agriculture_for_climate
+  blurb: "Why regenerative agriculture is so important for the climate and our health"
+- title: "Why do we need Circular Economy?"
+  date: 2024-02-27
+  picture_path: assets/images/GrinCast ep4.png
+  url: https://youtu.be/DayOsoWz2Ms?si=hdE1hcvHSvptIoea
+  transcript: assets/podcasts/Joao Fonseca_Grin.eco Podcast.txt
+  short_url: podcast_ep4_joao_fonseca_why_do_we_need_circular_economy
+  blurb: "What is circular economy? What can biohacking do for you? Traveling is not a luxury, it's a lifestyle!"
+- title: "How to build your career in a climate role"
+  date: 2024-03-26
+  picture_path: assets/images/GrinCast ep5.jpeg
+  url: https://youtu.be/wUf_us2Yr0w?si=YeiBlF0ukaRD5BhL
+  transcript: assets/podcasts/Kris Kobi Podcast_Grin.eco.txt
+  short_url: podcast_ep5_kris_kobi_how_to_buil_your_career_in_a_climate_role
+  blurb: "Learn how to take your love for the environment to the next level"
+- title: "Can Eco-Anxiety Be Good?"
+  date: 2024-04-16
+  picture_path: assets/images/GrinCast6 cover.png
+  url: https://youtu.be/DuQCBoqSAAM?feature=shared
+  transcript: assets/podcasts/Oliver Dauert_Podcast_Grin.eco.txt
+  short_url: podcast_ep6_oliver_dauert_ecoanxiety_biodiversity
+  blurb: "How to use eco-anxiety for good. What do we mean by 'biodiversity'?"
+- title: "Indigenous Leaders in Biodiversity"
+  date: 2024-05-20
+  picture_path: assets/images/GrinCast7 cover.png
+  url: https://youtu.be/ZGeY9FxS5V0?feature=shared
+  transcript: assets/podcasts/GrinCast#7_Drea Burbank.txt
+  short_url: podcast_ep7_drea_burbank_indigenous_leaders_savimbo
+  blurb: "Biodiversity preservation from the depths of the Amazon forest"
+- title: "Why Gaming is Good for Climate"
+  date: 2024-08-27
+  picture_path: assets/images/GrinCast8 cover.png
+  url: https://youtu.be/1vXADj2ramQ
+  transcript: assets/podcasts/GrinCast#8 Lindy Damen.txt
+  short_url: podcast_ep8_lindy_damen_gaming_climate_change
+  blurb: "Gaming to the rescue!"
+- title: "Is Space Sustainable?"
+  date: 2024-09-03
+  picture_path: assets/images/GrinCast9 Andrew Wilson cover.png
+  url: https://youtu.be/HCSQzyNzfkI?si=13rna6GZuaAR2EcU
+  transcript: assets/podcasts/GrinCast#9_Dr Andrew Wilson transcript.txt
+  short_url: podcast_ep9_Andrew_Wilson_sustainability_in_space
+  blurb: "Our environment extends beyond the planet"
