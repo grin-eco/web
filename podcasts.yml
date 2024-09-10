@@ -64,3 +64,10 @@ podcasts:
   transcript_descript: assets/podcasts/GrinCast#9_Dr Andrew Wilson transcript descript.txt
   short_url: podcast_ep9_Andrew_Wilson_sustainability_in_space
   blurb: "Our environment extends beyond the planet"
+- title: "30 Minutes for Greener Life"
+  date: 2024-09-10
+  picture_path: assets/images/GrinCast10 cover.png
+  url: https://youtu.be/MuiUdTSvI4A?si=8fgmZ1pu7yC7QC0g
+  transcript_descript: assets/podcasts/GrinCast#10 Heather White transcript.txt
+  short_url: podcast_ep10_Heather_White_greener_life
+  blurb: "The World Happiness Summit, fighting eco-anxiety and bursting the bubble"
