@@ -78,4 +78,10 @@ podcasts:
   transcript_descript: assets/podcasts/GrinCast11 transcript Olga Murray.txt
   short_url: podcast_ep11_Olga_Murray_optimism_can_save_our_sanity
   blurb: "Who says being smug is a bad thing?"
-  
+- title: "You Are What You Wear"
+  date: 2024-09-24
+  picture_path: assets/images/GrinCast12 cover Mikael Hietala.png
+  url: https://youtu.be/tzoOYw31qn4
+  transcript_descript: assets/podcasts/GrinCast12 transcript Mikael Hietala.txt
+  short_url: podcast_ep12_Mikael_Hietala_fast_fashion
+  blurb: "Pineapple shoes for the win!"  
