@@ -85,3 +85,10 @@ podcasts:
   transcript_descript: assets/podcasts/GrinCast12 transcript Mikael Hietala.txt
   short_url: podcast_ep12_Mikael_Hietala_fast_fashion
   blurb: "Pineapple shoes for the win!"  
+- title: "IT Needs to Evolve"
+  date: 2024-10-08
+  picture_path: assets/images/GrinCast13 Pini cover.png
+  url: https://youtu.be/sHYAvwt8qzo?si=4tS4Y7xsvq4aHewY
+  transcript_descript: assets/podcasts/GrinCast13 transcript - Pini Re_zniq & Serini.txt
+  short_url: podcast_ep13_Pini_Reznik_IT_needs_to_evolve
+  blurb: "It's time to learn how to fly!"
