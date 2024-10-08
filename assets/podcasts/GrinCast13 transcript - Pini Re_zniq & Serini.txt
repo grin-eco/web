@@ -1,8 +1,3 @@
-GRIN - Pini Re:zniq &amp; Serini
-===
-
-[00:00:00] Rrrrrrrrrrrrrrrrrrrrrrrrrr
-
 [00:00:05] Pini Reznik: Hello everyone, welcome to another episode of Grin.eco Podcast. My name is Sara, I'm the co founder and today my guest is Pini, the CEO and co founder at re:cinq. How are you doing Pini? Oh, I'm good. Thank you for invitation. Great to have you here. So before we begin, I would like to ask you about your background, you are the CEO, but you're also a speaker about sustainability in IT. So I'd like to ask you a little bit about yourself. So I'm coming from technology. I finished my computer science degree in end of nineties. So doing it for a while. software development, infrastructure last 10 years before re:cinq, I was co founder and, CTO and all kind of other positions in container solutions, which is cloud native consultancy.
 
 [00:00:50] Sara Pawlikowska: And I also wrote a book, behind me called Cloud Native Transformation, for O'Reilly. So basically I'm a software [00:01:00] engineer, and moving from engineering into sustainability these days with re:cinq. So then what is the mission of re:cinq? 
