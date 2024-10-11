@@ -1,16 +1,16 @@
-# \# “The Planet Remade: How Geoengineering Could Change the World” by Oliver Morton
+# “The Planet Remade: How Geoengineering Could Change the World” by Oliver Morton
 
-\[//\]: \# (title:The Planet Remade: How Geoengineering Could Change the World)  
-\[//\]: \# (author:Oliver Morton)  
-\[//\]: \# (summary\_author:Sara Pawlikowska)  
-\[//\]: \# (date:2024-10-15)  
-\[//\]: \# (picture\_path:./assets/images/the planet remade cover.png)
+[//]: # (title:The Planet Remade: How Geoengineering Could Change the World)  
+[//]: # (author:Oliver Morton)  
+[//]: # (summary\_author:Sara Pawlikowska)  
+[//]: # (date:2024-10-15)  
+[//]: # (picture\_path:./assets/images/the planet remade cover.png)
 
-***\#\# Summary***
+## Summary
 
 "The Planet Remade: How Geoengineering Could Change the World" by Oliver Morton explores the concept of geoengineering—deliberately manipulating the Earth's climate to combat global warming. Morton examines various technologies and strategies, such as carbon dioxide removal and solar radiation management, which could be used to alter the climate. He delves into the scientific, ethical, and political challenges of these methods, addressing both their potential benefits and risks. Morton emphasizes that while geoengineering is not a perfect solution, it could be a necessary tool to mitigate climate change, complementing other efforts like reducing emissions.
 
-***\#\# Introduction: Two Questions***
+## Introduction: Two Questions
 
 Do you believe that climate change is serious enough to take action against it? Is it hard to rearrange the industrial economy to reach zero carbon dioxide emissions? 
 
@@ -28,16 +28,16 @@ In this book, the Earth is presented as a one big system. Humans have such a big
 
 This book serves to introduce us to the tools, which can be used to re-imagine and re-make the planet into an environment that promotes justice for all living creatures. Not only do we need the tools to do that, but also we need compassion to use them appropriately. We need science, politics and technology \- all combining their forces. It’s a planetary project. It’s “The Planet Remade”.
 
-\[//\]: \# (tag:climate risk)  
-\[//\]: \# (tag:fossil fuels)  
-\[//\]: \# (tag:energy)  
-\[//\]: \# (tag:wind turbine)  
-\[//\]: \# (tag:anthropocene)  
-\[//\]: \# (tag:science)  
-\[//\]: \# (tag:politics)  
-\[//\]: \# (tag:technology)
+[//]: # (tag:climate risk)  
+[//]: # (tag:fossil fuels)  
+[//]: # (tag:energy)  
+[//]: # (tag:wind turbine)  
+[//]: # (tag:anthropocene)  
+[//]: # (tag:science)  
+[//]: # (tag:politics)  
+[//]: # (tag:technology)
 
-***\#\# Chapter 1: The Top of the World***
+## Chapter 1: The Top of the World
 
 * Stratosphere is the most likely place for geoengineering to take place.  
 * Stratosphere has a volume of around 15 billion cubic kilometres.  
@@ -52,12 +52,12 @@ This is the ‘ozone layer’ that we all have heard about. However, it’s actu
 
 The ozone layer has never been very thick. However now it is getting even thinner. One thing that has been extremely harmful to it are chlorofluorocarbons (CFCs). CFCs have been used to cool fridges, contain hairsprays and many more. But once they raise to the stratosphere, they destroy ozone particles. With one CFC having the capacity to destroy 100,000 ozone particles.
 
-\[//\]: \# (tag:stratosphere)  
-\[//\]: \# (tag:ozone layer)  
-\[//\]: \# (tag:vitamin D)  
-\[//\]: \# (tag:chlorofluorocarbons)
+[//]: # (tag:stratosphere)  
+[//]: # (tag:ozone layer)  
+[//]: # (tag:vitamin D)  
+[//]: # (tag:chlorofluorocarbons)
 
-***\#\# Chapter 2: A Planet Called Weather***
+## Chapter 2: A Planet Called Weather
 
 * Earth is not fragile \- it’s been heritable for the last 4 billion years  
 * The clouds reflect 30% of the sunlight.  
@@ -71,15 +71,15 @@ Energy cannot be destroyed. But it can be turned from a form which can be used t
 
 Ever hear of ‘albedo’? Albedo is the property of a planet that describes the amount of sunlight it reflects back into space. The Earth’s surface receives more energy as infrared radiation from the sky above, than it does from the sunlight itself. The lower atmosphere also gets less heat from the sun than it does from the ground. It is very much the disproportion between the heat coming in and out that is the main underlying issue causing climate change.
 
-\[//\]: \# (tag:cloud)  
-\[//\]: \# (tag:sunlight)  
-\[//\]: \# (tag:engine)  
-\[//\]: \# (tag:photosynthesis)  
-\[//\]: \# (tag:infrared radiation)
+[//]: # (tag:cloud)  
+[//]: # (tag:sunlight)  
+[//]: # (tag:engine)  
+[//]: # (tag:photosynthesis)  
+[//]: # (tag:infrared radiation)
 
-***\#\# Chapter 3: Pinatubo***
+## Chapter 3: Pinatubo
 
-* *Mariner 9* was the first spacecraft to enter the orbit of Mars (1971).  
+* Mariner 9 was the first spacecraft to enter the orbit of Mars (1971).  
 * 1991 \- Mount Pinatubo eruption.  
 * 1992 \- biggest drop in stratospheric ozone levels ever recorded.  
 * Pinatubo bears \- polar bears that grew bigger due to cooler springs that led to more and longer-lived ice in Hudson Bay.
@@ -100,15 +100,15 @@ And yes, the hallmarks of climate change \- our beloved coral reefs and polar be
 
 While the polar bears grew stronger, the coral reefs were dying off. The post-Pinatubo cooling effects included changes in water circulation in the Red Sea, which in turn made algae and plankton bloom, while killing off coral reefs. 
 
-\[//\]: \# (tag:eruption)  
-\[//\]: \# (tag:volcano)  
-\[//\]: \# (tag:climate)  
-\[//\]: \# (tag:stratosphere)  
-\[//\]: \# (tag:ozone layer)  
-\[//\]: \# (tag:coral reef)  
-\[//\]: \# (tag:polar bear)
+[//]: # (tag:eruption)  
+[//]: # (tag:volcano)  
+[//]: # (tag:climate)  
+[//]: # (tag:stratosphere)  
+[//]: # (tag:ozone layer)  
+[//]: # (tag:coral reef)  
+[//]: # (tag:polar bear)
 
-***\#\# Chapter 4: Dimming the Noontime Sun***
+## Chapter 4: Dimming the Noontime Sun
 
 * Researcher David Keith, a name you want to know in the climate geoengineering field.  
 * It takes about 70 kilowatt-hours of energy to lift a tonne of anything into the stratosphere.  
@@ -131,13 +131,13 @@ Why NOT to fire up a volcano list:
 
 The fact that there is more than one point on the list is already concerning, but we’ll move on.
 
-\[//\]: \# (tag:stratosphere)  
-\[//\]: \# (tag:chemtrails)  
-\[//\]: \# (tag:volcano)  
-\[//\]: \# (tag:jet)  
-\[//\]: \# (tag:balloon)
+[//]: # (tag:stratosphere)  
+[//]: # (tag:chemtrails)  
+[//]: # (tag:volcano)  
+[//]: # (tag:jet)  
+[//]: # (tag:balloon)
 
-***\#\# Chapter 5: Coming to Think This Way***
+## Chapter 5: Coming to Think This Way
 
 * Sydney Chapman was the first to explain the science behind the ozone layer in the 1930s.  
 * Term ‘geoengineering’ appeared for the first time in a paper published in *Climatic Change* in 1977 (by Cesare Marchetti).  
@@ -157,12 +157,12 @@ H. G. Wells took it a step further, entertaining the thought of this alien cultu
 
 Was it very scientific? Not really, but it was fun for sure\!
 
-\[//\]: \# (tag:nature)  
-\[//\]: \# (tag:Mars)  
-\[//\]: \# (tag:martians)  
-\[//\]: \# (tag:sci-fi)
+[//]: # (tag:nature)  
+[//]: # (tag:Mars)  
+[//]: # (tag:martians)  
+[//]: # (tag:sci-fi)
 
-***\#\# Chapter 6: Moving to Goalposts***
+## Chapter 6: Moving to Goalposts
 
 * The oceans on Earth are slightly alkaline.  
 * The Montreal Protocol, signed in 1987, is a global treaty to protect the stratospheric ozone layer.  
@@ -182,13 +182,13 @@ Come on now, how cool must that guy have been? I mean, if that’s what people w
 
 Crutzen argued in favour of the cooling sulphate aerosols, explaining that such action wouldn't potentially harm the precious ozone layer. Unfortunately, the stratospheric veil could never replace reducing carbon dioxide emissions in the first place. Nonetheless, the words spoken by such a highly respected figure were just enough to make geoengineering ever so slightly less politically suspicious.
 
-\[//\]: \# (tag:pH)  
-\[//\]: \# (tag:ozone layer)  
-\[//\]: \# (tag:ocean acidification)  
-\[//\]: \# (tag:stratosphere)  
-\[//\]: \# (tag:sulphate)
+[//]: # (tag:pH)  
+[//]: # (tag:ozone layer)  
+[//]: # (tag:ocean acidification)  
+[//]: # (tag:stratosphere)  
+[//]: # (tag:sulphate)
 
-***\#\# Chapter 7: Nitrogen***
+## Chapter 7: Nitrogen
 
 * Nitrogen is needed by all life on Earth.  
 * Nitrogen is the most abundant gas in the atmosphere.  
@@ -209,13 +209,13 @@ The game-changing discovery in the matter was provided by Fritz Haber, who came 
 
 The author of this book argues that given the scope of this innovation (more than a hundred million tonnes of nitrogen being fixed annually) makes it worthy of the term ‘geoengineering’. Partially because the danger was not obvious, however identifiable by experts \- a similar characteristic to climate change. 
 
-\[//\]: \# (tag:nitrogen)  
-\[//\]: \# (tag:ammonia)  
-\[//\]: \# (tag:fertiliser)  
-\[//\]: \# (tag:industrialisation)  
-\[//\]: \# (tag:wheat)
+[//]: # (tag:nitrogen)  
+[//]: # (tag:ammonia)  
+[//]: # (tag:fertiliser)  
+[//]: # (tag:industrialisation)  
+[//]: # (tag:wheat)
 
-***\#\# Chapter 8: Carbon Past, Carbon Present***
+## Chapter 8: Carbon Past, Carbon Present
 
 * Radioactivity was discovered in 1897\.  
 * 1920-1970, while oil production was growing by a factor of 10, its price dropped threefold.  
@@ -238,17 +238,17 @@ Now, humans add around 10 billion tonnes of carbon each year. This might not see
 
 Needless to say \- the balance is gone.
 
-\[//\]: \# (tag:radioactivity)  
-\[//\]: \# (tag:oil)  
-\[//\]: \# (tag:plant)  
-\[//\]: \# (tag:anthropocene)  
-\[//\]: \# (tag:industrial revolution)  
-\[//\]: \# (tag:carbon)  
-\[//\]: \# (tag:atmosphere)  
-\[//\]: \# (tag:biosphere)  
-\[//\]: \# (tag:ocean)
+[//]: # (tag:radioactivity)  
+[//]: # (tag:oil)  
+[//]: # (tag:plant)  
+[//]: # (tag:anthropocene)  
+[//]: # (tag:industrial revolution)  
+[//]: # (tag:carbon)  
+[//]: # (tag:atmosphere)  
+[//]: # (tag:biosphere)  
+[//]: # (tag:ocean)
 
-***\#\# Chapter 9: Carbon Present, Carbon Future***
+## Chapter 9: Carbon Present, Carbon Future
 
 * Hundreds of billions of tonnes of CO2 excess is present in our atmosphere.  
 * Energy and food supplies are the two giants in carbon emissions.  
@@ -272,15 +272,15 @@ If we wanted to encourage the ocean to absorb more carbon dioxide, we would need
 
 But this is heavy work requiring a lot of energy. If we were to use three billion tonnes of calcium oxide to take up a billion tonnes of CO2, we would need as much energy to produce it in a year as is the demand of the entire United Kingdom.
 
-\[//\]: \# (tag:carbon capture)  
-\[//\]: \# (tag:sequestration)  
-\[//\]: \# (tag:ocean)  
-\[//\]: \# (tag:photosynthesis)  
-\[//\]: \# (tag:alkaline)  
-\[//\]: \# (tag:UK)  
-\[//\]: \# (tag:calcium oxide)
+[//]: # (tag:carbon capture)  
+[//]: # (tag:sequestration)  
+[//]: # (tag:ocean)  
+[//]: # (tag:photosynthesis)  
+[//]: # (tag:alkaline)  
+[//]: # (tag:UK)  
+[//]: # (tag:calcium oxide)
 
-***\#\# Chapter 10: Sulphur and Soggy Mirrors***
+## Chapter 10: Sulphur and Soggy Mirrors
 
 * Volcanoes and plankton are the natural sources of sulphur in the atmosphere.  
 * The global temperature has been increasing consistently since the mid-1970s.  
@@ -298,15 +298,15 @@ The role of various aerosols in climate change is quite difficult to measure. So
 
 Rough calculations, however, suggest that there is an overall cooling influence. Which could be anything from 0.1 to 1.9 watts per square metre. This means that either very little, or more than half of carbon dioxide induced warming is being masked by cooling caused by aerosols. 
 
-\[//\]: \# (tag:cloud)  
-\[//\]: \# (tag:sulphur)  
-\[//\]: \# (tag:plankton)  
-\[//\]: \# (tag:dry ice)  
-\[//\]: \# (tag:sulphate)  
-\[//\]: \# (tag:cooling)  
-\[//\]: \# (tag:silver iodide)
+[//]: # (tag:cloud)  
+[//]: # (tag:sulphur)  
+[//]: # (tag:plankton)  
+[//]: # (tag:dry ice)  
+[//]: # (tag:sulphate)  
+[//]: # (tag:cooling)  
+[//]: # (tag:silver iodide)
 
-***\#\# Chapter 11: The Ends of the World***
+## Chapter 11: The Ends of the World
 
 * A nuclear war could decrease the ozone layer by two thirds over the northern hemisphere.  
 * In 1945, the first programmable computer was given its first problem \- a simulation of a hydrogen bomb.  
@@ -324,13 +324,13 @@ Melting the Arctic’s ice to flood New York and many other apocalyptic visions.
 
 The point here though, is not to scare you off. It just goes to show that fear of the world as we know it ending has always been there. For different reasons, some of which are more justified than others. Geoengineering also comes with various concerns, but not without hope.
 
-\[//\]: \# (tag:asteroid)  
-\[//\]: \# (tag:nuclear war)  
-\[//\]: \# (tag:flood)  
-\[//\]: \# (tag:hydrogen bomb)  
-\[//\]: \# (tag:apocalypse)
+[//]: # (tag:asteroid)  
+[//]: # (tag:nuclear war)  
+[//]: # (tag:flood)  
+[//]: # (tag:hydrogen bomb)  
+[//]: # (tag:apocalypse)
 
-***\#\# Chapter 12: The Deliberate Planet***
+## Chapter 12: The Deliberate Planet
 
 The previous chapter showed how easily we give in to the negativity and accept the thoughts of distraction. But in this very last chapter of the book, we take a more positive spin, looking into the future with hope. 
 
@@ -344,6 +344,6 @@ Of course, some people would agree that this engineering is helpful and enriches
 
 Just something to think about.
 
-\[//\]: \# (tag:future)  
-\[//\]: \# (tag:hope)  
-\[//\]: \# (tag:geoengineering)
+[//]: # (tag:future)  
+[//]: # (tag:hope)  
+[//]: # (tag:geoengineering)
