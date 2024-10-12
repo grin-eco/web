@@ -2,9 +2,9 @@
 
 [//]: # (title:The Planet Remade: How Geoengineering Could Change the World)  
 [//]: # (author:Oliver Morton)  
-[//]: # (summary\_author:Sara Pawlikowska)  
+[//]: # (summary_author:Sara Pawlikowska)  
 [//]: # (date:2024-10-15)  
-[//]: # (picture\_path:./assets/images/the planet remade cover.png)
+[//]: # (picture_path:./assets/images/the planet remade cover.png)
 
 ## Summary
 
