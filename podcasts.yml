@@ -113,3 +113,10 @@ podcasts:
   transcript_descript: assets/podcasts/Hannah transcript.txt
   short_url: podcast_grinner2024_hannah_scott
   blurb: "Using the ecosystem approach for global leadership"
+- title: "Grinner 2024: Sustainability in E-commerce with Jack Linnett"
+  date: 2025-03-01
+  picture_path: assets/images/Jack.png
+  url: https://youtu.be/aByq3ia2VS8
+  transcript_descript: assets/podcasts/Jack Linett transcript.txt
+  short_url: podcast_grinner2024_jack_linnett
+  blurb: "Turning intent into action"
