@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+
+<html lang="en-us">
+
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-NJD1LDNDZM"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-NJD1LDNDZM');
+    </script>
+
+    <meta charset="utf-8">
+    <title>Grin.eco - climate change: learn, act, share</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+    <meta name="description" content="This is meta description">
+    <meta name="author" content="Themefisher">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="assets/favicon/site.webmanifest">
+
+    <!-- # Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap" rel="stylesheet">
+
+    <!-- # CSS Plugins -->
+    <link rel="stylesheet" href="plugins/slick/slick.css">
+    <link rel="stylesheet" href="plugins/font-awesome/fontawesome.min.css">
+    <link rel="stylesheet" href="plugins/font-awesome/brands.css">
+    <link rel="stylesheet" href="plugins/font-awesome/solid.css">
+
+    <!-- # Main Style Sheet -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<!-- NAVIGATION -->
+<header class="navigation bg-tertiary">
+    <nav class="navbar navbar-expand-xl navbar-light text-center py-3">
+        <div class="container">
+            <a class="navbar-brand" href="https://www.grin.eco/">
+                <img loading="prelaod" decoding="async" class="img-fluid" src="assets/images/logo_small.png" alt="Grin.eco">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
+                    
+                    
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://grin.eco">Home</a>
+                    </li>
+                    
+                    
+                    
+                    <li class="nav-item">
+                        <a class="nav-link" href="podcast">Podcast</a>
+                    </li>
+                    
+                    
+                    
+                    <li class="nav-item">
+                        <a class="nav-link" href="books">Books</a>
+                    </li>
+                    
+                    
+                    
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://grin.beehiiv.com/">Blog</a>
+                    </li>
+                    
+                    
+                    
+                    <li class="nav-item">
+                        <a class="nav-link" href="tags">Lexicon</a>
+                    </li>
+                    
+                    
+                </ul>
+                <a href="https://grin.beehiiv.com/subscribe" class="btn btn-primary ms-2 ms-lg-3">Subscribe</a>
+            </div>
+        </div>
+    </nav>
+</header>
+
+
+<!-- CONTENT -->
+
+
+<!-- PODCAST -->
+<div class="section">
+    <div class="container">
+        <div class="row justify-content-center">
+        <div class="col-lg-10">
+            <div class="mb-5">
+                <h2 class="mb-4" style="line-height:1.5">Grinner 2024: Scaling Solutions Fast with Hannah Scott</h2>
+                <time datetime="2025-02-28">February 28 2025</time>
+            </div>
+            <div class="content">
+            <!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
+            <style>
+                .videoWrapper {
+                    position: relative;
+                    padding-bottom: 56.25%;
+                    /* 16:9 */
+                    padding-top: 25px;
+                    height: 0;
+                }
+                .videoWrapper iframe {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                }
+            </style>
+            <div class="videoWrapper">
+                <div id="player"></div>
+            </div>
+            <!-- 2. Some funky code to stitch it together -->
+            <script>
+                var transcript = [];
+
+// 2. This code loads the IFrame Player API code asynchronously.
+var tag = document.createElement('script');
+
+tag.src = "https://www.youtube.com/iframe_api";
+var firstScriptTag = document.getElementsByTagName('script')[0];
+firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+// 3. This function creates an <iframe> (and YouTube player)
+//    after the API code downloads.
+var player;
+function onYouTubeIframeAPIReady() {
+  player = new YT.Player('player', {
+  //   height: '390',
+  //   width: '640',
+    videoId: 'eKcQG8m0WZw?si=S3S2sNj70PU9ZNRQ',
+    playerVars: {
+      'playsinline': 1
+    },
+    events: {
+      'onReady': onPlayerReady,
+      // 'onStateChange': onPlayerStateChange
+    }
+  });
+}
+
+// 4. The API will call this function when the video player is ready.
+function onPlayerReady(event) {
+  console.log("Player ready");
+  var sec = Number(location.href.split("#")[1]);
+  if (sec){
+    player.seekTo(sec, true);
+  }
+  player.playVideo();
+  highlightParagraph();
+}
+function findParagraph(sec){
+  var prev = transcript[0];
+  for (var i = 0; i < transcript.length; i++) {
+    var paragraph = transcript[i];
+    if (sec >= paragraph.timestamp_s){
+      prev = paragraph;
+    } else {
+      prev.end_s = paragraph.timestamp_s;
+      prev.lenght_s = paragraph.timestamp_s - prev.timestamp_s;
+      break
+    }
+  }
+  return prev;
+}
+function seek(sec){
+  if(player){
+    player.playVideo();
+    player.seekTo(sec, true);
+  }
+  console.log(findParagraph(sec));
+}
+var prevParagraph;
+function highlightParagraph() {
+  if (!player){
+    return;
+  }
+  var currentTime = player.getCurrentTime();
+  if (!currentTime){
+    return;
+  }
+  var currentParagraph = findParagraph(currentTime);
+  if (currentParagraph !== prevParagraph){
+    prevParagraph = currentParagraph;
+    Array.from(document.getElementsByClassName("transcript-paragraph")).forEach((e) => {
+      e.classList.remove('text-white');
+      e.classList.remove('bg-success');
+    });
+    var body = document.getElementById("body-"+currentParagraph.timestamp_s);
+    body.classList.add('text-white');
+    body.classList.add('bg-success');
+    console.log(currentParagraph);
+    var header = document.getElementById(""+currentParagraph.timestamp_s);
+    //header.scrollIntoView({behavior: "smooth"});
+  }
+}
+time_update_interval = setInterval(highlightParagraph, 1000);
+            </script>
+
+            
+            </div>  
+        </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<!-- FOOTER -->
+<footer class="section-sm bg-tertiary">
+	<div class="container">
+		<div class="row justify-content-between">
+
+
+			<div class="col-lg-2 col-md-4 col-6 mb-4">
+				<div class="footer-widget">
+					<h5 class="mb-4 text-primary font-secondary">Grin.eco</h5>
+					<ul class="list-unstyled">
+            
+            
+						<li class="mb-2">
+              <a href="https://grin.eco">Home</a>
+						</li>
+            
+            
+            
+						<li class="mb-2">
+              <a href="podcast">Podcast</a>
+						</li>
+            
+            
+            
+						<li class="mb-2">
+              <a href="books">Books</a>
+						</li>
+            
+            
+            
+						<li class="mb-2">
+              <a href="https://grin.beehiiv.com/">Blog</a>
+						</li>
+            
+            
+            
+						<li class="mb-2">
+              <a href="tags">Lexicon</a>
+						</li>
+            
+            
+					</ul>
+				</div>
+			</div>
+
+		</div>
+		<div class="row align-items-center mt-5 text-center text-md-start">
+			<div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
+				<ul class="list-unstyled list-inline mb-0 text-lg-center">
+					<!-- <li class="list-inline-item me-4"><a class="text-black" href="privacy-policy.html">Privacy Policy</a>
+					</li>
+					<li class="list-inline-item me-4"><a class="text-black" href="terms.html">Terms &amp; Conditions</a>
+					</li> -->
+				</ul>
+			</div>
+			<div class="col-lg-4 col-md-6 text-md-end mt-4 mt-md-0">
+				<ul class="list-unstyled list-inline mb-0 social-icons">
+					<li class="list-inline-item me-3"><a title="Linkedin Profile" class="text-black" href="https://www.linkedin.com/company/grin-eco"><i class="fab fa-linkedin"></i></a>
+					</li>
+					<li class="list-inline-item me-3"><a title="Facebook Profile" class="text-black" href="https://www.facebook.com/profile.php?id=100095805871033"><i class="fab fa-facebook-f"></i></a>
+					</li>
+					<li class="list-inline-item me-3"><a title="Instagram Profile" class="text-black" href="https://www.instagram.com/grin.eco1/"><i class="fab fa-instagram"></i></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</footer>
+
+
+<!-- # JS Plugins -->
+<script src="plugins/jquery/jquery.min.js"></script>
+<script src="plugins/bootstrap/bootstrap.min.js"></script>
+<script src="plugins/slick/slick.min.js"></script>
+<script src="plugins/scrollmenu/scrollmenu.min.js"></script>
+
+<!-- Main Script -->
+<script src="js/script.js"></script>
+
+</body>
+</html>
