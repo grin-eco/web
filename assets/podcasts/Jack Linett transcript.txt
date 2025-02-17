@@ -1,0 +1,91 @@
+4
+===
+
+[00:00:00] hopefully, I think everything that we've talked through here should lead into what I'm going to go through as well, which will start to bring in what we do at Earthmark and ultimately how this might start to play into day to day and consumer behavior.
+
+[00:00:14] So that's where I'll focus. this talk for the next 10 minutes. I've got 8 slides as well. I think always useful to know,how many sites to get through. So think about 10 minutes and 8 slides. Yeah, as I say, I want to focus on. how sustainability looks in e commerce specifically, so people buying and selling.
+
+[00:00:33] and this is very much about industry and starting to bridge the gap between intent and action And exactly what oliver was going through earlier in terms of those, fight flight and freeze That's exactly what we do see in the market. So we'll go into why that might be just first of all just to introduce myself.
+
+[00:00:52] I'm jack. I'm co founder at Earthmark. we did start out on the Cambridge side of things. So apologies, Hannah, [00:01:00] but it sounds like you've got a nice friendly relationship with them. our idea and ultimately our business spun out of Carbon 13, which is a venture builder for specifically, focused on the climate emergency.
+
+[00:01:13] it was, yeah, really something that helps us build the business, form a team, and build something around what was just an idea. And just to touch on the idea and how we came about, it was from a massive frustration that from one side, hearing all about the doom and gloom, and I put this on the chat in terms of maybe some of the cynicism that surrounds the climate, and definitely there's a feeling of, What can we do about it?
+
+[00:01:38] but then not really knowing where to turn. And so our first idea was very much looking at from a consumer perspective. How can I see? the best thing for me to do as an individual, whether that's to get from A to B, shop with certain businesses, where to get my lunch from. and that's where we landed on.
+
+[00:01:55] The premise of Earthmark was actually it's very difficult to look at, [00:02:00] what, which businesses are doing what, and what that all means. So we'll come on to that. We're also part of the Green Tech Alliance as well. And I think these communities, and, brought to life as well with Grin Eco, are exactly what will help us drive us forward.
+
+[00:02:15] yeah, first of all, Let's look at, global greenhouse gas emissions. So just overall, we know the picture. there's various sort of makeups of what contributes to emissions, from power to industry to transport buildings, et cetera. I am going to double down on industry, which is the joint third biggest contributor.
+
+[00:02:37] So businesses and consumers, and the role that they play in all of this.
+
+[00:02:44] So if we look at I guess the end to end, industry through to The back end supply chain, so logistics packaging waste returns Through to businesses themselves. So looking at targets, and [00:03:00] goals the challenges that they have with operational efficiency and the goals tying those to where they want to get to and then through to consumers as well, so We know that there is a growing trend of Ito conscious consumers and conscious consumerism, but all of this put together is quite a confusing landscape at the minute.
+
+[00:03:20] And we've got the demands on the backend supply chain. When it, when we look at free returns, fast shipping, people expect things next day, if not sooner, companies are expected to set targets and to communicate those, to be held accountable. and again, from a consumer's perspective, All of this wraps itself up into quite a complex, noisy space.
+
+[00:03:48] ultimately plays into where there is a big gap. And this gap exists between what people say and what people would like to do. for example, yes, of course, I'd like to act [00:04:00] more sustainably. Yes, I'd like to take actions. Yes, I'd like to shop with brands that are taking the climate crisis seriously. But then in reality, when it happens, when we have our busy days, when we have our commutes, when we have our jobs to do the action, and just sticking with what we know.
+
+[00:04:17] And so we know that this gap is there, and that's something that we really dug into. And I think there's a couple of things that really stand out, and that's how confusing things are. So there are hundreds, if not thousands of different standards, guidelines. Eco labels and certifications. and also there is a perception that going green is Potentially still quite a niche thing that can be hard.
+
+[00:04:44] It can be expensive And so what i'm going to try and bring to life here is something that we've observed and we have, you know built ultimately our business earthmark around this is a model that I don't know i'll maybe google this afterwards to see if It's [00:05:00] been used as an analogy before but i'd like to use this as when shit hits the fan ultimately, so What the trust crisis and we spoke about different crises earlier on oliver touched on this and the trust crisis was just another one of these if we think around the sort of 2000s to up to probably about 2000 20 20 There was this big problem where ultimately e commerce was introduced.
+
+[00:05:27] So businesses starting to go online the high street suffering and then suddenly overnight, you know this massive tech innovation Which is blowing into the market this was hugely disruptive. So we know the age old example with amazon and bookstores that really starts to bring it to life but if we look at it These discoveries, whether it's a science or a tech discovery, and we're seeing similar with AI as well at the minute, these are ushered into the market.
+
+[00:05:59] And [00:06:00] what we start to see is a feedback loop. So consumers often, are the people that pick this up. They start to generate demands. the interest ultimately comes from them. businesses. Start to switch on and be alert to the fact that actually there could be a market. There might be some money to be made here.
+
+[00:06:19] and then this goes from business starting to be set up, deliver products and services. There's then this fee consumers start to prefer. So the starts gaps in the market and then eventually government ushers in guidelines, rules, regulations of sorts. So this is generally, if we think about a few examples, how.
+
+[00:06:41] start to look at a very simplistic level with the trust example there that I started off with. yes, it was easy overnight to shop anywhere with anyone, and ultimately disrupted the whole way that we buy and sell. But it wasn't without its [00:07:00] problems. So we know that again, as part of this loop, things started to come up where it was tricky to make sure that people were getting a fair deal.
+
+[00:07:09] so there would be ways that businesses could start to boost prices. We've heard about surcharges at certain times, products being maybe, positioned as something that they're not, the delivered product being very different, exaggerated marketing claims. opaque business practices and also the high profile scandals that we've seen the likes of Enron with the financial crisis, VW with the emissions scandal.
+
+[00:07:35] All of these things ultimately as part of this loop have eroded. Consumer trust. and then as part of that, we started to see answers to this. So answers from a business side. So the likes of, trust pilots, FIBO, Google reviews, trip advisor, they were all born in this period. And this is, no coincidence.
+
+[00:07:57] There was a big demand for who [00:08:00] people should trust, who, we want to hear from our peers and from random as did they, like the product they got. Did they think it was worth it and a valuable deal? And then GDPR came in. So from a government perspective, this wasn't the only example, but this was one of the involvements that governments had.
+
+[00:08:20] So looking at, and this was across Europe, how consumers data is handled and how and what businesses can do with that. So let's look at all of those lessons that we've learned with various discoveries, and especially trust and associate that to the climate crisis. So climate again, as a, science, scientific discovery that started obviously ages ago, that we are.
+
+[00:08:44] In this man made, climate crisis, and then ultimately came to fruition with, the government intervention around 2016 with the Paris Agreement, where the market starts to, I'd say sit up and listen, but starts to at least react and [00:09:00] respond in some ways. And I think we did start off with quite a niche audience with this.
+
+[00:09:07] If we think back to. around 2020 and maybe just after the Paris agreement. In fact, so even earlier, there was an effect of, consumer consumers looking at climate and the climate crisis as being quite pigeonholed into a niche bunch of people, maybe recycling doing what they could with reusable cups and bottles in offices.
+
+[00:09:28] But ultimately this then started to wrap itself up into. Businesses switching on, setting up ESG and CSR teams, and then into more certifications, the likes of B Corp, Good Shopping Guide, and other directories coming up to try and help people understand more about the landscape. and then through to some of the regulations that we see today.
+
+[00:09:52] that will start to mandate that businesses must disclose their non financial information and their [00:10:00] environmental data. So all of this, again, as part of this loop, there's this huge demand for transparency, for consumer trust, and building those relationships between businesses and consumers. that's what makes the market go round.
+
+[00:10:16] There have, of course, been, bumps in the road. greenwashing incidents that have knocked confidence in claims. The likes of H&amp; M's Conscious Collection has come under fire. HSBC was another example. and we are now in this space where, yes, this fan has maybe had to work overtime. but As we continue to go through this site, we're getting into a clearer space where we're starting to see the businesses that are driving change, and starting to lead that transition and we spoke earlier about how 2050 could look, let's look at this cycle as getting into that and really starting to get into the right gear.
+
+[00:10:58] Some of the examples, just [00:11:00] to flag as well, and just to bring this to life. So Patagonia has already got a shout out. We know that they do lead by example. They're committed to reducing emissions, but also creating this circular economy within the fashion industry. IKEA. They've committed to becoming climate positive, and by 2030, so really quite a snappy tarp there.
+
+[00:11:23] Canon, they have already reduced emissions, so yes, targets are very nice, but they're able to say since 2010 in their example, they've reduced scope one and two emissions by 50 percent. and Fraser's group, If people have heard of Fraser's Group, they own Sports Direct, JD, House of Fraser, so a big name in retail.
+
+[00:11:44] recently committed to SBTI, Science Based Targets Initiative. Again, yes, this is a future commitment, so that accountability does come into play, but they're aiming to decarbonize their supply chain. And ultimately, this whole [00:12:00] picture if we look at the number of B Corps has risen dramatically, tripled in the last few years, and the same with those companies that disclose their environmental data as well.
+
+[00:12:14] And this is really where Earthmark comes into play. and when, we've heard before from Oliver in terms of helping businesses sharetheir environmental performance and be proud about the work that they're doing ultimately I think this is a big part of the solution so at earthmark what we do is to say yes, there are hundreds thousands of Certifications standards eco labels we aggregate those that are relevant.
+
+[00:12:39] we contextualize it We look at businesses size and sector, so that it's easy to compare apples for apples, and create this one to five score. So very much, a trust pilot for the climate that gives one place,to compare performance.and then we basically deliver these APIs in places that people browse, shop, [00:13:00] compare,certainly for me, I don't know about you, but if I'm looking online for the best deal, if I'm shopping, if I'm looking for a new insurance deal, whatever it may be, I do like to do that through sites that I already trust.
+
+[00:13:13] And that is our model is to plug into those and that's allowed us as Earthmark to, as we just enter our 3rd year, reach millions of consumers, have partnerships with, the independent Samsung O2, some of the names on the screen, and deliver about 8, 000 earthmarks into the public eye at the minute.
+
+[00:13:34] And all of this, I've got a background in product and partnerships. I think we can talk to a blue in the face about You know doing as much as we can and doing the right thing and doing good But we're I guess big into showing the business case back to marketplaces comparison sites and brands And so yeah again just to reinforce I guess the three big things that we're looking to deliver here it's [00:14:00] transparency so people can shop with the environment in mind use purchasing power to drive that change the accountability so it's easy to compare businesses performance.
+
+[00:14:10] and businesses then have the incentive to, lead the pack and start to capture more market share, start to get this growing audience of eco conscious consumers on. They can quite easily see the business case stack up on. That is everything I wanted to go through. Thanks for listening.
+
+[00:14:34] Thank you so much, Jack. Are there any questions? Yeah,
+
+[00:14:48] thanks Jack. That was super interesting. it was just a question, about, yeah, about Earthmark. So am I understanding correctly that it's how do I put this? it's, you're [00:15:00] trying to assess like all consumer brands rather than being a marketplace for eco brands in particular, because I know that there's another company.
+
+[00:15:09] Whose name has completely escaped me founded by a guy called thomas panton. You've probably seen him on linkedin or something. Yeah I know thomas's name but not his company that shows how good his linkedin following is actually he's got a very good post Yeah And then Ethical Superstore as well is another sort of, eco consumer facing platform.
+
+[00:15:29] But it's correct to say that yours is more like, it's all of them. This is how you make a decision as a consumer based on our, rating scheme. That's it. Yeah. Yeah. So probably a couple of things to flag in that. it's, behavior and I guess a UX would be the first thing. So the belief that, people go to their trusted sites, their comparison sites, their marketplaces.
+
+[00:15:50] So first of all, you'll see earthmarks there. So embedding into those journeys to make it just as simple to look at product reviews and trust as it is to look at [00:16:00] environmental performance, rather than having to go to earthmark. io or, a directory separately before you do that. and the other thing is Yeah, that's your point.
+
+[00:16:10] This is not just earth not highlighting Audited or accredited or certified brands. This is us using as much public data as we can get hold of plus, we do have partnerships with smp global to try and get a big a bit more behind those pay walls but to show The picture for all brands naturally it has started in fmcg and consumer goods And retail just by nature of brands that we've been asked to providebut yeah, and really the point of that is What about non b corps?
+
+[00:16:44] What about these brands that haven't been through certification processes? Doesn't always mean that they're not bothered They're not Prioritizing this. So yeah, cool. And do you see there being a potential threat with [00:17:00] greenwashing like obscuring the data like purity that you use or is that is there a way around that?
+
+[00:17:08] Yeah, no good question. so yeah, we're obviously also trying to handle it in the right way with brands green hushing So I think there is a sort of balance to get where we encourage brands to do as much as they can and communicate it but from the greenwashing perspective be able to point to very clear data And again that data would have to be publicly available relative to their size and sector published in the public eye So we have Yeah, means to make sure that we can get around that.
+
+[00:17:38] but yeah, exactly the right point. It's how do we, deliver a simplified view, but still have the right data integrity. Yeah. Okay, thank you so much. Thank you, Jack. And I think that brings us to the end of the event today. Thank you so much for joining. 
+
