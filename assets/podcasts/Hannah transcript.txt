@@ -1,0 +1,143 @@
+3
+===
+
+[00:00:00] Yeah, so I've just listed out some Climatec scale ups and stand ups there. but yeah, BrillPower, they do battery management systems. some of the problems nowadays, or identified, maybe future problems, is that batteries don't last forever. what do you do with leftover batteries?
+
+[00:00:15] BrillPower's solution is to have this sort of battery management system that helps individual cells within batteries speak to each other and operate separately of each other. So that if one cell the grades faster than others. That doesn't affect the overall batteries lifetime. So I think their battery management system is helping batteries to extend their lifetime by about 60 percent or something.
+
+[00:00:37] So it's pretty significant. And they received sort of significant investment from Barclays as a result of the power of their technology. universe is a company using, blockchain to create a really effective digital deposit scheme. So they've got these, reusable cups that have a barcode or like a QR code on [00:01:00] them, and they've got schemes set up at Blend and Palace in Oxfordshire and down at the Eden Project.
+
+[00:01:05] and actually what they're seeing, unlike other sort of. Return schemes where people forget that they've got their cups and they take them home with them, or they throw them in the wrong bin or whatever they've recently showcased on 100 percent return rate on those, returnable cups, which is amazing.
+
+[00:01:20] And so people are being incentivized cups. They pay a small deposit when they first get the cup. They get that deposit back at the end of the day. and all of the signage has been placed in such a way that it's making That behavior really easy for people to enact. So that's great. OTCU is a company that came out of Oxford University and they're working on sustainable aviation fuels A lot of the issues around current sort of staff or sustainable aviation fuels is that they are based on biofuels meaning that crops are being burnt to generate this aviation fuel Which is not necessarily sustainable when you think about the amount of land that is required to grow those crops And the amount of [00:02:00] competing sort of land use demands that we're going to see in the future to scale up agriculture to feed more humans because there will be more humans on the planet in years to come But also thinking about biofuel, but also thinking about expanded housing and expanded energy infrastructure So there's lots of things competing for land use space.
+
+[00:02:17] And so OCCU have developed this sort of really cool. Like catalysis process where they use carbon dioxide, combine it with hydrogen and renewable energy in order to produce a fuel that doesn't have a sort of climate harming element to it. and they've created a truly circular process, which is really cool.
+
+[00:02:36] And, they received. 20 million pounds worth of funding, or investment about two years ago, which is really significant. That was their sort of series a funding round, which for those not in the sort of, tech investment space is quite an early stage investment in the life of a company. And normally for a series a, you'll be raising between one and 10 million.
+
+[00:02:56] so the fact that they raised, 20 million was a really good sign that, [00:03:00] investors are interested in their technology and they now have a demonstrator site up on the Oxford airport and in the Humber region as well. and finally, I'll talk about Firm Tech. So they're based at Oxford Brookes University in their bio innovation hub on what they're doing is they're taking spent grain from the sort of brewery, sector and they're growing, Fungi on that grain and then using that fungi to develop a cheese alternative and the sort of usp if you like behind their technology is that unlike vegan cheese, which Doesn't really have a lot of protein in it mostly because it's mostly based on coconut oil or other Sort of alternatives with this process.
+
+[00:03:41] They actually can say that it has enough protein to classify it as a cheese product. And, actually tastes quite nice. I hate to be rude to vegan cheese, but they really have not cracked that market yet as far as I'm concerned. So this is a really welcome step in the right direction. But of course, there are lots of [00:04:00] challenges.
+
+[00:04:00] it's not plain sailing out there. a lot of the technologies that we need are called, I refer to deep tech. So these are, technologies that have, deep scientific and engineering expertise behind them. They're often solving a really complex problem. technically difficult problem.
+
+[00:04:17] and that often means that, for investors, you need to invest a lot of capital in them because they are hardware. they're not a software model. They're not a nice little app that when you scale it, it requires hardly any more money to scale. with these sort of companies, it's going to require a lot of money.
+
+[00:04:32] And so it's, putting off quite a few investors who are thinking, Oh, my return on investment is going to be rubbish in comparison. If I just invite invested in a nice app, that sort of, might make data more available or something like that. Obviously, both are really important.
+
+[00:04:46] And actually, software based solutions can really compliment and enhance hardware based solutions. but we're seeing, a bit of an uneven balance between sort of software investment and hardware investment at the moment. Venture [00:05:00] capital investment is not doing too well at the moment overall, so it's not just climate tech that's suffering, but we saw a real sort of boom in 2021 and actually that's really dropped off and we haven't really seen a strong resurgence since.
+
+[00:05:14] that's another issue because that kind of finance is really important We're seeing that london is still a center of gravity for climate tech investment Which is both great if you live in london, but less great if you live anywhere else and so I know a sort of few people up in glasgow in various like tech x accelerators Or centers up there that when they look for investment they travel down to london because there's hardly anything up where they are So that's a bit of an issue sort of Investment is not well spread across the UK.
+
+[00:05:42] and it's a common story, minority, ethnic people from, various backgrounds and female entrepreneurs, face bias continuously and difficulty raising capital, with, a tiny amount of investment actually going to firms with solely female owned, companies between 2013 and 2023.
+
+[00:05:59] so there's lots of [00:06:00] different problems. there's also issues in getting,test beds or places where you can pilot technologies, and recruitment for these companies, which often have, very specific engineering expertise requirements or coding or, other stuff like that.
+
+[00:06:12] It's quite difficult to recruit for that at the moment, so a lot of companies are struggling there. There's also this thing called the Valley of Death, which I won't dwell on too long, but it basically means that really early stage companies often get a lot of interest because they're developing something quite disruptive and interesting and exciting.
+
+[00:06:29] And the sort of seed stage and the series A stage, they get quite a lot of investment. But when it comes to the series B stage, which is really where you start ramping up production, That's really not getting enough investment, and it means that a lot of the really great technologies that we need is just dying early before they can really create mass scale impact.
+
+[00:06:47] so that's another challenge and emissions related relative to climate funding are out of kilter as well. So this is a study done by the Said Business School, which is the oxford sort of business school [00:07:00] based locally. and they've mapped out that when it comes to emissions, you can see that, even though the transport sector is about, maybe a little under,what's the words?
+
+[00:07:09] a fifth of, the total emissions profile in terms of the amount of funding that, transport gets, it's Huge EVs are a massive, space for investment at the moment, which is great because it is helping people move away from ICE vehicles. But there's also obviously a real issue around industry and food, agriculture and land use.
+
+[00:07:31] they're hardly getting any climate funding relative to the amount of, the emissions intensity of those sectors. And that's often because they're not seen as sexy as, EVs, or they're just more difficult to get a good return on investment. So there's all those various challenges.
+
+[00:07:48] And also working at a regional level is fine, but actually climate tech is really disaggregated. So I you've got a taste of it a bit earlier with the different sectors that I mentioned, Oxfordshire [00:08:00] companies represent, but yeah, climate tech can look super, super different. it can look like someone doing carbon sequestration.
+
+[00:08:06] It can look like someone who's created a data platform for water management. It can look like someone creating, I don't know, like a, like a hydrogen powered plane. It's very different. And it means that if you came to Oxfordshire and you said, show me all of your climate tech solutions, you wouldn't get the full picture because there are, Oxfordshire has specific, what's the word, expertise areas.
+
+[00:08:28] So we are good at automotive because of our background. we've got fusion, and we've got some good sustainable chemistry stuff, but there's probably other regions that have way more, indifferent. So you don't get the full picture in any one space, and we need more scale and ambition. we can't keep tinkering around the edges.
+
+[00:08:45] We can't keep just funding early stage stuff. We need to help things scale. And sometimes that means bringing in partners from outside of a region who could help get it to that next stage. We and our sister [00:09:00] network, Cambridge Cleantech co founded something called the Climate Tech Supercluster, and I'll go into,the thinking behind that.
+
+[00:09:07] this is a lovely map that sort of shows that in the sort of, northern European region, there's 50 percent of all of Europe's innovation output, specifically within this radius, which is a four hour train journey from London,there's a huge amount of stuff happening, and this is being deemed the sort of new Palo Alto and the Palo Alto region is actually over in the Bay Area over in San Francisco.
+
+[00:09:32] but this area here, this sort of collection of countries, so the UK and then looking at Paris, Brussels, Eindhoven, Rotterdam, Amsterdam, this area could be what people are deeming the new Silicon Valley for climate tech, because we have a huge amount of science and technology,focused universities, corporates,Innovation friendly government.
+
+[00:09:52] There's a lot happening here.and we've mapped out a little bit more about what that looks like in terms of climate tech here. So [00:10:00] you've got the golden triangle, which is a region designated as Oxford, London and Cambridge. This sort of like triangle of high economic output, lots of focus on R and D, but it's not just the golden triangle that we should be looking at.
+
+[00:10:13] There's stuff happening up at the University of Strathclyde. There's, stuff happening in Manchester. Sustainable Ventures, which is, an organisation that invests in climate tech and also houses it in a, a shared co working space. They've just opened a new centre in Manchester, having, had one in Westminster for several years.
+
+[00:10:30] and there's a bunch of stuff happening, around the rest of Northern Europe as well that I don't have time to fully go into, but this sort of visualises it for you. And so we've got this aim that by 2030, we're going to be the leading global ecosystem in climate tech, innovation, investment, and in carbon reduction.
+
+[00:10:48] And we have the sort of five key building blocks that are going to help us get there. So this is based on some research done by MIT. There was a guy called Dr. Phil Budden, who wrote a [00:11:00] paper around the sort of competitive advantage of ecosystem engagement. And he identified that if you want to accelerate an innovation ecosystem, you have to have innovators, universities, governments, corporates, and risk capital or investors.
+
+[00:11:17] And we have all of those in abundance. It's just that we're not necessarily talking to each other very well. so for example, Oxford and Cambridge don't talk to each other very well on the whole. they tend to keep their cards close to their chest because they're very competitive. So we, having had Brexit, we're not super communicative with the rest of Europe like we should be.
+
+[00:11:36] So again, we're trying to think about how do we reimagine our relationship with the rest of Europe, given that we have a lot to give and they have a lot to give and, sharing,Success stories and sharing, visibility of different technology solutions across that space would be really useful.
+
+[00:11:52] So we've come up with sort of a list of different things that we offer to try and help this region to accelerate the [00:12:00] development and deployment of climate technologies. So we have our, Like triannual technology showcase now. So next year, we'll have three big events in Amsterdam, London and in Paris that will help bring the sort of best climate tech startups and scale ups onto a stage to showcase what they're doing, as well as having roundtable discussions about some of the grand challenges that we're facing.
+
+[00:12:22] So how do we get to a net zero energy system? How do we accelerate the deployment of retrofit solutions? Lots of the other sort of like major sort of questions that we have around. How do you move a whole system towards becoming more sustainable, smart and equitable for all, and yeah, I'm not going to go into too much detail around the rest of it, but I'm aware that I'm.
+
+[00:12:44] Probably a little bit over time, but I'll just, focus on a few of our sort of partners that we've been working with. EDF have been backing us from the beginning. They really see this as an opportunity space for them, as an energy company. and so they've been working with us on a number of sort of energy focus [00:13:00] projects, and trying to understand what is out there in terms of energy innovation and energy technologies that's going to support them.
+
+[00:13:07] and then there's yeah, there's a bunch of other people that were involved in I won't talk to this slide too Much, but it's not just corporates. It's also venture builders it is, government partners. It is academia. It's lots of people who are interested in this space and just to a wrap up in terms of what we need to do we're aware that we'd like to attract even more investors to this region we know that they're out there but If we start telling this story about this being like the new Silicon Valley for climate technology, that will hopefully generate a lot of interest on the global stage and bring in some more serious money.
+
+[00:13:41] We have a bit of an issue in the UK in that we have quite a risk averse investment community, whereas in the States, they're quite happy to write. Pretty large checks for things. and they have a culture of failing fast and moving on to the next thing. Whereas in the UK, our culture is more like, Oh, I don't know.
+
+[00:13:59] That kind of [00:14:00] sounds interesting. Oh, I don't know whether we can pay that much money. Cause I don't know about a return on investment and they'll agonize thing over things for months and months. And in the meantime, that. small startup that, doesn't have great cash flow has probably died.
+
+[00:14:13] there's a sense of, we need to attract more serious investors to the region. We need to learn from other investment regions where they're they're failing fast. They're learning, they're getting back on the horse quicker. So that's one thing. More advocacy and visibility, telling our story better on the global stage.
+
+[00:14:26] You mentioned that already. Stronger partnership working. we, we believe in this sort of principle of co opetition. So that's like competitive collaboration or competitive cooperation, if you like. we know that the green economy, poses this massive opportunity for everyone. and we don't need to worry about the pie being split into small slices.
+
+[00:14:45] Like we need to think about how do we make the pie bigger so that people are happy to collaborate, understanding that there will be enough work out there for them. There will be enough to keep the lights on. We're also thinking about policy and how policy [00:15:00] can be changed and, and new policy introduced to help facilitate a better environment for startups to succeed in.
+
+[00:15:07] And we also want to find more opportunities, both with science parks, but also with corporate entities to like to give spaces to these early stage companies to prove their technologies work in the real world. And so I guess my final sort of plea is, if you know anyone who would be interested in partnering with us on this, whether that's large corporate companies who are interested in the climate technology space, who maybe have their own sort of big climate and sustainability goals, or, carbon reduction targets that will probably be impossible without some input from you.
+
+[00:15:39] Some, measure of innovation. let us know equally, I mentioned those five, five, sort of factors. We're looking for corporates, universities, governments, both the national level and at the sort of regional level, but all the investors and obviously the entrepreneurs. I will stop there.
+
+[00:15:56] and yeah, hopefully that was not too far [00:16:00] over my time limit apologies if it was No worries. Are you good? Thank you so much. Very interesting stuff. we have a couple of questions for you. What are the check sizes in clean tech as compared to other domains? Oh, that's a good question. So I wouldn't have those figures like off the top of my head I do have some reports that I could probably link to you link you to I would say that for things like quantum and ai the check sizes are unbelievably large and that's with like kind of technology.
+
+[00:16:32] That's not really proven whereas it seems like climate tech Entrepreneurs are having to fight a lot harder to justify themselves to investors. so I think, and it also depends, what stage each company is at. So if you're at the angel investment stage, you're probably looking at between 100, 000 up to 1 million's worth of funding.
+
+[00:16:52] Once you get to the next stage of series A, then you're looking at the 1 million to 10 million, stage, but these are kinds of like loosely [00:17:00] defined, sort of Transcribed Categories and actually what I was saying before about OXCCU, their series A raise was, 20 million, which is way above what a normal sort of series A would be.
+
+[00:17:10] It really depends. And I think that they were invested in by an American company. So that maybe does tell you something about their willingness to invest in something that they see a lot of potential in and to put a great deal of capital into it. So sorry, that's not a great answer, but hopefully it's something.
+
+[00:17:28] Thank you. Another question. Is academia a big part of the clean tech compared to industry?yeah. so we see universities as being the almost like the start of the sort of clean tech journey in many senses. So Oxford University is the biggest generator of startups in the university. So sorry, in the UK, they by far outrank all other university tech transfer offices in generating startups.
+
+[00:17:57] guys. And we are [00:18:00] seeing more and more of their startups having a focus on climate and environment. So they've got a sort of annual impact report that they released recently, and I think they've said that this was last year's report, actually, but 90 percent of all of their startups were focusing on at least one SDG.
+
+[00:18:18] and that trend is probably due to increase on that trend will probably be the same across lots of other universities. We do. We do try and make the point, though, that even though universities are generating a huge amount of clean tech innovation, it's not just about universities and actually, Oxfordshire in particular has a great number of, really cool science parks and business parks where people independent of the university ecosystem do come and do establish, a climate tech, related startup.
+
+[00:18:47] They do struggle. I think more than people who are within the very well financed confines of Oxford University. Oxford University has a huge budget for these things. They have a huge number of connections. [00:19:00] They're able to get, corporates and investors in the room that you might not otherwise get if you were outside of that ecosystem.
+
+[00:19:06] So that sense of like inequality is something that we're also working on at the moment because we want people to succeed regardless of whether they get the University of Oxford logo slapped on their sort of pitch deck or not. yeah. Thank you. And I think the last question for you, where does nature take into the ecosystem as part of climate tech or parallel group?
+
+[00:19:31] Yeah, it's a great question. and this is why sometimes naming things is can sometimes be a bit more annoying than it can be helpful. For me, I would say nature tech fits under climate tech, but then climate tech, lots of people. So I mentioned before, Climate tech has historically been seen as that just focus on climate.
+
+[00:19:50] So carbon specifically, or,I guess not just carbon, but climate related technologies. Nowadays, I think it's mostly understood that climate [00:20:00] tech has that broader. Umbrella under a definition. but sometimes people do draw out nature tech or agri tech as a useful distinction.
+
+[00:20:09] because the financing models are often quite different or the sort of, yeah, the capital implications are different or the technology implications. I personally find it easier to group everything under climate tech. but there will be people out there who will draw a distinction for those.
+
+[00:20:27] Thank you, Oliver. Do you have a question as well? Yeah. One of the problems I still often see for entrepreneurs is, and I would love to have your input on this, is that I have a feeling even though we have no impact BCs and impact angels and so on, quite often it's just like still the same scheme of hey, profitability is like what I'm gonna judge you on the most.
+
+[00:20:51] And yeah, it's nice if you have if you do something good. But it's not even close to be even, your feeling on that, because I often have the feeling [00:21:00] of you need to, we want to create impact first. And that's why a lot of us got into this game. but we can get forced to go the really profitability route, which I think it doesn't mean, I think profitability and impact can go hand in hand, but you also need to sometimes.
+
+[00:21:18] Optimize for the certain KPIs that you want to hit. And personally, I want to hit how much protected land I create, how much land I restore, how many species I reward. That's the KPIs that I want to optimize and the financial system, the business model that is just serving that purpose. But it's, I'm not in for I want to make billions and maybe I'm going to protect 100, 000 square meters and something like this.
+
+[00:21:43] But I feel like in the VC and then a lot of support systems, it's still very much on like profitability. Yeah. I think what I would say from having hosted a number of finance specific events is that the way VCs see it, [00:22:00] if it's impact first. Maybe we make a profit later. They're saying that's the realm of philanthropy.
+
+[00:22:06] that's not really our realm, which I don't necessarily agree with, it's, they're trying to be really realistic and they're saying ultimately we're investing, we expect to see a return on our investment, but it's not like for but maybe we will say, okay, fine. We're investing in something.
+
+[00:22:22] We might not get 10 X return, but maybe we would be accepting You know, 3X return. they might just, they might accept that their return on investment is slightly less, but they would still accept, they would still expect to see a return. Otherwise, they don't see that as a profitable company.
+
+[00:22:39] What we are seeing is that some, Climate tech startups are not even calling themselves climate tech startups anymore. And the reason behind that is because, they're just better than the alternative. So they're saying we don't even need to designate ourselves as climate tech startups. We are just a better technology.
+
+[00:22:55] Like it would not make, we don't have to put ourselves in a nice little box to make you think [00:23:00] that it's always about impact or, it's about being nice. Like we're just the right thing to do. So I think that has especially happened in the EV world where you know with EVs like the maintenance costs are far less you know the power you could generate like the sort of ease of charging if you have a home charger The sort of cost is that etc they're like we don't even need to worry about this like about trying to fit ourselves into this climate tech bubble because We're just a profitable company.
+
+[00:23:26] and I think that's probably like the VCs ideal, but there, there are VCs out there who are willing to accept less than they've historically invested in before. but I think they also expect. They also expect that company to have,de risked that investment by, maybe getting government grant funding as well.
+
+[00:23:45] by maybe multiple investors joining at the same funding round so that it's not all on the back of one. yeah, it's tricky, but I think what we're hearing from VCs at the moment is like, We have to make an investment a return on our investment. Otherwise, that's not investment.
+
+[00:23:59] That's [00:24:00] just philanthropy but We are interested in impact. We're not solely interested in profit. We do want to see the impact as well but it's more of a maybe it's still more of a skew towards a return on investment than impact per se so Yeah, that's how it is We found in that hannah as well.
+
+[00:24:20] I guess there's an element of risk reward, isn't there? So what is the risk of them not doing anything? So if their competitors are getting into the space and if they're not adopting the new technologies then There's an argument for market share starting to slip away and their cash cow starting to suffer So there's maybe that sort of yeah correlation with that as well Yeah, and actually thinking about it.
+
+[00:24:42] There is a an organization. There's a collection of people I know who are setting up an impact fund in Oxfordshire. And impact is going to be the driving factor. They're writing that into their terms of the fund. They've just got approval from whoever the fund [00:25:00] regulator is. And if it is successful, it will be quite revolutionary, I think, in its approach, because it is putting impact over profit first, so we'll see how that goes.
+
+[00:25:11] If they can create a blueprint for a fund which makes that work, then fantastic, let's celebrate that.
+
