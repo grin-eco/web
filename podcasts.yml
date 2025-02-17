@@ -92,3 +92,10 @@ podcasts:
   transcript_descript: assets/podcasts/GrinCast13 transcript - Pini Re_zniq & Serini.txt
   short_url: podcast_ep13_Pini_Reznik_IT_needs_to_evolve
   blurb: "It's time to learn how to fly!"
+- title: "Grinner 2024: Regenerating the Planet with Oliver Bolton"
+  date: 2025-02-17
+  picture_path: assets/images/Bolton.png
+  url: https://youtu.be/WYbKKdzjM50?si=odR6CjUvfDP1jZxy
+  transcript_descript: assets/podcasts/Oliver Bolton transcript.txt
+  short_url: podcast_grinner2024_oliver_bolton
+  blurb: "The Healing Power of Nature"
