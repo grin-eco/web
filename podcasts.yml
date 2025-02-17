@@ -106,3 +106,10 @@ podcasts:
   transcript_descript: assets/podcasts/Oliver Dauert transcript.txt
   short_url: podcast_grinner2024_oliver_dauert
   blurb: "What we can learn from Nature"
+- title: "Grinner 2024: Scaling Solutions Fast with Hannah Scott"
+  date: 2025-02-28
+  picture_path: assets/images/Hannah.png
+  url: https://youtu.be/eKcQG8m0WZw?si=S3S2sNj70PU9ZNRQ
+  transcript_descript: assets/podcasts/Hannah transcript.txt
+  short_url: podcast_grinner2024_hannah_scott
+  blurb: "Using the ecosystem approach for global leadership"
