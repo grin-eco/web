@@ -99,3 +99,10 @@ podcasts:
   transcript_descript: assets/podcasts/Oliver Bolton transcript.txt
   short_url: podcast_grinner2024_oliver_bolton
   blurb: "The Healing Power of Nature"
+- title: "Grinner 2024: Fixing the Polycrisis with Oliver Dauert"
+  date: 2025-02-25
+  picture_path: assets/images/Oliver.png
+  url: https://youtu.be/vXIdBRja5GU
+  transcript_descript: assets/podcasts/Oliver Dauert transcript.txt
+  short_url: podcast_grinner2024_oliver_dauert
+  blurb: "What we can learn from Nature"
